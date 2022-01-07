@@ -170,16 +170,16 @@ end
 //=========================================================================================================================================
 1
 //Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
-003            00             30         180            090            226          244          -1             25            //Spider
-002            00             30         180            090            226          244          -1             20            //Budge Dragon
-002            00             30         135            020            240          088          -1             20            //Budge Dragon
+003            00             30         180            090            226          244          -1             15            //Spider
+002            00             30         180            090            226          244          -1             10            //Budge Dragon
+002            00             30         135            020            240          088          -1             10            //Budge Dragon
 002            00             00         201            128            201          128          -1             10            //Budge Dragon
-000            00             30         135            020            240          088          -1             25            //Bull Fighter
-006            00             30         095            168            175          244          -1             20            //LIch
-014            00             30         095            168            175          244          -1             15            //Skeleton
-001            00             30         008            011            094          244          -1             25            //Hound
-004            00             30         008            011            094          244          -1             25            //Elite Bull Fighter
-007            00             30         008            011            060          080          -1             15            //Giant
+000            00             30         135            020            240          088          -1             10            //Bull Fighter
+006            00             30         095            168            175          244          -1             10            //LIch
+014            00             30         095            168            175          244          -1             10            //Skeleton
+001            00             30         008            011            094          244          -1             10            //Hound
+004            00             30         008            011            094          244          -1             10            //Elite Bull Fighter
+007            00             30         008            011            060          080          -1             10            //Giant
 003            00             00         187            120            187          120          -1             10             //Spider
 002            00             00         193            142            193          142          -1             10             //Budge Dragon
 002            00             00         214            142            214          142          -1             10             //Budge Dragon
@@ -201,14 +201,14 @@ end
 
 1
 //Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
-024            02             30         170            080            245          200          -1             30            //Worm
+024            02             30         170            080            245          200          -1             10            //Worm
 023            02             30         170            080            245          200          -1             10            //Hommerd
-022            02             30         050            006            166          244          -1             40            //Ice Monster
-023            02             30         050            006            166          244          -1             30            //Hommerd
-019            02             30         050            006            166          244          -1             40            //Yeti
+022            02             30         050            006            166          244          -1             10            //Ice Monster
+023            02             30         050            006            166          244          -1             10            //Hommerd
+019            02             30         050            006            166          244          -1             15            //Yeti
 021            02             30         050            006            166          244          -1             30            //Assassin
-020            02             30         050            006            166          244          -1             20            //Elite Yeti
-020            02             30         005            050            050          155          -1             20            //Elite Yeti
+020            02             30         050            006            166          244          -1             10            //Elite Yeti
+020            02             30         005            050            050          155          -1             10            //Elite Yeti
 020            02             30         006            184            080          244          -1             10            //Elite Yeti
 025            02             30         006            184            080          244          -1             03            //Ice Queen
 024            02             00         228            084            228          084          -1             10             //Worm
@@ -235,26 +235,26 @@ end
 
 1
 //Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
-003            03             30         139            063            247          164          -1             30            //Spider
+003            03             30         139            063            247          164          -1             10            //Spider
 026            03             30         109            046            154          181          -1             10            //Goblin
 026            03             30         136            156            247          204          -1             10            //Goblin
 026            03             30         135            042            247          073          -1             10            //Goblin
-027            03             30         109            046            154          181          -1             20            //Chain Scorpion
-027            03             30         135            042            247          073          -1             20            //Chain Scorpion
-027            03             30         136            156            247          204          -1             20            //Chain Scorpion
-033            03             30         106            003            247          040          -1             20            //Elite Goblin
-033            03             30         059            006            128          106          -1             20            //Elite Goblin
-028            03             30         106            003            247          040          -1             20            //Beetle Monster
-028            03             30         059            006            128          106          -1             20            //Beetle Monster
-029            03             30         106            003            247          040          -1             20            //Hunter
-029            03             30         059            006            128          106          -1             20            //Hunter
+027            03             30         109            046            154          181          -1             10            //Chain Scorpion
+027            03             30         135            042            247          073          -1             10            //Chain Scorpion
+027            03             30         136            156            247          204          -1             10            //Chain Scorpion
+033            03             30         106            003            247          040          -1             10            //Elite Goblin
+033            03             30         059            006            128          106          -1             10            //Elite Goblin
+028            03             30         106            003            247          040          -1             10            //Beetle Monster
+028            03             30         059            006            128          106          -1             10            //Beetle Monster
+029            03             30         106            003            247          040          -1             10            //Hunter
+029            03             30         059            006            128          106          -1             10            //Hunter
 030            03             30         007            004            063          176          -1             10            //Forest Monster
 030            03             30         041            107            107          181          -1             10            //Forest Monster
 030            03             30         105            184            247          246          -1             10            //Forest Monster
-031            03             30         007            004            063          176          -1             20            //Agon
-031            03             30         041            107            107          181          -1             20            //Agon
-031            03             30         105            184            247          246          -1             20            //Agon
-032            03             30         004            168            115          248          -1             40            //Stone Golem
+031            03             30         007            004            063          176          -1             10            //Agon
+031            03             30         041            107            107          181          -1             10            //Agon
+031            03             30         105            184            247          246          -1             10            //Agon
+032            03             30         004            168            115          248          -1             10            //Stone Golem
 026            03             00         155            124            155          124          -1             10             //Goblin
 003            03             00         149            114            149          114          -1             10             //Spider
 027            03             00         133            108            133          108          -1             10             //Chain Scorpion
@@ -438,24 +438,24 @@ end
 
 1
 //Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
-017            09             30         119            080            150          115          -1             35            //Cyclops
-015            09             30         119            080            150          115          -1             35            //Skeleton Archer
-010            09             30         121            152            151          184          -1             35            //Dark Knight
-039            09             30         121            152            151          184          -1             35            //Poison Shadow
-041            09             30         049            138            079          173          -1             35            //Death Cow
-037            09             30         049            138            079          173          -1             35            //Devil
-064            09             30         053            074            083          109          -1             35            //Ogre archer
-065            09             30         053            074            083          109          -1             35            //Elite Ogre
+017            09             30         119            080            150          115          -1             10            //Cyclops
+015            09             30         119            080            150          115          -1             10            //Skeleton Archer
+010            09             30         121            152            151          184          -1             10            //Dark Knight
+039            09             30         121            152            151          184          -1             10            //Poison Shadow
+041            09             30         049            138            079          173          -1             10            //Death Cow
+037            09             30         049            138            079          173          -1             10            //Devil
+064            09             30         053            074            083          109          -1             10            //Ogre archer
+065            09             30         053            074            083          109          -1             10            //Elite Ogre
 end
 
 4
 //Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
-294            32             30         120            080            150          115          -1             35            //Ax Warrior
-060            32             30         120            080            150          115          -1             35            //Bloody wolf
-290            32             30         122            152            151          184          -1             35            //Lizard Warrior
-057            32             30         122            152            151          184          -1             35            //Iron Wheel
-434            32             30         050            138            079          173          -1             35            //Gigantis
-435            32             30         050            138            079          173          -1             35            //Berserker
+294            32             30         120            080            150          115          -1             10            //Ax Warrior
+060            32             30         120            080            150          115          -1             10            //Bloody wolf
+290            32             30         122            152            151          184          -1             10            //Lizard Warrior
+057            32             30         122            152            151          184          -1             10            //Iron Wheel
+434            32             30         050            138            079          173          -1             10            //Gigantis
+435            32             30         050            138            079          173          -1             10            //Berserker
 end
 
 1
@@ -812,17 +812,6 @@ end
 036            04             30         191            118            -1             //Shadow
 036            04             30         164            029            -1             //Shadow
 036            04             30         164            037            -1             //Shadow
-036            04             30         164            048            -1             //Shadow
-036            04             30         164            063            -1             //Shadow
-036            04             30         164            074            -1             //Shadow
-036            04             30         164            098            -1             //Shadow
-036            04             30         164            112            -1             //Shadow
-036            04             30         164            126            -1             //Shadow
-036            04             30         175            127            -1             //Shadow
-036            04             30         184            128            -1             //Shadow
-036            04             30         199            134            -1             //Shadow
-036            04             30         206            136            -1             //Shadow
-036            04             30         227            136            -1             //Shadow
 036            04             30         242            135            -1             //Shadow
 039            04             30         243            125            -1             //Poison Shadow
 036            04             30         229            127            -1             //Shadow
@@ -860,14 +849,6 @@ end
 036            04             30         190            029            -1             //Shadow
 039            04             30         210            023            -1             //Poison Shadow
 039            04             30         226            022            -1             //Poison Shadow
-039            04             30         227            033            -1             //Poison Shadow
-039            04             30         227            054            -1             //Poison Shadow
-039            04             30         228            067            -1             //Poison Shadow
-039            04             30         228            081            -1             //Poison Shadow
-039            04             30         228            104            -1             //Poison Shadow
-039            04             30         191            016            -1             //Poison Shadow
-039            04             30         220            079            -1             //Poison Shadow
-039            04             30         219            060            -1             //Poison Shadow
 039            04             30         219            045            -1             //Poison Shadow
 039            04             30         219            034            -1             //Poison Shadow
 039            04             30         202            038            -1             //Poison Shadow
@@ -888,10 +869,6 @@ end
 039            04             30         228            245            -1             //Poison Shadow
 039            04             30         245            246            -1             //Poison Shadow
 034            04             30         235            237            -1             //Cursed Wizard
-034            04             30         224            235            -1             //Cursed Wizard
-034            04             30         206            237            -1             //Cursed Wizard
-034            04             30         200            228            -1             //Cursed Wizard
-034            04             30         209            212            -1             //Cursed Wizard
 034            04             30         225            196            -1             //Cursed Wizard
 034            04             30         209            190            -1             //Cursed Wizard
 034            04             30         198            192            -1             //Cursed Wizard
@@ -901,12 +878,6 @@ end
 039            04             30         198            184            -1             //Poison Shadow
 039            04             30         217            196            -1             //Poison Shadow
 039            04             30         227            212            -1             //Poison Shadow
-039            04             30         217            217            -1             //Poison Shadow
-039            04             30         201            216            -1             //Poison Shadow
-039            04             30         191            238            -1             //Poison Shadow
-039            04             30         193            217            -1             //Poison Shadow
-039            04             30         178            224            -1             //Poison Shadow
-039            04             30         178            210            -1             //Poison Shadow
 039            04             30         177            195            -1             //Poison Shadow
 041            04             30         126            246            -1             //Death Cow
 041            04             30         133            235            -1             //Death Cow
@@ -973,13 +944,6 @@ end
 037            04             30         134            049            -1             //Devil
 040            04             30         123            054            -1             //Death Knight
 037            04             30         115            053            -1             //Devil
-037            04             30         098            054            -1             //Devil
-037            04             30         084            054            -1             //Devil
-037            04             30         093            041            -1             //Devil
-037            04             30         099            040            -1             //Devil
-037            04             30         101            029            -1             //Devil
-037            04             30         098            017            -1             //Devil
-037            04             30         112            016            -1             //Devil
 037            04             30         124            041            -1             //Devil
 037            04             30         111            039            -1             //Devil
 040            04             30         086            041            -1             //Death Knight
@@ -1028,11 +992,6 @@ end
 035            04             30         008            211            -1             //Death Gorgon
 035            04             30         008            231            -1             //Death Gorgon
 035            04             30         015            244            -1             //Death Gorgon
-035            04             30         018            107            -1             //Death Gorgon
-035            04             30         039            246            -1             //Death Gorgon
-035            04             30         011            175            -1             //Death Gorgon
-035            04             30         054            220            -1             //Death Gorgon
-035            04             30         031            127            -1             //Death Gorgon
 035            04             30         055            195            -1             //Death Gorgon
 034            04             30         105            175            -1             //Cursed Wizard
 035            04             30         055            174            -1             //Death Gorgon
@@ -1086,15 +1045,6 @@ end
 036            04             30         200            104            -1             //Shadow
 036            04             30         205            087            -1             //Shadow
 036            04             30         219            068            -1             //Shadow
-036            04             30         211            064            -1             //Shadow
-036            04             30         209            052            -1             //Shadow
-036            04             30         210            041            -1             //Shadow
-036            04             30         210            032            -1             //Shadow
-036            04             30         194            023            -1             //Shadow
-036            04             30         204            015            -1             //Shadow
-036            04             30         236            044            -1             //Shadow
-036            04             30         235            098            -1             //Shadow
-036            04             30         222            109            -1             //Shadow
 036            04             30         218            087            -1             //Shadow
 036            04             30         228            091            -1             //Shadow
 036            04             30         244            015            -1             //Shadow
@@ -1108,30 +1058,6 @@ end
 039            04             30         245            189            -1             //Poison Shadow
 039            04             30         245            200            -1             //Poison Shadow
 039            04             30         246            212            -1             //Poison Shadow
-039            04             30         245            224            -1             //Poison Shadow
-039            04             30         237            226            -1             //Poison Shadow
-039            04             30         236            220            -1             //Poison Shadow
-039            04             30         238            208            -1             //Poison Shadow
-039            04             30         237            201            -1             //Poison Shadow
-039            04             30         232            196            -1             //Poison Shadow
-039            04             30         238            184            -1             //Poison Shadow
-039            04             30         224            185            -1             //Poison Shadow
-039            04             30         216            183            -1             //Poison Shadow
-039            04             30         207            178            -1             //Poison Shadow
-039            04             30         196            176            -1             //Poison Shadow
-039            04             30         187            192            -1             //Poison Shadow
-039            04             30         185            201            -1             //Poison Shadow
-039            04             30         187            209            -1             //Poison Shadow
-039            04             30         185            220            -1             //Poison Shadow
-039            04             30         175            217            -1             //Poison Shadow
-039            04             30         176            245            -1             //Poison Shadow
-039            04             30         206            244            -1             //Poison Shadow
-039            04             30         215            209            -1             //Poison Shadow
-039            04             30         184            173            -1             //Poison Shadow
-039            04             30         172            188            -1             //Poison Shadow
-039            04             30         173            171            -1             //Poison Shadow
-039            04             30         206            200            -1             //Poison Shadow
-039            04             30         218            229            -1             //Poison Shadow
 034            04             30         112            235            -1             //Cursed Wizard
 034            04             30         083            220            -1             //Cursed Wizard
 034            04             30         090            239            -1             //Cursed Wizard
@@ -1156,29 +1082,6 @@ end
 040            04             30         124            024            -1             //Death Knight
 035            04             30         014            015            -1             //Death Gorgon
 035            04             30         013            033            -1             //Death Gorgon
-035            04             30         030            039            -1             //Death Gorgon
-035            04             30         055            008            -1             //Death Gorgon
-035            04             30         044            041            -1             //Death Gorgon
-035            04             30         008            025            -1             //Death Gorgon
-035            04             30         037            021            -1             //Death Gorgon
-035            04             30         029            024            -1             //Death Gorgon
-035            04             30         019            097            -1             //Death Gorgon
-035            04             30         042            109            -1             //Death Gorgon
-035            04             30         022            121            -1             //Death Gorgon
-035            04             30         005            122            -1             //Death Gorgon
-035            04             30         005            132            -1             //Death Gorgon
-035            04             30         014            137            -1             //Death Gorgon
-035            04             30         038            184            -1             //Death Gorgon
-035            04             30         036            174            -1             //Death Gorgon
-035            04             30         023            174            -1             //Death Gorgon
-035            04             30         018            168            -1             //Death Gorgon
-035            04             30         007            184            -1             //Death Gorgon
-035            04             30         008            200            -1             //Death Gorgon
-035            04             30         019            208            -1             //Death Gorgon
-035            04             30         050            241            -1             //Death Gorgon
-035            04             30         054            205            -1             //Death Gorgon
-040            04             30         046            208            -1             //Death Knight
-040            04             30         018            183            -1             //Death Knight
 040            04             30         014            224            -1             //Death Knight
 040            04             30         007            240            -1             //Death Knight
 040            04             30         048            232            -1             //Death Knight
@@ -1210,15 +1113,6 @@ end
 040            04             30         015            119            -1             //Death Knight
 035            04             30         034            137            -1             //Death Gorgon
 035            04             30         054            121            -1             //Death Gorgon
-035            04             30         030            010            -1             //Death Gorgon
-040            04             30         024            009            -1             //Death Knight
-040            04             30         030            017            -1             //Death Knight
-040            04             30         110            008            -1             //Death Knight
-040            04             30         134            008            -1             //Death Knight
-040            04             30         135            017            -1             //Death Knight
-040            04             30         111            046            -1             //Death Knight
-040            04             30         099            048            -1             //Death Knight
-040            04             30         085            049            -1             //Death Knight
 040            04             30         091            056            -1             //Death Knight
 039            04             30         195            032            -1             //Poison Shadow
 039            04             30         189            038            -1             //Poison Shadow
@@ -1263,19 +1157,6 @@ end
 045            07             30         072            042            -1             //Bahamut
 045            07             30         023            056            -1             //Bahamut
 045            07             30         023            064            -1             //Bahamut
-045            07             30         035            070            -1             //Bahamut
-045            07             30         029            075            -1             //Bahamut
-045            07             30         062            021            -1             //Bahamut
-045            07             30         078            019            -1             //Bahamut
-045            07             30         067            036            -1             //Bahamut
-045            07             30         024            086            -1             //Bahamut
-045            07             30         048            057            -1             //Bahamut
-045            07             30         045            070            -1             //Bahamut
-045            07             30         019            125            -1             //Bahamut
-045            07             30         049            008            -1             //Bahamut
-045            07             30         046            020            -1             //Bahamut
-045            07             30         039            035            -1             //Bahamut
-045            07             30         037            050            -1             //Bahamut
 045            07             30         020            075            -1             //Bahamut
 045            07             30         063            044            -1             //Bahamut
 045            07             30         068            052            -1             //Bahamut
@@ -1293,35 +1174,6 @@ end
 046            07             30         083            015            -1             //Vepar
 046            07             30         084            021            -1             //Vepar
 046            07             30         067            027            -1             //Vepar
-046            07             30         059            034            -1             //Vepar
-046            07             30         086            037            -1             //Vepar
-046            07             30         078            044            -1             //Vepar
-046            07             30         071            052            -1             //Vepar
-046            07             30         065            059            -1             //Vepar
-046            07             30         065            051            -1             //Vepar
-046            07             30         055            044            -1             //Vepar
-046            07             30         040            048            -1             //Vepar
-046            07             30         031            053            -1             //Vepar
-046            07             30         024            090            -1             //Vepar
-046            07             30         021            100            -1             //Vepar
-046            07             30         025            105            -1             //Vepar
-046            07             30         030            110            -1             //Vepar
-046            07             30         021            118            -1             //Vepar
-046            07             30         038            117            -1             //Vepar
-046            07             30         141            011            -1             //Vepar
-046            07             30         127            017            -1             //Vepar
-046            07             30         114            026            -1             //Vepar
-046            07             30         107            018            -1             //Vepar
-046            07             30         104            013            -1             //Vepar
-046            07             30         115            012            -1             //Vepar
-046            07             30         089            062            -1             //Vepar
-046            07             30         075            076            -1             //Vepar
-046            07             30         069            087            -1             //Vepar
-046            07             30         050            093            -1             //Vepar
-046            07             30         023            072            -1             //Vepar
-046            07             30         078            023            -1             //Vepar
-046            07             30         070            038            -1             //Vepar
-046            07             30         055            025            -1             //Vepar
 046            07             30         030            122            -1             //Vepar
 046            07             30         017            126            -1             //Vepar
 046            07             30         122            029            -1             //Vepar
@@ -1332,30 +1184,6 @@ end
 048            07             30         171            162            -1             //Lizard King
 048            07             30         175            169            -1             //Lizard King
 048            07             30         178            174            -1             //Lizard King
-048            07             30         173            179            -1             //Lizard King
-048            07             30         171            187            -1             //Lizard King
-048            07             30         165            193            -1             //Lizard King
-048            07             30         159            198            -1             //Lizard King
-048            07             30         152            201            -1             //Lizard King
-048            07             30         144            201            -1             //Lizard King
-048            07             30         137            205            -1             //Lizard King
-048            07             30         124            206            -1             //Lizard King
-048            07             30         115            210            -1             //Lizard King
-048            07             30         104            211            -1             //Lizard King
-048            07             30         094            210            -1             //Lizard King
-048            07             30         087            214            -1             //Lizard King
-048            07             30         076            215            -1             //Lizard King
-048            07             30         047            224            -1             //Lizard King
-048            07             30         046            217            -1             //Lizard King
-048            07             30         029            226            -1             //Lizard King
-048            07             30         022            213            -1             //Lizard King
-048            07             30         024            204            -1             //Lizard King
-048            07             30         034            200            -1             //Lizard King
-048            07             30         035            209            -1             //Lizard King
-048            07             30         040            210            -1             //Lizard King
-048            07             30         045            205            -1             //Lizard King
-048            07             30         047            211            -1             //Lizard King
-048            07             30         037            232            -1             //Lizard King
 048            07             30         226            052            -1             //Lizard King
 048            07             30         022            230            -1             //Lizard King
 048            07             30         041            224            -1             //Lizard King
@@ -1370,34 +1198,6 @@ end
 052            07             30         061            147            -1             //Silver Valkyrie
 052            07             30         049            158            -1             //Silver Valkyrie
 052            07             30         033            169            -1             //Silver Valkyrie
-052            07             30         022            173            -1             //Silver Valkyrie
-052            07             30         055            181            -1             //Silver Valkyrie
-052            07             30         067            186            -1             //Silver Valkyrie
-052            07             30         073            180            -1             //Silver Valkyrie
-052            07             30         089            184            -1             //Silver Valkyrie
-052            07             30         101            183            -1             //Silver Valkyrie
-052            07             30         111            183            -1             //Silver Valkyrie
-052            07             30         122            178            -1             //Silver Valkyrie
-052            07             30         129            171            -1             //Silver Valkyrie
-052            07             30         138            167            -1             //Silver Valkyrie
-052            07             30         147            164            -1             //Silver Valkyrie
-052            07             30         170            145            -1             //Silver Valkyrie
-052            07             30         163            138            -1             //Silver Valkyrie
-052            07             30         053            220            -1             //Silver Valkyrie
-052            07             30         041            222            -1             //Silver Valkyrie
-052            07             30         029            231            -1             //Silver Valkyrie
-052            07             30         022            232            -1             //Silver Valkyrie
-052            07             30         027            209            -1             //Silver Valkyrie
-052            07             30         036            205            -1             //Silver Valkyrie
-052            07             30         109            211            -1             //Silver Valkyrie
-052            07             30         131            207            -1             //Silver Valkyrie
-052            07             30         155            196            -1             //Silver Valkyrie
-052            07             30         167            154            -1             //Silver Valkyrie
-052            07             30         177            019            -1             //Silver Valkyrie
-052            07             30         118            167            -1             //Silver Valkyrie
-052            07             30         111            175            -1             //Silver Valkyrie
-052            07             30         063            178            -1             //Silver Valkyrie
-052            07             30         162            141            -1             //Silver Valkyrie
 052            07             30         138            176            -1             //Silver Valkyrie
 047            07             30         041            109            -1             //Valkyrie
 047            07             30         049            100            -1             //Valkyrie
@@ -1405,42 +1205,6 @@ end
 047            07             30         062            087            -1             //Valkyrie
 047            07             30         071            082            -1             //Valkyrie
 047            07             30         079            070            -1             //Valkyrie
-047            07             30         085            064            -1             //Valkyrie
-047            07             30         094            060            -1             //Valkyrie
-047            07             30         101            050            -1             //Valkyrie
-047            07             30         106            048            -1             //Valkyrie
-047            07             30         112            045            -1             //Valkyrie
-047            07             30         109            038            -1             //Valkyrie
-047            07             30         118            037            -1             //Valkyrie
-047            07             30         122            029            -1             //Valkyrie
-047            07             30         119            020            -1             //Valkyrie
-047            07             30         124            014            -1             //Valkyrie
-047            07             30         133            014            -1             //Valkyrie
-047            07             30         150            014            -1             //Valkyrie
-047            07             30         161            011            -1             //Valkyrie
-047            07             30         166            016            -1             //Valkyrie
-047            07             30         171            018            -1             //Valkyrie
-047            07             30         182            014            -1             //Valkyrie
-047            07             30         190            024            -1             //Valkyrie
-047            07             30         196            027            -1             //Valkyrie
-047            07             30         200            017            -1             //Valkyrie
-047            07             30         208            009            -1             //Valkyrie
-047            07             30         218            047            -1             //Valkyrie
-047            07             30         222            014            -1             //Valkyrie
-047            07             30         117            074            -1             //Valkyrie
-047            07             30         139            061            -1             //Valkyrie
-047            07             30         152            061            -1             //Valkyrie
-047            07             30         172            055            -1             //Valkyrie
-047            07             30         189            056            -1             //Valkyrie
-047            07             30         226            046            -1             //Valkyrie
-047            07             30         240            011            -1             //Valkyrie
-047            07             30         227            016            -1             //Valkyrie
-047            07             30         152            022            -1             //Valkyrie
-047            07             30         142            015            -1             //Valkyrie
-047            07             30         128            022            -1             //Valkyrie
-047            07             30         116            009            -1             //Valkyrie
-047            07             30         113            027            -1             //Valkyrie
-047            07             30         033            108            -1             //Valkyrie
 047            07             30         035            118            -1             //Valkyrie
 051            07             30         228            016            -1             //Great Bahamut
 051            07             30         237            017            -1             //Great Bahamut
@@ -1451,39 +1215,6 @@ end
 051            07             30         206            055            -1             //Great Bahamut
 051            07             30         200            049            -1             //Great Bahamut
 051            07             30         193            052            -1             //Great Bahamut
-051            07             30         184            052            -1             //Great Bahamut
-051            07             30         178            058            -1             //Great Bahamut
-051            07             30         170            061            -1             //Great Bahamut
-051            07             30         156            059            -1             //Great Bahamut
-051            07             30         144            063            -1             //Great Bahamut
-051            07             30         133            061            -1             //Great Bahamut
-051            07             30         133            070            -1             //Great Bahamut
-051            07             30         125            078            -1             //Great Bahamut
-051            07             30         118            085            -1             //Great Bahamut
-051            07             30         124            090            -1             //Great Bahamut
-051            07             30         116            098            -1             //Great Bahamut
-051            07             30         106            101            -1             //Great Bahamut
-051            07             30         099            108            -1             //Great Bahamut
-051            07             30         091            115            -1             //Great Bahamut
-051            07             30         081            123            -1             //Great Bahamut
-051            07             30         126            167            -1             //Great Bahamut
-051            07             30         111            174            -1             //Great Bahamut
-051            07             30         090            177            -1             //Great Bahamut
-051            07             30         076            180            -1             //Great Bahamut
-051            07             30         062            178            -1             //Great Bahamut
-051            07             30         042            178            -1             //Great Bahamut
-051            07             30         027            161            -1             //Great Bahamut
-051            07             30         042            152            -1             //Great Bahamut
-051            07             30         019            159            -1             //Great Bahamut
-051            07             30         062            140            -1             //Great Bahamut
-051            07             30         070            133            -1             //Great Bahamut
-051            07             30         168            054            -1             //Great Bahamut
-051            07             30         007            052            -1             //Great Bahamut
-051            07             30         225            045            -1             //Great Bahamut
-051            07             30         207            009            -1             //Great Bahamut
-051            07             30         154            069            -1             //Great Bahamut
-051            07             30         111            082            -1             //Great Bahamut
-051            07             30         081            116            -1             //Great Bahamut
 051            07             30         072            125            -1             //Great Bahamut
 051            07             30         122            066            -1             //Great Bahamut
 049            07             30         019            230            -1             //Hydra
@@ -1539,34 +1270,6 @@ end
 052            07             30         200            103            -1             //Silver Valkyrie
 052            07             30         192            101            -1             //Silver Valkyrie
 052            07             30         179            092            -1             //Silver Valkyrie
-052            07             30         187            094            -1             //Silver Valkyrie
-052            07             30         177            101            -1             //Silver Valkyrie
-052            07             30         166            117            -1             //Silver Valkyrie
-052            07             30         159            112            -1             //Silver Valkyrie
-052            07             30         156            122            -1             //Silver Valkyrie
-052            07             30         173            109            -1             //Silver Valkyrie
-052            07             30         167            107            -1             //Silver Valkyrie
-052            07             30         150            120            -1             //Silver Valkyrie
-052            07             30         142            125            -1             //Silver Valkyrie
-051            07             30         136            129            -1             //Great Bahamut
-052            07             30         129            130            -1             //Silver Valkyrie
-052            07             30         117            130            -1             //Silver Valkyrie
-052            07             30         121            135            -1             //Silver Valkyrie
-052            07             30         144            109            -1             //Silver Valkyrie
-052            07             30         122            144            -1             //Silver Valkyrie
-052            07             30         112            137            -1             //Silver Valkyrie
-052            07             30         101            147            -1             //Silver Valkyrie
-052            07             30         097            142            -1             //Silver Valkyrie
-052            07             30         144            132            -1             //Silver Valkyrie
-052            07             30         093            136            -1             //Silver Valkyrie
-052            07             30         090            148            -1             //Silver Valkyrie
-052            07             30         124            125            -1             //Silver Valkyrie
-052            07             30         087            132            -1             //Silver Valkyrie
-052            07             30         086            140            -1             //Silver Valkyrie
-052            07             30         078            145            -1             //Silver Valkyrie
-052            07             30         079            136            -1             //Silver Valkyrie
-052            07             30         067            147            -1             //Silver Valkyrie
-052            07             30         071            140            -1             //Silver Valkyrie
 052            07             30         105            137            -1             //Silver Valkyrie
 051            07             30         083            155            -1             //Great Bahamut
 052            07             30         081            164            -1             //Silver Valkyrie
@@ -1600,48 +1303,6 @@ end
 062            08             30         146            053            -1             //Mutant
 061            08             30         072            167            -1             //Beam Knight
 061            08             30         083            176            -1             //Beam Knight
-061            08             30         063            173            -1             //Beam Knight
-062            08             30         148            043            -1             //Mutant
-062            08             30         155            040            -1             //Mutant
-062            08             30         134            057            -1             //Mutant
-062            08             30         151            034            -1             //Mutant
-062            08             30         149            028            -1             //Mutant
-062            08             30         141            074            -1             //Mutant
-062            08             30         142            068            -1             //Mutant
-061            08             30         011            234            -1             //Beam Knight
-062            08             30         141            024            -1             //Mutant
-062            08             30         137            020            -1             //Mutant
-062            08             30         132            015            -1             //Mutant
-060            08             30         148            066            -1             //Bloody wolf
-062            08             30         134            082            -1             //Mutant
-062            08             30         135            089            -1             //Mutant
-062            08             30         136            096            -1             //Mutant
-062            08             30         148            091            -1             //Mutant
-062            08             30         157            089            -1             //Mutant
-062            08             30         158            080            -1             //Mutant
-062            08             30         154            073            -1             //Mutant
-062            08             30         162            101            -1             //Mutant
-062            08             30         161            110            -1             //Mutant
-062            08             30         171            116            -1             //Mutant
-062            08             30         180            112            -1             //Mutant
-062            08             30         190            112            -1             //Mutant
-062            08             30         197            108            -1             //Mutant
-062            08             30         205            105            -1             //Mutant
-062            08             30         186            120            -1             //Mutant
-060            08             30         181            123            -1             //Bloody wolf
-062            08             30         173            129            -1             //Mutant
-062            08             30         169            136            -1             //Mutant
-062            08             30         162            141            -1             //Mutant
-062            08             30         159            148            -1             //Mutant
-062            08             30         151            155            -1             //Mutant
-062            08             30         152            147            -1             //Mutant
-062            08             30         152            133            -1             //Mutant
-062            08             30         162            129            -1             //Mutant
-062            08             30         152            125            -1             //Mutant
-062            08             30         152            116            -1             //Mutant
-062            08             30         171            106            -1             //Mutant
-062            08             30         151            101            -1             //Mutant
-062            08             30         142            100            -1             //Mutant
 062            08             30         140            037            -1             //Mutant
 062            08             30         133            065            -1             //Mutant
 060            08             30         134            072            -1             //Bloody wolf
@@ -1654,25 +1315,6 @@ end
 060            08             30         108            095            -1             //Bloody wolf
 060            08             30         104            087            -1             //Bloody wolf
 060            08             30         107            080            -1             //Bloody wolf
-060            08             30         109            064            -1             //Bloody wolf
-060            08             30         108            055            -1             //Bloody wolf
-060            08             30         118            042            -1             //Bloody wolf
-060            08             30         126            042            -1             //Bloody wolf
-060            08             30         133            044            -1             //Bloody wolf
-060            08             30         125            026            -1             //Bloody wolf
-060            08             30         113            034            -1             //Bloody wolf
-060            08             30         105            033            -1             //Bloody wolf
-060            08             30         108            043            -1             //Bloody wolf
-060            08             30         103            049            -1             //Bloody wolf
-060            08             30         097            046            -1             //Bloody wolf
-060            08             30         088            041            -1             //Bloody wolf
-060            08             30         095            026            -1             //Bloody wolf
-060            08             30         096            036            -1             //Bloody wolf
-060            08             30         096            056            -1             //Bloody wolf
-060            08             30         102            061            -1             //Bloody wolf
-060            08             30         104            070            -1             //Bloody wolf
-060            08             30         096            078            -1             //Bloody wolf
-060            08             30         097            066            -1             //Bloody wolf
 057            08             30         081            063            -1             //Iron Wheel
 057            08             30         070            057            -1             //Iron Wheel
 057            08             30         065            064            -1             //Iron Wheel
@@ -1699,21 +1341,6 @@ end
 058            08             30         069            120            -1             //Tantalos
 058            08             30         061            121            -1             //Tantalos
 058            08             30         054            120            -1             //Tantalos
-058            08             30         043            121            -1             //Tantalos
-058            08             30         035            121            -1             //Tantalos
-058            08             30         024            120            -1             //Tantalos
-058            08             30         018            127            -1             //Tantalos
-058            08             30         025            127            -1             //Tantalos
-058            08             30         032            132            -1             //Tantalos
-058            08             30         029            098            -1             //Tantalos
-058            08             30         042            134            -1             //Tantalos
-058            08             30         035            141            -1             //Tantalos
-058            08             30         026            149            -1             //Tantalos
-058            08             30         026            160            -1             //Tantalos
-058            08             30         033            157            -1             //Tantalos
-058            08             30         040            150            -1             //Tantalos
-058            08             30         052            138            -1             //Tantalos
-058            08             30         061            134            -1             //Tantalos
 060            08             30         074            081            -1             //Bloody wolf
 058            08             30         075            133            -1             //Tantalos
 058            08             30         081            126            -1             //Tantalos
@@ -1729,16 +1356,6 @@ end
 058            08             30         086            131            -1             //Tantalos
 061            08             30         073            125            -1             //Beam Knight
 058            08             30         076            145            -1             //Tantalos
-058            08             30         069            139            -1             //Tantalos
-058            08             30         060            143            -1             //Tantalos
-058            08             30         052            157            -1             //Tantalos
-058            08             30         052            165            -1             //Tantalos
-058            08             30         045            175            -1             //Tantalos
-058            08             30         033            168            -1             //Tantalos
-058            08             30         035            175            -1             //Tantalos
-058            08             30         042            164            -1             //Tantalos
-058            08             30         064            164            -1             //Tantalos
-061            08             30         131            178            -1             //Beam Knight
 058            08             30         079            156            -1             //Tantalos
 058            08             30         093            137            -1             //Tantalos
 058            08             30         115            154            -1             //Tantalos
@@ -1752,16 +1369,6 @@ end
 061            08             30         127            188            -1             //Beam Knight
 061            08             30         121            196            -1             //Beam Knight
 061            08             30         123            208            -1             //Beam Knight
-061            08             30         121            217            -1             //Beam Knight
-061            08             30         106            225            -1             //Beam Knight
-061            08             30         109            217            -1             //Beam Knight
-061            08             30         102            212            -1             //Beam Knight
-061            08             30         098            207            -1             //Beam Knight
-061            08             30         088            208            -1             //Beam Knight
-061            08             30         080            207            -1             //Beam Knight
-061            08             30         078            198            -1             //Beam Knight
-061            08             30         088            189            -1             //Beam Knight
-061            08             30         083            185            -1             //Beam Knight
 058            08             30         098            193            -1             //Tantalos
 061            08             30         073            179            -1             //Beam Knight
 058            08             30         071            184            -1             //Tantalos
@@ -1783,27 +1390,6 @@ end
 061            08             30         153            209            -1             //Beam Knight
 061            08             30         150            203            -1             //Beam Knight
 061            08             30         167            225            -1             //Beam Knight
-061            08             30         093            150            -1             //Beam Knight
-061            08             30         169            204            -1             //Beam Knight
-061            08             30         044            213            -1             //Beam Knight
-061            08             30         039            210            -1             //Beam Knight
-061            08             30         031            207            -1             //Beam Knight
-058            08             30         024            212            -1             //Tantalos
-058            08             30         027            229            -1             //Tantalos
-061            08             30         031            236            -1             //Beam Knight
-061            08             30         029            245            -1             //Beam Knight
-058            08             30         036            225            -1             //Tantalos
-058            08             30         042            244            -1             //Tantalos
-061            08             30         050            241            -1             //Beam Knight
-061            08             30         050            230            -1             //Beam Knight
-061            08             30         043            222            -1             //Beam Knight
-061            08             30         029            220            -1             //Beam Knight
-061            08             30         015            218            -1             //Beam Knight
-061            08             30         019            205            -1             //Beam Knight
-061            08             30         011            246            -1             //Beam Knight
-061            08             30         006            240            -1             //Beam Knight
-061            08             30         157            224            -1             //Beam Knight
-061            08             30         085            141            -1             //Beam Knight
 058            08             30         022            244            -1             //Tantalos
 058            08             30         052            204            -1             //Tantalos
 058            08             30         165            219            -1             //Tantalos
@@ -1872,11 +1458,6 @@ end
 072            10             30         036            226            -1             //Phantom Knight
 075            10             30         048            228            -1             //Great Drakan
 070            10             30         084            036            -1             //Queen Rainier
-070            10             30         090            048            -1             //Queen Rainier
-070            10             30         095            056            -1             //Queen Rainier
-070            10             30         074            084            -1             //Queen Rainier
-070            10             30         074            072            -1             //Queen Rainier
-070            10             30         057            071            -1             //Queen Rainier
 073            10             30         028            067            -1             //Drakan
 071            10             30         050            033            -1             //Mega Crust
 071            10             30         059            027            -1             //Mega Crust
@@ -1907,91 +1488,16 @@ end
 305            33             30         092            045            -1             //Blue Golem
 305            33             30         092            086            -1             //Blue Golem
 305            33             30         094            158            -1             //Blue Golem
-305            33             30         094            158            -1             //Blue Golem
-305            33             30         095            150            -1             //Blue Golem
-305            33             30         102            175            -1             //Blue Golem
-305            33             30         104            042            -1             //Blue Golem
-305            33             30         104            160            -1             //Blue Golem
-305            33             30         111            094            -1             //Blue Golem
-305            33             30         113            155            -1             //Blue Golem
-305            33             30         114            067            -1             //Blue Golem
-305            33             30         125            112            -1             //Blue Golem
-305            33             30         126            073            -1             //Blue Golem
-305            33             30         131            094            -1             //Blue Golem
-305            33             30         133            079            -1             //Blue Golem
-305            33             30         133            133            -1             //Blue Golem
-305            33             30         134            106            -1             //Blue Golem
-305            33             30         136            066            -1             //Blue Golem
-305            33             30         146            072            -1             //Blue Golem
-305            33             30         148            093            -1             //Blue Golem
-305            33             30         157            166            -1             //Blue Golem
-305            33             30         167            127            -1             //Blue Golem
-305            33             30         168            140            -1             //Blue Golem
-305            33             30         168            168            -1             //Blue Golem
-305            33             30         169            174            -1             //Blue Golem
-305            33             30         180            040            -1             //Blue Golem
-305            33             30         185            147            -1             //Blue Golem
-305            33             30         194            019            -1             //Blue Golem
-305            33             30         197            148            -1             //Blue Golem
 305            33             30         208            168            -1             //Blue Golem
 305            33             30         235            101            -1             //Blue Golem
 306            33             30         085            145            -1             //Death Rider
 306            33             30         088            126            -1             //Death Rider
 306            33             30         089            109            -1             //Death Rider
 306            33             30         093            173            -1             //Death Rider
-306            33             30         100            058            -1             //Death Rider
-306            33             30         119            056            -1             //Death Rider
-306            33             30         126            156            -1             //Death Rider
-306            33             30         126            156            -1             //Death Rider
-306            33             30         136            144            -1             //Death Rider
-306            33             30         145            087            -1             //Death Rider
-306            33             30         149            112            -1             //Death Rider
-306            33             30         161            117            -1             //Death Rider
-306            33             30         167            152            -1             //Death Rider
-306            33             30         176            124            -1             //Death Rider
-306            33             30         186            089            -1             //Death Rider
-306            33             30         189            179            -1             //Death Rider
-306            33             30         190            144            -1             //Death Rider
-306            33             30         191            138            -1             //Death Rider
-306            33             30         207            054            -1             //Death Rider
-306            33             30         209            075            -1             //Death Rider
-306            33             30         221            060            -1             //Death Rider
-306            33             30         223            158            -1             //Death Rider
-306            33             30         227            052            -1             //Death Rider
-306            33             30         230            012            -1             //Death Rider
-306            33             30         233            061            -1             //Death Rider
-306            33             30         234            071            -1             //Death Rider
-306            33             30         234            146            -1             //Death Rider
 306            33             30         235            090            -1             //Death Rider
 307            33             30         086            171            -1             //Forest Orc
 307            33             30         126            020            -1             //Forest Orc
 307            33             30         126            026            -1             //Forest Orc
-307            33             30         148            010            -1             //Forest Orc
-307            33             30         148            019            -1             //Forest Orc
-307            33             30         149            035            -1             //Forest Orc
-307            33             30         157            016            -1             //Forest Orc
-307            33             30         158            046            -1             //Forest Orc
-307            33             30         166            057            -1             //Forest Orc
-307            33             30         172            011            -1             //Forest Orc
-307            33             30         176            060            -1             //Forest Orc
-307            33             30         183            096            -1             //Forest Orc
-307            33             30         187            017            -1             //Forest Orc
-307            33             30         189            055            -1             //Forest Orc
-307            33             30         190            040            -1             //Forest Orc
-307            33             30         190            079            -1             //Forest Orc
-307            33             30         194            033            -1             //Forest Orc
-307            33             30         196            045            -1             //Forest Orc
-307            33             30         199            108            -1             //Forest Orc
-307            33             30         210            122            -1             //Forest Orc
-307            33             30         212            062            -1             //Forest Orc
-307            33             30         213            082            -1             //Forest Orc
-307            33             30         213            137            -1             //Forest Orc
-307            33             30         214            010            -1             //Forest Orc
-307            33             30         225            149            -1             //Forest Orc
-307            33             30         226            067            -1             //Forest Orc
-307            33             30         226            140            -1             //Forest Orc
-307            33             30         233            125            -1             //Forest Orc
-307            33             30         234            111            -1             //Forest Orc
 307            33             30         234            155            -1             //Forest Orc
 307            33             30         236            135            -1             //Forest Orc
 308            33             30         103            016            -1             //Death Tree
@@ -2079,32 +1585,6 @@ end
 549            33             30         038            206            -1             //Bloody Orc
 550            33             30         104            203            -1             //Bloody Death Rider
 550            33             30         099            203            -1             //Bloody Death Rider
-550            33             30         075            228            -1             //Bloody Death Rider
-551            33             30         087            209            -1             //Bloody Golem
-551            33             30         077            212            -1             //Bloody Golem
-551            33             30         066            209            -1             //Bloody Golem
-552            33             30         045            227            -1             //Bloody Witch Queen
-552            33             30         044            219            -1             //Bloody Witch Queen
-552            33             30         032            205            -1             //Bloody Witch Queen
-552            33             30         026            182            -1             //Bloody Witch Queen
-551            33             30         022            190            -1             //Bloody Golem
-551            33             30         028            191            -1             //Bloody Golem
-550            33             30         082            216            -1             //Bloody Death Rider
-550            33             30         033            222            -1             //Bloody Death Rider
-551            33             30         040            184            -1             //Bloody Golem
-551            33             30         044            176            -1             //Bloody Golem
-551            33             30         039            178            -1             //Bloody Golem
-552            33             30         050            158            -1             //Bloody Witch Queen
-552            33             30         056            160            -1             //Bloody Witch Queen
-550            33             30         054            155            -1             //Bloody Death Rider
-550            33             30         042            179            -1             //Bloody Death Rider
-550            33             30         026            134            -1             //Bloody Death Rider
-550            33             30         026            118            -1             //Bloody Death Rider
-550            33             30         047            125            -1             //Bloody Death Rider
-550            33             30         046            212            -1             //Bloody Death Rider
-550            33             30         020            181            -1             //Bloody Death Rider
-552            33             30         024            186            -1             //Bloody Witch Queen
-551            33             30         055            120            -1             //Bloody Golem
 551            33             30         022            127            -1             //Bloody Golem
 551            33             30         035            116            -1             //Bloody Golem
 552            33             30         043            134            -1             //Bloody Witch Queen
@@ -2154,25 +1634,12 @@ end
 331            36             30         030            075            -1             //Aegis
 331            36             30         035            021            -1             //Aegis
 331            36             30         028            017            -1             //Aegis
-331            36             30         036            011            -1             //Aegis
-331            36             30         051            011            -1             //Aegis
-331            36             30         042            012            -1             //Aegis
-331            36             30         045            022            -1             //Aegis
-331            36             30         052            024            -1             //Aegis
-331            36             30         053            017            -1             //Aegis
-331            36             30         060            009            -1             //Aegis
 332            36             30         067            022            -1             //Rogue Centurion
 331            36             30         060            022            -1             //Aegis
 332            36             30         069            009            -1             //Rogue Centurion
 332            36             30         074            014            -1             //Rogue Centurion
 332            36             30         082            008            -1             //Rogue Centurion
 332            36             30         081            019            -1             //Rogue Centurion
-332            36             30         086            013            -1             //Rogue Centurion
-332            36             30         092            006            -1             //Rogue Centurion
-332            36             30         096            016            -1             //Rogue Centurion
-332            36             30         099            009            -1             //Rogue Centurion
-332            36             30         109            019            -1             //Rogue Centurion
-333            36             30         110            009            -1             //Blood Soldier
 333            36             30         118            017            -1             //Blood Soldier
 333            36             30         110            035            -1             //Blood Soldier
 333            36             30         121            027            -1             //Blood Soldier
@@ -2248,42 +1715,11 @@ end
 352            37             30         172            205            -1             //Iron Rider
 352            37             30         207            195            -1             //Iron Rider
 352            37             30         198            179            -1             //Iron Rider
-352            37             30         180            164            -1             //Iron Rider
-352            37             30         174            170            -1             //Iron Rider
-352            37             30         185            148            -1             //Iron Rider
-352            37             30         165            157            -1             //Iron Rider
-352            37             30         165            165            -1             //Iron Rider
-352            37             30         175            150            -1             //Iron Rider
-352            37             30         214            143            -1             //Iron Rider
-352            37             30         217            145            -1             //Iron Rider
-352            37             30         204            137            -1             //Iron Rider
-352            37             30         195            156            -1             //Iron Rider
-352            37             30         195            148            -1             //Iron Rider
-352            37             30         236            135            -1             //Iron Rider
-352            37             30         223            132            -1             //Iron Rider
-352            37             30         212            125            -1             //Iron Rider
 352            37             30         222            113            -1             //Iron Rider
 353            37             30         217            141            -1             //Satyros
 353            37             30         226            154            -1             //Satyros
 353            37             30         218            164            -1             //Satyros
 353            37             30         213            165            -1             //Satyros
-353            37             30         195            152            -1             //Satyros
-353            37             30         193            181            -1             //Satyros
-353            37             30         166            162            -1             //Satyros
-353            37             30         182            150            -1             //Satyros
-353            37             30         233            123            -1             //Satyros
-353            37             30         234            132            -1             //Satyros
-353            37             30         236            091            -1             //Satyros
-353            37             30         231            096            -1             //Satyros
-353            37             30         234            101            -1             //Satyros
-353            37             30         220            155            -1             //Satyros
-353            37             30         178            168            -1             //Satyros
-353            37             30         225            086            -1             //Satyros
-353            37             30         224            082            -1             //Satyros
-353            37             30         230            082            -1             //Satyros
-353            37             30         229            058            -1             //Satyros
-353            37             30         226            068            -1             //Satyros
-353            37             30         206            038            -1             //Satyros
 354            37             30         204            035            -1             //Blade Hunter
 353            37             30         213            044            -1             //Satyros
 353            37             30         214            035            -1             //Satyros
@@ -2321,38 +1757,6 @@ end
 354            37             30         120            028            -1             //Blade Hunter
 354            37             30         126            018            -1             //Blade Hunter
 354            37             30         124            025            -1             //Blade Hunter
-354            37             30         116            043            -1             //Blade Hunter
-354            37             30         122            044            -1             //Blade Hunter
-355            37             30         119            055            -1             //Kentauros
-355            37             30         115            065            -1             //Kentauros
-355            37             30         076            053            -1             //Kentauros
-355            37             30         072            062            -1             //Kentauros
-355            37             30         087            071            -1             //Kentauros
-350            37             30         085            061            -1             //Berserker
-356            37             30         087            036            -1             //Gigantis
-350            37             30         085            021            -1             //Berserker
-356            37             30         077            028            -1             //Gigantis
-350            37             30         061            031            -1             //Berserker
-356            37             30         066            021            -1             //Gigantis
-350            37             30         071            020            -1             //Berserker
-356            37             30         059            040            -1             //Gigantis
-350            37             30         046            034            -1             //Berserker
-356            37             30         090            039            -1             //Gigantis
-357            37             30         037            059            -1             //Genocider
-356            37             30         041            037            -1             //Gigantis
-356            37             30         051            032            -1             //Gigantis
-357            37             30         045            070            -1             //Genocider
-357            37             30         035            069            -1             //Genocider
-357            37             30         063            101            -1             //Genocider
-350            37             30         064            097            -1             //Berserker
-350            37             30         066            099            -1             //Berserker
-357            37             30         035            055            -1             //Genocider
-357            37             30         032            076            -1             //Genocider
-357            37             30         058            104            -1             //Genocider
-357            37             30         058            092            -1             //Genocider
-357            37             30         046            102            -1             //Genocider
-350            37             30         048            103            -1             //Berserker
-350            37             30         031            087            -1             //Berserker
 357            37             30         047            054            -1             //Genocider
 350            37             30         050            049            -1             //Berserker
 357            37             30         044            044            -1             //Genocider
@@ -2371,32 +1775,6 @@ end
 351            37             30         042            227            -1             //Splinter Wolf
 351            37             30         170            224            -1             //Splinter Wolf
 351            37             30         157            204            -1             //Splinter Wolf
-351            37             30         189            211            -1             //Splinter Wolf
-352            37             30         225            141            -1             //Iron Rider
-553            37             30         068            164            -1             //Berserker Warrior
-553            37             30         077            157            -1             //Berserker Warrior
-553            37             30         079            166            -1             //Berserker Warrior
-554            37             30         074            162            -1             //Kentauros Warrior
-554            37             30         096            156            -1             //Kentauros Warrior
-554            37             30         102            150            -1             //Kentauros Warrior
-554            37             30         136            161            -1             //Kentauros Warrior
-554            37             30         133            127            -1             //Kentauros Warrior
-554            37             30         089            124            -1             //Kentauros Warrior
-553            37             30         060            156            -1             //Berserker Warrior
-553            37             30         058            135            -1             //Berserker Warrior
-553            37             30         104            157            -1             //Berserker Warrior
-553            37             30         124            165            -1             //Berserker Warrior
-553            37             30         093            118            -1             //Berserker Warrior
-553            37             30         131            119            -1             //Berserker Warrior
-553            37             30         110            140            -1             //Berserker Warrior
-553            37             30         098            137            -1             //Berserker Warrior
-553            37             30         069            158            -1             //Berserker Warrior
-554            37             30         061            131            -1             //Kentauros Warrior
-554            37             30         052            153            -1             //Kentauros Warrior
-554            37             30         094            128            -1             //Kentauros Warrior
-554            37             30         115            162            -1             //Kentauros Warrior
-554            37             30         140            152            -1             //Kentauros Warrior
-555            37             30         120            160            -1             //Gigantis Warrior
 555            37             30         141            159            -1             //Gigantis Warrior
 555            37             30         128            130            -1             //Gigantis Warrior
 555            37             30         081            125            -1             //Gigantis Warrior
@@ -2468,15 +1846,6 @@ end
 360            38             30         122            127            -1             //Dreadfear
 358            38             30         111            159            -1             //Persona
 358            38             30         105            133            -1             //Persona
-358            38             30         119            126            -1             //Persona
-358            38             30         135            150            -1             //Persona
-358            38             30         177            129            -1             //Persona
-358            38             30         193            146            -1             //Persona
-358            38             30         195            105            -1             //Persona
-358            38             30         163            082            -1             //Persona
-358            38             30         132            097            -1             //Persona
-358            38             30         158            137            -1             //Persona
-358            38             30         171            141            -1             //Persona
 358            38             30         147            148            -1             //Persona
 358            38             30         152            120            -1             //Persona
 359            38             30         199            131            -1             //Twin Tale
@@ -2558,12 +1927,6 @@ end
 425            51             30         176            038            -1             //Captain Grizzly
 419            51             30         111            127            -1             //Hideous Rabbit
 425            51             30         196            038            -1             //Captain Grizzly
-425            51             30         212            020            -1             //Captain Grizzly
-425            51             30         230            048            -1             //Captain Grizzly
-425            51             30         226            045            -1             //Captain Grizzly
-425            51             30         226            051            -1             //Captain Grizzly
-425            51             30         214            052            -1             //Captain Grizzly
-425            51             30         173            034            -1             //Captain Grizzly
 423            51             30         171            175            -1             //Totem Golem
 423            51             30         174            180            -1             //Totem Golem
 423            51             30         192            144            -1             //Totem Golem
@@ -2816,15 +2179,6 @@ end
 445            56             05         029            043            -1             //Shadow Knight
 445            56             05         009            047            -1             //Shadow Knight
 445            56             05         008            034            -1             //Shadow Knight
-445            56             05         009            022            -1             //Shadow Knight
-445            56             05         012            011            -1             //Shadow Knight
-445            56             05         019            011            -1             //Shadow Knight
-445            56             05         027            023            -1             //Shadow Knight
-445            56             05         033            023            -1             //Shadow Knight
-445            56             05         054            015            -1             //Shadow Knight
-445            56             05         055            024            -1             //Shadow Knight
-445            56             05         042            014            -1             //Shadow Knight
-445            56             05         062            016            -1             //Shadow Knight
 446            56             05         016            015            -1             //Shadow Look
 446            56             05         024            010            -1             //Shadow Look
 446            56             05         027            011            -1             //Shadow Look
@@ -2887,23 +2241,6 @@ end
 448            56             05         068            230            -1             //Ghost Napin
 448            56             05         082            223            -1             //Ghost Napin
 448            56             05         041            200            -1             //Ghost Napin
-448            56             05         029            235            -1             //Ghost Napin
-448            56             05         026            226            -1             //Ghost Napin
-448            56             05         034            192            -1             //Ghost Napin
-449            56             05         012            182            -1             //Blaze Napin
-449            56             05         019            182            -1             //Blaze Napin
-449            56             05         010            192            -1             //Blaze Napin
-449            56             05         014            224            -1             //Blaze Napin
-449            56             05         020            233            -1             //Blaze Napin
-449            56             05         030            186            -1             //Blaze Napin
-449            56             05         025            209            -1             //Blaze Napin
-449            56             05         046            234            -1             //Blaze Napin
-448            56             05         083            219            -1             //Ghost Napin
-449            56             05         020            211            -1             //Blaze Napin
-449            56             05         030            230            -1             //Blaze Napin
-449            56             05         085            223            -1             //Blaze Napin
-449            56             05         023            212            -1             //Blaze Napin
-449            56             05         023            205            -1             //Blaze Napin
 449            56             05         020            207            -1             //Blaze Napin
 449            56             05         028            188            -1             //Blaze Napin
 449            56             05         028            183            -1             //Blaze Napin
@@ -2964,21 +2301,6 @@ end
 457            57             30         143            214            -1             //Coolutin
 458            57             30         120            181            -1             //Iron Knight
 458            57             30         134            184            -1             //Iron Knight
-458            57             30         111            219            -1             //Iron Knight
-458            57             30         101            217            -1             //Iron Knight
-458            57             30         090            213            -1             //Iron Knight
-458            57             30         098            178            -1             //Iron Knight
-458            57             30         123            142            -1             //Iron Knight
-458            57             30         143            135            -1             //Iron Knight
-458            57             30         144            107            -1             //Iron Knight
-458            57             30         127            099            -1             //Iron Knight
-458            57             30         161            135            -1             //Iron Knight
-458            57             30         191            144            -1             //Iron Knight
-458            57             30         189            102            -1             //Iron Knight
-458            57             30         196            104            -1             //Iron Knight
-458            57             30         220            092            -1             //Iron Knight
-458            57             30         233            113            -1             //Iron Knight
-458            57             30         232            140            -1             //Iron Knight
 458            57             30         222            081            -1             //Iron Knight
 458            57             30         203            028            -1             //Iron Knight
 458            57             30         211            033            -1             //Iron Knight
@@ -3014,20 +2336,6 @@ end
 563            57             30         033            095            -1             //Dark Giant
 563            57             30         034            079            -1             //Dark Giant
 563            57             30         037            088            -1             //Dark Giant
-563            57             30         058            156            -1             //Dark Giant
-563            57             30         065            143            -1             //Dark Giant
-563            57             30         038            145            -1             //Dark Giant
-563            57             30         070            101            -1             //Dark Giant
-563            57             30         062            088            -1             //Dark Giant
-563            57             30         073            087            -1             //Dark Giant
-563            57             30         033            220            -1             //Dark Giant
-563            57             30         047            195            -1             //Dark Giant
-563            57             30         098            031            -1             //Dark Giant
-563            57             30         123            045            -1             //Dark Giant
-563            57             30         140            023            -1             //Dark Giant
-563            57             30         039            148            -1             //Dark Giant
-563            57             30         068            139            -1             //Dark Giant
-563            57             30         057            159            -1             //Dark Giant
 563            57             30         032            089            -1             //Dark Giant
 564            57             30         123            040            -1             //Dark Coolutin
 564            57             30         117            042            -1             //Dark Coolutin
@@ -3041,17 +2349,6 @@ end
 564            57             30         059            036            -1             //Dark Coolutin
 564            57             30         064            032            -1             //Dark Coolutin
 565            57             30         127            043            -1             //Dark Iron Knight
-565            57             30         140            032            -1             //Dark Iron Knight
-565            57             30         135            029            -1             //Dark Iron Knight
-565            57             30         101            023            -1             //Dark Iron Knight
-565            57             30         093            026            -1             //Dark Iron Knight
-565            57             30         064            039            -1             //Dark Iron Knight
-565            57             30         091            031            -1             //Dark Iron Knight
-565            57             30         070            095            -1             //Dark Iron Knight
-565            57             30         034            121            -1             //Dark Iron Knight
-565            57             30         030            119            -1             //Dark Iron Knight
-565            57             30         033            224            -1             //Dark Iron Knight
-565            57             30         052            191            -1             //Dark Iron Knight
 563            57             30         038            227            -1             //Dark Giant
 563            57             30         026            216            -1             //Dark Giant
 563            57             30         049            219            -1             //Dark Giant
@@ -3076,131 +2373,18 @@ end
 480            63             30         073            078            -1             //Zombie Fighter
 480            63             30         078            085            -1             //Zombie Fighter
 480            63             30         085            081            -1             //Zombie Fighter
-480            63             30         112            084            -1             //Zombie Fighter
-480            63             30         118            082            -1             //Zombie Fighter
-480            63             30         117            088            -1             //Zombie Fighter
-480            63             30         088            059            -1             //Zombie Fighter
-480            63             30         091            066            -1             //Zombie Fighter
-480            63             30         095            026            -1             //Zombie Fighter
-480            63             30         100            030            -1             //Zombie Fighter
-480            63             30         079            044            -1             //Zombie Fighter
-480            63             30         085            043            -1             //Zombie Fighter
-480            63             30         073            020            -1             //Zombie Fighter
-480            63             30         079            023            -1             //Zombie Fighter
-480            63             30         041            018            -1             //Zombie Fighter
-480            63             30         050            014            -1             //Zombie Fighter
-480            63             30         033            044            -1             //Zombie Fighter
-480            63             30         035            038            -1             //Zombie Fighter
-480            63             30         032            062            -1             //Zombie Fighter
-480            63             30         037            061            -1             //Zombie Fighter
-480            63             30         033            081            -1             //Zombie Fighter
-480            63             30         039            088            -1             //Zombie Fighter
-480            63             30         033            091            -1             //Zombie Fighter
-480            63             30         055            064            -1             //Zombie Fighter
-480            63             30         065            068            -1             //Zombie Fighter
-480            63             30         100            080            -1             //Zombie Fighter
-480            63             30         099            072            -1             //Zombie Fighter
-480            63             30         046            042            -1             //Zombie Fighter
-480            63             30         055            039            -1             //Zombie Fighter
-480            63             30         068            058            -1             //Zombie Fighter
-480            63             30         097            020            -1             //Zombie Fighter
 482            63             30         079            078            -1             //Resurrected Gladiator
 482            63             30         110            065            -1             //Resurrected Gladiator
-482            63             30         099            024            -1             //Resurrected Gladiator
-482            63             30         081            040            -1             //Resurrected Gladiator
-482            63             30         072            024            -1             //Resurrected Gladiator
-482            63             30         038            042            -1             //Resurrected Gladiator
-482            63             30         028            059            -1             //Resurrected Gladiator
-482            63             30         031            086            -1             //Resurrected Gladiator
-482            63             30         057            068            -1             //Resurrected Gladiator
-482            63             30         062            063            -1             //Resurrected Gladiator
-482            63             30         076            063            -1             //Resurrected Gladiator
-482            63             30         092            060            -1             //Resurrected Gladiator
-482            63             30         082            018            -1             //Resurrected Gladiator
-482            63             30         047            054            -1             //Resurrected Gladiator
-482            63             30         040            073            -1             //Resurrected Gladiator
-482            63             30         044            024            -1             //Resurrected Gladiator
-482            63             30         048            019            -1             //Resurrected Gladiator
-482            63             30         053            022            -1             //Resurrected Gladiator
-482            63             30         027            139            -1             //Resurrected Gladiator
-482            63             30         055            145            -1             //Resurrected Gladiator
-482            63             30         063            139            -1             //Resurrected Gladiator
-482            63             30         064            159            -1             //Resurrected Gladiator
-482            63             30         090            180            -1             //Resurrected Gladiator
-482            63             30         029            175            -1             //Resurrected Gladiator
-482            63             30         036            198            -1             //Resurrected Gladiator
-482            63             30         067            185            -1             //Resurrected Gladiator
-482            63             30         050            159            -1             //Resurrected Gladiator
 484            63             30         029            132            -1             //Ash Slaughterer
 484            63             30         035            141            -1             //Ash Slaughterer
 484            63             30         033            178            -1             //Ash Slaughterer
 484            63             30         035            172            -1             //Ash Slaughterer
-484            63             30         034            155            -1             //Ash Slaughterer
-484            63             30         056            138            -1             //Ash Slaughterer
-484            63             30         060            143            -1             //Ash Slaughterer
-484            63             30         063            165            -1             //Ash Slaughterer
-484            63             30         069            161            -1             //Ash Slaughterer
-484            63             30         068            169            -1             //Ash Slaughterer
-484            63             30         072            144            -1             //Ash Slaughterer
-484            63             30         097            182            -1             //Ash Slaughterer
-484            63             30         093            177            -1             //Ash Slaughterer
-484            63             30         059            179            -1             //Ash Slaughterer
-484            63             30         084            165            -1             //Ash Slaughterer
-484            63             30         035            221            -1             //Ash Slaughterer
-484            63             30         044            227            -1             //Ash Slaughterer
-484            63             30         046            218            -1             //Ash Slaughterer
-484            63             30         041            202            -1             //Ash Slaughterer
-484            63             30         059            210            -1             //Ash Slaughterer
-484            63             30         069            215            -1             //Ash Slaughterer
-484            63             30         082            217            -1             //Ash Slaughterer
-484            63             30         080            200            -1             //Ash Slaughterer
-484            63             30         084            207            -1             //Ash Slaughterer
-484            63             30         086            199            -1             //Ash Slaughterer
-484            63             30         094            216            -1             //Ash Slaughterer
-484            63             30         101            220            -1             //Ash Slaughterer
-484            63             30         072            223            -1             //Ash Slaughterer
-484            63             30         037            204            -1             //Ash Slaughterer
-484            63             30         032            205            -1             //Ash Slaughterer
-484            63             30         064            202            -1             //Ash Slaughterer
-484            63             30         073            177            -1             //Ash Slaughterer
-484            63             30         140            215            -1             //Ash Slaughterer
-484            63             30         147            195            -1             //Ash Slaughterer
-484            63             30         165            195            -1             //Ash Slaughterer
-484            63             30         179            183            -1             //Ash Slaughterer
-484            63             30         190            184            -1             //Ash Slaughterer
-484            63             30         182            227            -1             //Ash Slaughterer
 484            63             30         208            225            -1             //Ash Slaughterer
 484            63             30         229            196            -1             //Ash Slaughterer
 484            63             30         232            210            -1             //Ash Slaughterer
 484            63             30         218            227            -1             //Ash Slaughterer
 484            63             30         222            179            -1             //Ash Slaughterer
 486            63             30         137            202            -1             //Blood Assassin
-486            63             30         154            204            -1             //Blood Assassin
-486            63             30         148            214            -1             //Blood Assassin
-486            63             30         133            213            -1             //Blood Assassin
-486            63             30         156            188            -1             //Blood Assassin
-486            63             30         176            193            -1             //Blood Assassin
-486            63             30         185            173            -1             //Blood Assassin
-486            63             30         193            178            -1             //Blood Assassin
-486            63             30         201            190            -1             //Blood Assassin
-486            63             30         228            182            -1             //Blood Assassin
-486            63             30         232            191            -1             //Blood Assassin
-486            63             30         236            203            -1             //Blood Assassin
-486            63             30         226            203            -1             //Blood Assassin
-486            63             30         174            228            -1             //Blood Assassin
-486            63             30         178            223            -1             //Blood Assassin
-486            63             30         189            224            -1             //Blood Assassin
-486            63             30         207            219            -1             //Blood Assassin
-486            63             30         211            231            -1             //Blood Assassin
-486            63             30         218            221            -1             //Blood Assassin
-486            63             30         208            208            -1             //Blood Assassin
-486            63             30         173            111            -1             //Blood Assassin
-486            63             30         179            108            -1             //Blood Assassin
-486            63             30         193            125            -1             //Blood Assassin
-486            63             30         198            113            -1             //Blood Assassin
-486            63             30         199            107            -1             //Blood Assassin
-486            63             30         209            132            -1             //Blood Assassin
-486            63             30         215            113            -1             //Blood Assassin
 486            63             30         234            118            -1             //Blood Assassin
 486            63             30         241            126            -1             //Blood Assassin
 486            63             30         204            143            -1             //Blood Assassin
@@ -3221,38 +2405,10 @@ end
 489            63             30         150            018            -1             //Burning Lava Giant
 489            63             30         188            015            -1             //Burning Lava Giant
 489            63             30         196            012            -1             //Burning Lava Giant
-489            63             30         194            025            -1             //Burning Lava Giant
-489            63             30         207            028            -1             //Burning Lava Giant
-489            63             30         214            026            -1             //Burning Lava Giant
-489            63             30         212            051            -1             //Burning Lava Giant
-489            63             30         217            044            -1             //Burning Lava Giant
-489            63             30         234            050            -1             //Burning Lava Giant
-489            63             30         237            066            -1             //Burning Lava Giant
-489            63             30         233            061            -1             //Burning Lava Giant
-489            63             30         211            066            -1             //Burning Lava Giant
-489            63             30         222            066            -1             //Burning Lava Giant
-489            63             30         183            063            -1             //Burning Lava Giant
-489            63             30         186            039            -1             //Burning Lava Giant
-489            63             30         175            046            -1             //Burning Lava Giant
-489            63             30         170            027            -1             //Burning Lava Giant
-489            63             30         143            078            -1             //Burning Lava Giant
-489            63             30         152            089            -1             //Burning Lava Giant
-489            63             30         184            070            -1             //Burning Lava Giant
-489            63             30         195            061            -1             //Burning Lava Giant
 490            63             30         193            019            -1             //Ruthless Lava Giant
 490            63             30         209            023            -1             //Ruthless Lava Giant
 490            63             30         216            050            -1             //Ruthless Lava Giant
 490            63             30         237            052            -1             //Ruthless Lava Giant
-490            63             30         235            058            -1             //Ruthless Lava Giant
-490            63             30         205            066            -1             //Ruthless Lava Giant
-490            63             30         174            068            -1             //Ruthless Lava Giant
-490            63             30         161            057            -1             //Ruthless Lava Giant
-490            63             30         154            052            -1             //Ruthless Lava Giant
-490            63             30         151            012            -1             //Ruthless Lava Giant
-490            63             30         162            032            -1             //Ruthless Lava Giant
-490            63             30         191            042            -1             //Ruthless Lava Giant
-490            63             30         215            061            -1             //Ruthless Lava Giant
-490            63             30         164            078            -1             //Ruthless Lava Giant
 484            63             30         106            228            -1             //Ash Slaughterer
 484            63             30         143            224            -1             //Ash Slaughterer
 484            63             30         199            226            -1             //Ash Slaughterer
@@ -3260,27 +2416,8 @@ end
 480            63             30         065            049            -1             //Zombie Fighter
 480            63             30         027            098            -1             //Zombie Fighter
 480            63             30         038            055            -1             //Zombie Fighter
-480            63             30         097            035            -1             //Zombie Fighter
-480            63             30         104            077            -1             //Zombie Fighter
-480            63             30         089            087            -1             //Zombie Fighter
-480            63             30         071            090            -1             //Zombie Fighter
-480            63             30         052            057            -1             //Zombie Fighter
-480            63             30         060            076            -1             //Zombie Fighter
-480            63             30         073            043            -1             //Zombie Fighter
-480            63             30         061            038            -1             //Zombie Fighter
-480            63             30         047            085            -1             //Zombie Fighter
-480            63             30         082            064            -1             //Zombie Fighter
 480            63             30         121            072            -1             //Zombie Fighter
 482            63             30         035            132            -1             //Resurrected Gladiator
-482            63             30         035            149            -1             //Resurrected Gladiator
-482            63             30         051            152            -1             //Resurrected Gladiator
-482            63             30         059            132            -1             //Resurrected Gladiator
-482            63             30         080            152            -1             //Resurrected Gladiator
-482            63             30         053            175            -1             //Resurrected Gladiator
-482            63             30         045            164            -1             //Resurrected Gladiator
-482            63             30         033            212            -1             //Resurrected Gladiator
-482            63             30         039            230            -1             //Resurrected Gladiator
-482            63             30         057            203            -1             //Resurrected Gladiator
 484            63             30         144            206            -1             //Ash Slaughterer
 484            63             30         166            203            -1             //Ash Slaughterer
 486            63             30         138            195            -1             //Blood Assassin
@@ -3311,34 +2448,6 @@ end
 569            80             30         148            081            -1             //Venomous Chain Scorpion
 569            80             30         166            066            -1             //Venomous Chain Scorpion
 569            80             30         183            043            -1             //Venomous Chain Scorpion
-569            80             30         194            042            -1             //Venomous Chain Scorpion
-569            80             30         189            072            -1             //Venomous Chain Scorpion
-569            80             30         179            089            -1             //Venomous Chain Scorpion
-569            80             30         192            109            -1             //Venomous Chain Scorpion
-569            80             30         183            122            -1             //Venomous Chain Scorpion
-569            80             30         207            110            -1             //Venomous Chain Scorpion
-569            80             30         213            097            -1             //Venomous Chain Scorpion
-569            80             30         209            089            -1             //Venomous Chain Scorpion
-569            80             30         185            100            -1             //Venomous Chain Scorpion
-569            80             30         175            116            -1             //Venomous Chain Scorpion
-569            80             30         152            070            -1             //Venomous Chain Scorpion
-569            80             30         214            034            -1             //Venomous Chain Scorpion
-569            80             30         226            103            -1             //Venomous Chain Scorpion
-569            80             30         191            157            -1             //Venomous Chain Scorpion
-569            80             30         172            156            -1             //Venomous Chain Scorpion
-569            80             30         209            170            -1             //Venomous Chain Scorpion
-569            80             30         163            178            -1             //Venomous Chain Scorpion
-569            80             30         131            164            -1             //Venomous Chain Scorpion
-569            80             30         112            184            -1             //Venomous Chain Scorpion
-569            80             30         099            177            -1             //Venomous Chain Scorpion
-569            80             30         093            185            -1             //Venomous Chain Scorpion
-569            80             30         079            175            -1             //Venomous Chain Scorpion
-569            80             30         062            123            -1             //Venomous Chain Scorpion
-569            80             30         091            072            -1             //Venomous Chain Scorpion
-569            80             30         089            067            -1             //Venomous Chain Scorpion
-569            80             30         072            131            -1             //Venomous Chain Scorpion
-569            80             30         089            118            -1             //Venomous Chain Scorpion
-569            80             30         108            193            -1             //Venomous Chain Scorpion
 570            80             30         132            067            -1             //Bone Scorpion
 570            80             30         167            048            -1             //Bone Scorpion
 570            80             30         158            075            -1             //Bone Scorpion
@@ -3346,33 +2455,6 @@ end
 570            80             30         180            047            -1             //Bone Scorpion
 570            80             30         191            035            -1             //Bone Scorpion
 570            80             30         207            038            -1             //Bone Scorpion
-570            80             30         201            031            -1             //Bone Scorpion
-570            80             30         198            063            -1             //Bone Scorpion
-570            80             30         188            063            -1             //Bone Scorpion
-570            80             30         184            114            -1             //Bone Scorpion
-570            80             30         204            104            -1             //Bone Scorpion
-570            80             30         201            094            -1             //Bone Scorpion
-570            80             30         226            111            -1             //Bone Scorpion
-570            80             30         183            162            -1             //Bone Scorpion
-570            80             30         176            181            -1             //Bone Scorpion
-570            80             30         146            165            -1             //Bone Scorpion
-570            80             30         102            188            -1             //Bone Scorpion
-570            80             30         098            188            -1             //Bone Scorpion
-570            80             30         093            169            -1             //Bone Scorpion
-570            80             30         109            176            -1             //Bone Scorpion
-570            80             30         139            156            -1             //Bone Scorpion
-570            80             30         161            174            -1             //Bone Scorpion
-570            80             30         161            159            -1             //Bone Scorpion
-570            80             30         210            188            -1             //Bone Scorpion
-570            80             30         219            172            -1             //Bone Scorpion
-570            80             30         230            162            -1             //Bone Scorpion
-570            80             30         223            162            -1             //Bone Scorpion
-570            80             30         225            168            -1             //Bone Scorpion
-570            80             30         182            175            -1             //Bone Scorpion
-570            80             30         193            192            -1             //Bone Scorpion
-570            80             30         165            092            -1             //Bone Scorpion
-570            80             30         173            086            -1             //Bone Scorpion
-570            80             30         120            180            -1             //Bone Scorpion
 570            80             30         127            167            -1             //Bone Scorpion
 570            80             30         071            126            -1             //Bone Scorpion
 570            80             30         066            117            -1             //Bone Scorpion
@@ -3384,12 +2466,6 @@ end
 571            80             30         181            189            -1             //Orcus
 571            80             30         187            181            -1             //Orcus
 571            80             30         202            155            -1             //Orcus
-571            80             30         081            127            -1             //Orcus
-571            80             30         093            112            -1             //Orcus
-571            80             30         183            053            -1             //Orcus
-571            80             30         206            034            -1             //Orcus
-571            80             30         180            102            -1             //Orcus
-571            80             30         200            166            -1             //Orcus
 571            80             30         207            182            -1             //Orcus
 573            80             30         039            186            -1             //Crypta
 573            80             30         033            162            -1             //Crypta
@@ -3399,29 +2475,6 @@ end
 573            80             30         044            090            -1             //Crypta
 573            80             30         035            070            -1             //Crypta
 573            80             30         042            056            -1             //Crypta
-573            80             30         051            066            -1             //Crypta
-573            80             30         043            083            -1             //Crypta
-573            80             30         058            068            -1             //Crypta
-573            80             30         029            144            -1             //Crypta
-573            80             30         041            180            -1             //Crypta
-573            80             30         038            167            -1             //Crypta
-573            80             30         042            105            -1             //Crypta
-573            80             30         038            132            -1             //Crypta
-573            80             30         044            148            -1             //Crypta
-573            80             30         057            178            -1             //Crypta
-574            80             30         040            074            -1             //Crypos
-574            80             30         049            058            -1             //Crypos
-574            80             30         036            085            -1             //Crypos
-574            80             30         029            151            -1             //Crypos
-574            80             30         038            143            -1             //Crypos
-574            80             30         055            160            -1             //Crypos
-574            80             30         029            157            -1             //Crypos
-574            80             30         044            160            -1             //Crypos
-574            80             30         038            173            -1             //Crypos
-574            80             30         036            088            -1             //Crypos
-574            80             30         053            070            -1             //Crypos
-574            80             30         041            096            -1             //Crypos
-574            80             30         032            133            -1             //Crypos
 570            80             30         163            054            -1             //Bone Scorpion
 570            80             30         169            070            -1             //Bone Scorpion
 570            80             30         170            063            -1             //Bone Scorpion
@@ -3452,82 +2505,8 @@ end
 575            81             30         186            060            -1             //Condra
 575            81             30         171            068            -1             //Condra
 575            81             30         137            081            -1             //Condra
-575            81             30         140            063            -1             //Condra
-575            81             30         097            078            -1             //Condra
-575            81             30         126            089            -1             //Condra
-575            81             30         106            082            -1             //Condra
-575            81             30         098            092            -1             //Condra
-575            81             30         081            095            -1             //Condra
-575            81             30         069            088            -1             //Condra
-575            81             30         100            104            -1             //Condra
-575            81             30         119            081            -1             //Condra
-575            81             30         156            080            -1             //Condra
-575            81             30         200            083            -1             //Condra
-575            81             30         203            062            -1             //Condra
-575            81             30         206            040            -1             //Condra
-575            81             30         169            039            -1             //Condra
-575            81             30         169            030            -1             //Condra
-575            81             30         101            057            -1             //Condra
-575            81             30         076            053            -1             //Condra
-575            81             30         078            103            -1             //Condra
-575            81             30         097            085            -1             //Condra
-575            81             30         138            113            -1             //Condra
-575            81             30         145            108            -1             //Condra
-575            81             30         178            064            -1             //Condra
-575            81             30         201            058            -1             //Condra
-575            81             30         201            087            -1             //Condra
-575            81             30         221            048            -1             //Condra
-575            81             30         211            065            -1             //Condra
-575            81             30         074            105            -1             //Condra
-575            81             30         071            131            -1             //Condra
-575            81             30         059            121            -1             //Condra
-575            81             30         054            136            -1             //Condra
-575            81             30         058            140            -1             //Condra
-575            81             30         062            138            -1             //Condra
-575            81             30         130            121            -1             //Condra
-575            81             30         132            103            -1             //Condra
-575            81             30         152            105            -1             //Condra
-575            81             30         200            108            -1             //Condra
-575            81             30         213            126            -1             //Condra
-575            81             30         211            095            -1             //Condra
-575            81             30         182            072            -1             //Condra
-575            81             30         185            047            -1             //Condra
-575            81             30         164            030            -1             //Condra
 576            81             30         087            042            -1             //Narcondra
 576            81             30         081            054            -1             //Narcondra
-576            81             30         107            062            -1             //Narcondra
-576            81             30         110            055            -1             //Narcondra
-576            81             30         122            058            -1             //Narcondra
-576            81             30         092            080            -1             //Narcondra
-576            81             30         141            056            -1             //Narcondra
-576            81             30         170            035            -1             //Narcondra
-576            81             30         190            038            -1             //Narcondra
-576            81             30         195            061            -1             //Narcondra
-576            81             30         210            043            -1             //Narcondra
-576            81             30         202            080            -1             //Narcondra
-576            81             30         140            074            -1             //Narcondra
-576            81             30         133            083            -1             //Narcondra
-576            81             30         125            085            -1             //Narcondra
-576            81             30         104            089            -1             //Narcondra
-576            81             30         078            098            -1             //Narcondra
-576            81             30         065            090            -1             //Narcondra
-576            81             30         066            126            -1             //Narcondra
-576            81             30         078            109            -1             //Narcondra
-576            81             30         132            109            -1             //Narcondra
-576            81             30         187            081            -1             //Narcondra
-576            81             30         197            099            -1             //Narcondra
-576            81             30         206            110            -1             //Narcondra
-576            81             30         217            122            -1             //Narcondra
-576            81             30         210            130            -1             //Narcondra
-576            81             30         148            120            -1             //Narcondra
-576            81             30         153            113            -1             //Narcondra
-576            81             30         069            140            -1             //Narcondra
-576            81             30         053            129            -1             //Narcondra
-576            81             30         095            095            -1             //Narcondra
-576            81             30         084            100            -1             //Narcondra
-576            81             30         150            084            -1             //Narcondra
-576            81             30         181            057            -1             //Narcondra
-571            81             30         058            160            -1             //Orcus
 571            81             30         053            165            -1             //Orcus
 571            81             30         067            180            -1             //Orcus
 571            81             30         070            169            -1             //Orcus
@@ -3550,15 +2529,6 @@ end
 572            81             30         140            154            -1             //Gollock
 572            81             30         148            144            -1             //Gollock
 572            81             30         201            158            -1             //Gollock
-572            81             30         208            171            -1             //Gollock
-572            81             30         214            162            -1             //Gollock
-572            81             30         202            166            -1             //Gollock
-572            81             30         206            134            -1             //Gollock
-572            81             30         216            137            -1             //Gollock
-572            81             30         140            117            -1             //Gollock
-572            81             30         061            145            -1             //Gollock
-572            81             30         066            142            -1             //Gollock
-571            81             30         064            134            -1             //Orcus
 571            81             30         126            124            -1             //Orcus
 571            81             30         132            117            -1             //Orcus
 571            81             30         214            133            -1             //Orcus
