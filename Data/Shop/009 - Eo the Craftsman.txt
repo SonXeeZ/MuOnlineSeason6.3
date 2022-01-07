@@ -9,9 +9,7 @@
 9	13	0	0	0	1	1	0  0 0 0 0 0 0 0 0  //Spirit Pants
 10	13	0	0	0	1	1	0  0 0 0 0 0 0 0 0  //Spirit Gloves
 11	13	0	0	0	1	1	0  0 0 0 0 0 0 0 0  //Spirit Boots
-4	1	0	0	0	1	1	0  0 0 0 0 0 0 0 0  //Bow
 4	2	0	0	0	1	1	0  0 0 0 0 0 0 0 0  //Elven Bow
-4	8	0	0	0	1	1	0  0 0 0 0 0 0 0 0  //Crossbow
 4	9	0	0	0	1	1	0  0 0 0 0 0 0 0 0  //Golden Crossbow
 12	9	0	0	0	0	0	0  0 0 0 0 0 0 0 0  //Orb of Great Defense
 12	10	0	0	0	0	0	0  0 0 0 0 0 0 0 0  //Orb of Greater Damage
