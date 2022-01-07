@@ -1,13 +1,3 @@
 //Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
-14	1	0	10	0	0	0	0	0	0	0	255	255	255	255	255	//Small Healing Potion
-14	1	0	25	0	0	0	0	0	0	0	255	255	255	255	255	//Small Healing Potion
-14	1	0	50	0	0	0	0	0	0	0	255	255	255	255	255	//Small Healing Potion
-14	3	0	100	0	0	0	0	0	0	0	255	255	255	255	255	//Large Healing Potion
-14	3	0	200	0	0	0	0	0	0	0	255	255	255	255	255	//Large Healing Potion
-14	4	0	10	0	0	0	0	0	0	0	255	255	255	255	255	//Small Mana Potion
-14	4	0	25	0	0	0	0	0	0	0	255	255	255	255	255	//Small Mana Potion
-14	4	0	50	0	0	0	0	0	0	0	255	255	255	255	255	//Small Mana Potion
-14	6	0	100	0	0	0	0	0	0	0	255	255	255	255	255	//Large Mana Potion
-14	6	0	200	0	0	0	0	0	0	0	255	255	255	255	255	//Large Mana Potion
-14	8	0	50	0	0	0	0	0	0	0	255	255	255	255	255	//Antidote
+
 end

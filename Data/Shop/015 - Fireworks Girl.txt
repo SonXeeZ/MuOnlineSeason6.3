@@ -1,9 +1,3 @@
 //Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
-12	36	10	255	1	1	7	63	0	0	0	255	255	255	255	255	//Wing of Storm
-12	37	10	255	1	1	7	63	0	0	0	255	255	255	255	255	//Wing of Eternal
-12	38	10	255	1	1	7	63	0	0	0	255	255	255	255	255	//Wing of Illusion
-12	39	10	255	1	1	7	63	0	0	0	255	255	255	255	255	//Wing of Ruin
-12	43	10	255	1	1	7	63	0	0	0	255	255	255	255	255	//Wing of Dimension
-12	50	10	255	1	1	7	63	0	0	0	255	255	255	255	255	//Cape of Overrule
-12	40	10	255	1	1	7	63	0	0	0	255	255	255	255	255	//Cape of Emperor
+14          63     0       1     0       0      0        0  0 0 0 0 0 0 0 0 
 end
