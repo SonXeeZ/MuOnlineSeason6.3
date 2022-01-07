@@ -347,3 +347,22 @@
 17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 179 Y: 124)
 17:10:00 [CustomQuiz] Start
 17:13:00 [CustomQuiz] Finish
+17:26:58 [ServerInfo] CashShop loaded successfully
+17:26:58 [ServerInfo] ChaosMix loaded successfully
+17:26:58 [ServerInfo] Character loaded successfully
+17:26:58 [ServerInfo] Custom loaded successfully
+17:26:58 [ServerInfo] Command loaded successfully
+17:26:59 [ServerInfo] Event loaded successfully
+17:26:59 [ServerInfo] EventItemBag loaded successfully
+17:26:59 [ServerInfo] Hack loaded successfully
+17:26:59 [ServerInfo] Item loaded successfully
+17:26:59 [ServerInfo] Monster loaded successfully
+17:26:59 [ServerInfo] Move loaded successfully
+17:26:59 [ServerInfo] Quest loaded successfully
+17:26:59 [ServerInfo] Shop loaded successfully
+17:26:59 [ServerInfo] Skill loaded successfully
+17:26:59 [ServerInfo] Util loaded successfully
+17:26:59 [ReadBotInfo] BotSystem [buffer] loaded successfully
+17:26:59 [ReadBotInfo] BotSystem [alquimista] loaded successfully
+17:27:06 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+17:36:01 [OnlineLoterry] No Winner
