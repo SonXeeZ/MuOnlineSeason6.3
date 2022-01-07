@@ -211,11 +211,31 @@ end
 020            02             30         005            050            050          155          -1             20            //Elite Yeti
 020            02             30         006            184            080          244          -1             10            //Elite Yeti
 025            02             30         006            184            080          244          -1             03            //Ice Queen
+024            02             00         228            084            228          084          -1             10             //Worm
+024            02             00         210            081            210          081          -1             10             //Worm
+024            02             00         159            058            159          059          -1             10             //Worm
+024            02             00         163            041            163          041          -1             10             //Worm
+019            02             00         168            016            148          016          -1             10             //Yeti
+023            02             00         205            111            205          111          -1             10             //Hommerd
+023            02             00         225            113            225          113          -1             10             //Hommerd
+023            02             00         221            128            221          128          -1             10             //Hommerd
+021            02             00         129            044            129          044          -1             10             //Assassin
+019            02             00         037            038            037          038          -1             10             //Yeti
+019            02             00         017            039            017          039          -1             10             //Yeti
+019            02             00         036            012            036          012          -1             10             //Yeti
+019            02             00         016            010            016          010          -1             10             //Yeti
+019            02             00         055            020            055          020          -1             10             //Yeti
+020            02             00         225            230            225          230          -1             10             //Elite Yeti
+020            02             00         216            215            216          215          -1             10             //Elite Yeti
+020            02             00         213            229            213          229          -1             10             //Elite Yeti
+020            02             00         238            217            238          217          -1             10             //Elite Yeti
+020            02             00         239            235            239          235          -1             10             //Elite Yeti
+020            02             00         191            246            191          246          -1             14            //Elite Yeti
 end
 
 1
 //Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
-003            03             30         139            063            247          164          -1             60            //Spider
+003            03             30         139            063            247          164          -1             30            //Spider
 026            03             30         109            046            154          181          -1             10            //Goblin
 026            03             30         136            156            247          204          -1             10            //Goblin
 026            03             30         135            042            247          073          -1             10            //Goblin
@@ -235,7 +255,186 @@ end
 031            03             30         041            107            107          181          -1             20            //Agon
 031            03             30         105            184            247          246          -1             20            //Agon
 032            03             30         004            168            115          248          -1             40            //Stone Golem
+026            03             00         155            124            155          124          -1             10             //Goblin
+003            03             00         149            114            149          114          -1             10             //Spider
+027            03             00         133            108            133          108          -1             10             //Chain Scorpion
+032            03             00         144            128            144          128          -1             10             //Stone Golem
+028            03             00         167            073            167          073          -1             10             //Beetle Monster
+032            03             00         207            140            207          140          -1             10             //Stone Golem
 end
+
+1
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
+45            07             00         013            033            013          033          -1             10            //Bahamut
+45            07             00         038            037            038          037          -1             8             //Bahamut
+46            07             00         038            037            038          037          -1             6             //Vepar
+46            07             00         042            015            056          026          -1             5             //Vepar
+45            07             00         040            020            055          030          -1             6             //Bahamut
+45            07             00         020            042            020          042          -1             10             //Bahamut
+45            07             00         028            060            028          060          -1             10             //Bahamut
+45            07             00         015            079            015          079          -1             10             //Bahamut
+46            07             00         012            129            012          129          -1             10             //Vepar
+46            07             00         039            111            039          111          -1             10             //Vepar
+47            07             00         048            092            048          092          -1             10             //Valkyrie
+47            07             00         069            090            069          090          -1             10             //Valkyrie
+47            07             00         088            057            088          057          -1             10             //Valkyrie
+51            07             00         240            051            240          051          -1             10             //Great Bahamut
+51            07             00         240            071            240          071          -1             10             //Great Bahamut
+52            07             00         079            156            079          156          -1             10             //Silver Valkyrie
+end
+
+
+1
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
+418            51             00         108            217            108          217          -1             10            //Strange Rabbit
+418            51             00         120            222            120          222          -1             10            //Strange Rabbit
+421            51             00         110            203            110          203          -1             10            //Polluted Butterfly
+418            51             00         046            155            046          155          -1             10            //Strange Rabbit
+418            51             00         055            149            055          149          -1             10            //Strange Rabbit
+421            51             00         041            138            041          138          -1             10            //Polluted Butterfly
+422            51             00         103            061            103          061          -1             10            //Cursed Lich
+420            51             00         102            047            102          047          -1             10            //Werewolf
+423            51             00         192            152            192          152          -1             10            //Totem Golem
+423            51             00         177            174            177          174          -1             10            //Totem Golem
+end
+
+1
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
+036            04             00         212            089            212          089          -1             10            //Shadow
+036            04             00         191            098            191          098          -1             10            //Shadow
+036            04             00         201            115            201          115          -1             10            //Shadow
+036            04             00         202            129            202          129          -1             10            //Shadow
+036            04             00         211            114            211          114          -1             10            //Shadow
+039            04             00         228            245            228          245          -1             10            //Poison Shadow
+039            04             00         207            245            207          245          -1             10            //Poison Shadow
+034            04             00         101            169            101          169          -1             10            //Cursed Wizard
+041            04             00         083            184            083          184          -1             10            //Death Cow
+041            04             00         083            209            083          209          -1             7             //Death Cow
+034            04             00         083            209            083          209          -1             8             //Cursed Wizard
+041            04             00         083            102            083          102          -1             10             //Death Cow
+041            04             00         083            135            083          135          -1             10             //Death Cow
+041            04             00         106            137            106          137          -1             10             //Death Cow
+041            04             00         133            130            133          130          -1             10             //Death Cow
+041            04             00         133            088            133          088          -1             10             //Death Cow
+041            04             00         115            088            115          088          -1             10             //Death Cow
+040            04             00         129            043            129          043          -1             10             //Death Knight
+040            04             00         112            040            112          040          -1             10             //Death Knight
+040            04             00         112            025            112          025          -1             10             //Death Knight
+040            04             00         130            025            130          025          -1             10             //Death Knight
+040            04             00         054            049            054          049          -1             10             //Death Knight
+040            04             00         054            025            054          025          -1             10             //Death Knight
+040            04             00         054            008            054          008          -1             10             //Death Knight
+040            04             00         022            010            022          010          -1             10             //Death Knight
+040            04             00         045            034            045          034          -1             10             //Death Knight
+040            04             00         031            056            031          056          -1             10             //Death Knight
+040            04             00         014            048            014          048          -1             10             //Death Knight
+040            04             00         007            018            007          018          -1             10             //Death Knight
+040            04             00         054            092            054          092          -1             15             //Death Knight
+040            04             00         014            102            014          102          -1             10             //Death Knight
+035            04             00         015            106            014          106          -1             10             //Death Gorgon
+035            04             00         054            115            054          115          -1             15             //Death Gorgon
+035            04             00         031            128            031          128          -1             10             //Death Gorgon
+035            04             00         014            128            014          128          -1             10             //Death Gorgon
+end
+
+1
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
+062            08             00         155            040            155          040          -1             15            //Mutant
+062            08             00         151            064            151          064          -1             15            //Mutant
+062            08             00         125            050            125          050          -1             15            //Mutant
+062            08             00         139            056            139          056          -1             15            //Mutant
+062            08             00         080            055            090          055          -1             15            //Mutant
+062            08             00         098            066            098          066          -1             15            //Mutant
+062            08             00         100            034            100          034          -1             15            //Mutant
+062            08             00         123            082            123          092          -1             15            //Mutant
+062            08             00         141            097            141          097          -1             15            //Mutant
+062            08             00         206            106            206          106          -1             20            //Mutant
+062            08             00         179            115            179          115          -1             15            //Mutant
+062            08             00         153            125            153          125          -1             15            //Mutant
+058            08             00         106            148            106          148          -1             15            //Tantalos
+058            08             00         096            115            096          115          -1             15            //Tantalos
+058            08             00         089            129            089          129          -1             15            //Tantalos
+end
+
+
+1
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
+351            37             00         040            235            040          235          -1             10            //Bloody wolf
+351            37             00         037            232            037          232          -1             10            //Bloody wolf
+351            37             00         061            236            061          236          -1             10            //Bloody wolf
+351            37             00         078            240            078          240          -1             10            //Bloody wolf
+351            37             00         092            241            092          241          -1             10            //Bloody wolf
+351            37             00         109            238            109          238          -1             10            //Bloody wolf
+351            37             00         125            232            125          232          -1             10            //Bloody wolf
+353            37             00         210            038            210          038          -1             10            //Satyros
+354            37             00         220            049            220          049          -1             10            //Blade Hunter
+353            37             00         236            065            236          065          -1             10            //Satyros
+354            37             00         236            065            236          065          -1             10            //Blade Hunter
+353            37             00         222            081            222          081          -1             10            //Satyros
+353            37             00         240            090            240          090          -1             10            //Satyros
+353            37             00         226            115            226          115          -1             10            //Satyros
+353            37             00         185            027            185          027          -1             5             //Satyros
+354            37             00         185            027            185          027          -1             5             //Blade Hunter
+355            37             00         185            027            185          027          -1             5             //Kentauros
+350            37             00         185            027            185          027          -1             5             //Berserker
+354            37             00         170            050            170          050          -1             10            //Blade Hunter
+350            37             00         152            059            152          059          -1             10            //Berserker
+355            37             00         139            044            139          044          -1             16            //Kentauros
+356            37             00         162            037            162          037          -1             10            //Gigantis
+356            37             00         152            011            152          011          -1             10            //Gigantis
+357            37             00         114            024            114          024          -1             10            //Genocider
+357            37             00         117            045            117          045          -1             10            //Genocider
+357            37             00         057            087            057          087          -1             15            //Genocider
+359            38             00         097            097            097          097          -1             10            //Twin Tale
+359            38             00         099            079            099          079          -1             10            //Twin Tale
+358            38             00         125            073            125          073          -1             10            //Persona
+358            38             00         126            100            126          100          -1             10            //Persona
+359            38             00         141            104            141          104          -1             10            //Twin Tale
+359            38             00         164            096            164          096          -1             10            //Twin Tale
+360            38             00         165            130            165          130          -1             10            //Dreadfear
+358            38             00         119            128            119          128          -1             10            //Persona
+358            38             00         108            150            108          150          -1             10            //Persona
+359            38             00         108            155            108          155          -1             10            //Twin Tale
+360            38             00         108            153            108          153          -1             10            //Dreadfear
+end
+
+1
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
+308            33             00         111            020            207          140          -1             15             //Death Tree
+308            33             00         126            029            126          029          -1             15             //Death Tree
+307            33             00         141            015            141          015          -1             15             //Orc
+307            33             00         141            015            141          015          -1             15             //Orc
+307            33             00         144            032            144          032          -1             15             //Orc
+305            33             00         159            168            159          168          -1             15             //Blue Golem
+305            33             00         175            155            175          155          -1             15             //Blue Golem
+305            33             00         199            152            199          152          -1             15             //Blue Golem
+305            33             00         162            126            162          126          -1             15             //Blue Golem
+305            33             00         178            121            178          121          -1             15             //Blue Golem
+305            33             00         158            108            158          108          -1             15             //Blue Golem
+305            33             00         143            112            143          112          -1             15             //Blue Golem
+305            33             00         141            126            141          126          -1             15             //Blue Golem
+305            33             00         210            175            210          175          -1             15             //Blue Golem
+305            33             00         230            161            230          161          -1             15             //Blue Golem
+305            33             00         221            143            211          143          -1             15             //Blue Golem
+069            10             30         012            031            061          044          -1             15             //Alquamos
+071            10             30         012            031            061          044          -1             10             //Mega Crust
+070            10             30         078            074            087          074          -1             5              //Queen Rainier
+074            10             00         042            083            042          083          -1             15             //Alpha Crust
+074            10             00         027            101            027          101          -1             15             //Alpha Crust
+074            10             00         045            107            045          107          -1             15             //Alpha Crust
+454            57             00         186            192            186          192          -1             15             //Ice Walker
+454            57             00         174            216            174          216          -1             15             //Ice Walker
+454            57             00         177            183            177          183          -1             15             //Ice Walker
+454            57             00         158            191            158          191          -1             15             //Ice Walker
+455            57             00         141            191            141          191          -1             15             //Gigant Mammoth
+455            57             00         116            184            116          184          -1             15             //Gigant Mammoth
+455            57             00         131            174            131          174          -1             15             //Gigant Mammoth
+458            57             00         130            147            130          147          -1             15             //Iron Knight
+458            57             00         134            125            134          125          -1             15             //Iron Knight
+458            57             00         155            141            155          141          -1             15             //Iron Knight
+458            57             00         152            121            152          121          -1             15             //Iron Knight
+end
+
 
 1
 //Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
