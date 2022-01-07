@@ -24,7 +24,7 @@ NewCloseServer = 1
 ;==================================================
 ; Translate System (0: ENG, 1: SPN, 2: POR)
 ;==================================================
-ServerLanguage = 1
+ServerLanguage = 0
 
 ;==================================================
 ; Connection Settings
