@@ -1039,3 +1039,7 @@
 15:40:59 [Connection] connect() failed with error: 10038
 15:41:09 [SocketManager] Server started at port [55919]
 15:41:12 [Connection] connect() failed with error: 10061
+16:00:17 [SocketManager] Server started at port [55919]
+16:00:19 [Connection] connect() failed with error: 10061
+16:21:54 [SocketManager] Server started at port [55919]
+16:21:57 [Connection] connect() failed with error: 10061
