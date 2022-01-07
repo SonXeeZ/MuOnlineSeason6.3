@@ -35,7 +35,7 @@
 	10       "/bau"				1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//bau <num>			- Change warehouse
 	11       "/reset"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//reset |auto|			- Reset character
 	12       "/gmmove"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//gmmove <Name> <Map> <X> <Y>	- Move a player
-	13       "/gmpost"			0	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//gmpost <Msg>			- Send global message
+	13       "/gmpost"			1	0	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//gmpost <Msg>			- Send global message
 	14       "/track"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//track <Name> 			- Go to player
 	15       "/trace"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//trace <Name>			- Bring a player
 	16       "/disconnect"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//disconnect <Name>		- Disconnect Player
