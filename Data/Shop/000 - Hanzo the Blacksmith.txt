@@ -1,4 +1,4 @@
-//Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+//Section   Type   Level   Dur   Skill   Luck   Option   Excellent
 7	0	2	0	1	1	1	0 //Bronze Helm
 8	0	2	0	1	1	1	0 //Bronze Armor
 9	0	2	0	1	1	1	0 //Bronze Pants
@@ -14,5 +14,6 @@
 0	1	0	0	1	1	1	0 //Short Sword
 0	12	0	0	1	1	1	0 //Helical Sword
 6	2	3	0	0	0	1       0 //Kite Shield
-12	7	0	100	0	1	0	0	0	0	0	255	255	255	255	255	//Orb of Twisting Slash
+12	7	0	0	0	0	0	0 //Orb of Twisting Slash
 end
+
