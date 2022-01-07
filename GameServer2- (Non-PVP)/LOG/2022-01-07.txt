@@ -553,3 +553,4 @@
 19:37:27 [ReadBotInfo] BotSystem [buffer] loaded successfully
 19:37:27 [ReadBotInfo] BotSystem [alquimista] loaded successfully
 19:37:35 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+20:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 203 Y: 74)

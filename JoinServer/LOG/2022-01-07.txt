@@ -245,3 +245,6 @@
 19:37:39 [ServerManager][1] ServerInfo (MuEMU) (55903) (5)
 19:37:43 [ServerManager][2] AddServer (127.0.0.1)
 19:37:43 [ServerManager][2] ServerInfo (MuEMU_CS) (55919) (19)
+20:06:03 [ServerManager][0] DelServer (127.0.0.1)
+20:06:03 [ServerManager][1] DelServer (127.0.0.1)
+20:06:03 [ServerManager][2] DelServer (127.0.0.1)
