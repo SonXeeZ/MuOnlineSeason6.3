@@ -252,3 +252,25 @@
 14:26:06 [Obj][9000] LogOutCharacter (MGTeste)
 14:26:06 [Obj][9000] DelAccount (louismk2)
 14:26:06 [Obj][9000] DelClient (25.87.92.210)
+14:27:50 [ServerInfo] CashShop loaded successfully
+14:27:50 [ServerInfo] ChaosMix loaded successfully
+14:27:50 [ServerInfo] Character loaded successfully
+14:27:50 [ServerInfo] Custom loaded successfully
+14:27:50 [ServerInfo] Command loaded successfully
+14:27:50 [ServerInfo] Event loaded successfully
+14:27:50 [ServerInfo] EventItemBag loaded successfully
+14:27:50 [ServerInfo] Hack loaded successfully
+14:27:50 [ServerInfo] Item loaded successfully
+14:27:50 [ServerInfo] Monster loaded successfully
+14:27:50 [ServerInfo] Move loaded successfully
+14:27:50 [ServerInfo] Quest loaded successfully
+14:27:50 [ServerInfo] Shop loaded successfully
+14:27:50 [ServerInfo] Skill loaded successfully
+14:27:50 [ServerInfo] Util loaded successfully
+14:27:50 [ReadBotInfo] BotSystem [buffer] loaded successfully
+14:27:50 [ReadBotInfo] BotSystem [alquimista] loaded successfully
+14:28:13 [Obj][9000] AddClient (25.87.92.210)
+14:28:43 [Obj][9000] DelClient (25.87.92.210)
+14:36:01 [OnlineLoterry] No Winner
+14:50:00 [Invasion Manager] Index(7) Boss Position (Map: 0 X: 158 Y: 56)
+15:10:00 [CustomQuiz] Start
