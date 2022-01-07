@@ -124,3 +124,4 @@
 16:30:24 [ServerManager][1] DelServer (127.0.0.1)
 16:30:24 [ServerManager][2] DelServer (127.0.0.1)
 16:30:24 [ServerManager][0] DelServer (127.0.0.1)
+16:31:41 Could not connect to database

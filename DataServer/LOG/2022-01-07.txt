@@ -230,3 +230,4 @@
 16:27:38 UPDATE Character SET cLevel=400,Class=18,LevelUpPoint=555,Experience=-472819216,Strength=64690,Dexterity=30000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=1782066202,Life=242922.000000,MaxLife=195903.000000,Mana=80881.000000,MaxMana=65227.000000,BP=100203.000000,MaxBP=100203.000000,Shield=289368.000000,MaxShield=289368.000000,MapNumber=0,MapPosX=192,MapPosY=141,MapDir=2,PkCount=0,PkLevel=3,PkTime=0,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=13,ExtInventory=2,Married=65535,MarryCouple='' WHERE AccountID='louismk' AND Name='LuisADM'
 16:27:38 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Married'.
 16:27:38 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'MarryCouple'.
+16:31:23 Could not connect to database

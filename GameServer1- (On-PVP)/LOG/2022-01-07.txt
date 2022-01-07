@@ -508,3 +508,26 @@
 16:30:24 [Obj][9002] LogOutCharacter (Duzzi)
 16:30:24 [Obj][9002] DelAccount (Duzzad)
 16:30:24 [Obj][9002] DelClient (25.93.129.217)
+16:31:24 [ServerInfo] CashShop loaded successfully
+16:31:24 [ServerInfo] ChaosMix loaded successfully
+16:31:24 [ServerInfo] Character loaded successfully
+16:31:24 [ServerInfo] Custom loaded successfully
+16:31:24 [ServerInfo] Command loaded successfully
+16:31:24 [ServerInfo] Event loaded successfully
+16:31:24 [ServerInfo] EventItemBag loaded successfully
+16:31:24 [ServerInfo] Hack loaded successfully
+16:31:24 [ServerInfo] Item loaded successfully
+16:31:24 [ServerInfo] Monster loaded successfully
+16:31:24 [ServerInfo] Move loaded successfully
+16:31:24 [ServerInfo] Quest loaded successfully
+16:31:24 [ServerInfo] Shop loaded successfully
+16:31:25 [ServerInfo] Skill loaded successfully
+16:31:25 [ServerInfo] Util loaded successfully
+16:31:25 [ReadBotInfo] BotSystem [buffer] loaded successfully
+16:31:25 [ReadBotInfo] BotSystem [alquimista] loaded successfully
+16:31:26 [Obj][9000] AddClient (25.1.116.186)
+16:31:26 [Obj][9001] AddClient (25.87.92.210)
+16:31:26 [Obj][9002] AddClient (25.93.129.217)
+16:31:56 [Obj][9000] DelClient (25.1.116.186)
+16:31:56 [Obj][9001] DelClient (25.87.92.210)
+16:31:56 [Obj][9002] DelClient (25.93.129.217)

@@ -257,3 +257,20 @@
 16:21:51 [ReadBotInfo] BotSystem [alquimista] loaded successfully
 16:21:59 [ CRYWOLF ] SYNC Occupation: 0, State: 0
 16:25:01 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 201 Y: 97)
+16:31:30 [ServerInfo] CashShop loaded successfully
+16:31:30 [ServerInfo] ChaosMix loaded successfully
+16:31:30 [ServerInfo] Character loaded successfully
+16:31:30 [ServerInfo] Custom loaded successfully
+16:31:30 [ServerInfo] Command loaded successfully
+16:31:30 [ServerInfo] Event loaded successfully
+16:31:30 [ServerInfo] EventItemBag loaded successfully
+16:31:30 [ServerInfo] Hack loaded successfully
+16:31:30 [ServerInfo] Item loaded successfully
+16:31:30 [ServerInfo] Monster loaded successfully
+16:31:30 [ServerInfo] Move loaded successfully
+16:31:30 [ServerInfo] Quest loaded successfully
+16:31:30 [ServerInfo] Shop loaded successfully
+16:31:30 [ServerInfo] Skill loaded successfully
+16:31:30 [ServerInfo] Util loaded successfully
+16:31:30 [ReadBotInfo] BotSystem [buffer] loaded successfully
+16:31:30 [ReadBotInfo] BotSystem [alquimista] loaded successfully
