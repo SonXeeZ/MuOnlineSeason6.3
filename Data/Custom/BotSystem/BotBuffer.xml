@@ -1,0 +1,106 @@
+<BotBuffer>
+    <!--
+	Class    = 0,1,2	DW,SM,GM  = 16,17,18	DK,BK,BM  = 32,33,34	Elf,ME,HE
+   	         = 48,49,50 MG,DM    = 64,65,66	DL,LE     = 80,81,82	SU,BS,DS
+             = 97,98 RF,FM
+	-->
+
+    <CreateBot>
+	    <NewBot IndexBot="0" Class="34" Enabled="0" ColorNameID="1" Zen="100" PCPoints="0" MaxLevel="400" BotName="[ELF BUF]" MapID="00" CoordX="136" CoordY="125" Dir="2" />
+		<NewBot IndexBot="1" Class="2"  Enabled="0" ColorNameID="2" Zen="100" PCPoints="0" MaxLevel="400" BotName="[SM BUF]"  MapID="00" CoordX="136" CoordY="126" Dir="2" />
+        <NewBot IndexBot="2" Class="18" Enabled="0" ColorNameID="3" Zen="100" PCPoints="0" MaxLevel="400" BotName="[BM BUF]"  MapID="00" CoordX="136" CoordY="127" Dir="2" />
+        <NewBot IndexBot="3" Class="66" Enabled="0" ColorNameID="4" Zen="100" PCPoints="0" MaxLevel="400" BotName="[DL BUF]"  MapID="00" CoordX="136" CoordY="128" Dir="2" />
+        <NewBot IndexBot="4" Class="82" Enabled="0" ColorNameID="5" Zen="100" PCPoints="0" MaxLevel="400" BotName="[SUM BUF]" MapID="00" CoordX="136" CoordY="129" Dir="2" />
+        <NewBot IndexBot="5" Class="98" Enabled="0" ColorNameID="6" Zen="100" PCPoints="0" MaxLevel="400" BotName="[RF BUF]"  MapID="00" CoordX="136" CoordY="130" Dir="2" />
+        <NewBot IndexBot="6" Class="18" Enabled="0" ColorNameID="0" Zen="100" PCPoints="0" MaxLevel="400" BotName="[Guard1]"  MapID="00" CoordX="136" CoordY="124" Dir="2" />
+        <NewBot IndexBot="7" Class="18" Enabled="0" ColorNameID="0" Zen="100" PCPoints="0" MaxLevel="400" BotName="[Guard2]"  MapID="00" CoordX="136" CoordY="131" Dir="2" />
+	</CreateBot>
+	
+	<ActiveBot>
+	    <Bot IndexBot="0" OnlyVip="0" ActiveGensFamily="0" GensContribution="100" GensFamily="0"/>
+	    <Bot IndexBot="1" OnlyVip="0" ActiveGensFamily="0" GensContribution="100" GensFamily="0"/>
+	    <Bot IndexBot="2" OnlyVip="0" ActiveGensFamily="0" GensContribution="100" GensFamily="0"/>
+	    <Bot IndexBot="3" OnlyVip="0" ActiveGensFamily="0" GensContribution="100" GensFamily="0"/>
+	    <Bot IndexBot="4" OnlyVip="0" ActiveGensFamily="0" GensContribution="100" GensFamily="0"/>
+	    <Bot IndexBot="5" OnlyVip="0" ActiveGensFamily="0" GensContribution="100" GensFamily="0"/>
+	    <Bot IndexBot="6" OnlyVip="0" ActiveGensFamily="0" GensContribution="100" GensFamily="0"/>
+	    <Bot IndexBot="7" OnlyVip="0" ActiveGensFamily="0" GensContribution="100" GensFamily="0"/>
+	</ActiveBot>
+	
+	<!--
+	SlotItem:
+    0 = Sword	1 = Shield	2 = Helm	3 = Armor	
+    4 = Pants	5 = Gloves	6 = Boots	7 = Wings	8 = Pet
+	TypeItem = Category.
+	IndexItem = ItemID.    [EX: (TypeItem, IndexItem) = (12, 200)]
+	-->
+	
+	<ItemsBot>
+	    <Items IndexBot="0" SlotItem="2" TypeItem="7" IndexItem="19" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="0" SlotItem="3" TypeItem="8" IndexItem="19" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="0" SlotItem="4" TypeItem="9" IndexItem="19" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="0" SlotItem="5" TypeItem="10" IndexItem="19" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="0" SlotItem="6" TypeItem="11" IndexItem="19" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="0" SlotItem="7" TypeItem="12" IndexItem="38" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="1" SlotItem="2" TypeItem="7" IndexItem="18" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="1" SlotItem="3" TypeItem="8" IndexItem="18" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="1" SlotItem="4" TypeItem="9" IndexItem="18" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="1" SlotItem="5" TypeItem="10" IndexItem="18" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="1" SlotItem="6" TypeItem="11" IndexItem="18" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="1" SlotItem="7" TypeItem="12" IndexItem="37" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="2" SlotItem="2" TypeItem="7" IndexItem="46" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="2" SlotItem="3" TypeItem="8" IndexItem="46" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="2" SlotItem="4" TypeItem="9" IndexItem="46" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="2" SlotItem="5" TypeItem="10" IndexItem="46" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="2" SlotItem="6" TypeItem="11" IndexItem="46" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="2" SlotItem="7" TypeItem="12" IndexItem="36" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="3" SlotItem="2" TypeItem="7" IndexItem="28" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="3" SlotItem="3" TypeItem="8" IndexItem="28" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="3" SlotItem="4" TypeItem="9" IndexItem="28" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="3" SlotItem="5" TypeItem="10" IndexItem="28" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="3" SlotItem="6" TypeItem="11" IndexItem="28" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="3" SlotItem="7" TypeItem="12" IndexItem="40" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="4" SlotItem="2" TypeItem="7" IndexItem="50" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="4" SlotItem="3" TypeItem="8" IndexItem="50" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="4" SlotItem="4" TypeItem="9" IndexItem="50" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="4" SlotItem="5" TypeItem="10" IndexItem="50" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="4" SlotItem="6" TypeItem="11" IndexItem="50" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="4" SlotItem="7" TypeItem="12" IndexItem="43" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="5" SlotItem="2" TypeItem="7" IndexItem="73" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="5" SlotItem="3" TypeItem="8" IndexItem="73" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="5" SlotItem="4" TypeItem="9" IndexItem="73" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="5" SlotItem="5" TypeItem="0" IndexItem="35" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="5" SlotItem="6" TypeItem="11" IndexItem="73" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="5" SlotItem="7" TypeItem="12" IndexItem="50" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="6" SlotItem="2" TypeItem="7" IndexItem="9" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="6" SlotItem="3" TypeItem="8" IndexItem="9" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="6" SlotItem="4" TypeItem="9" IndexItem="9" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="6" SlotItem="5" TypeItem="0" IndexItem="9" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="6" SlotItem="6" TypeItem="11" IndexItem="9" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="7" SlotItem="2" TypeItem="7" IndexItem="9" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="7" SlotItem="3" TypeItem="8" IndexItem="9" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="7" SlotItem="4" TypeItem="9" IndexItem="9" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="7" SlotItem="5" TypeItem="10" IndexItem="9" LevelItem="13" OptionItem="63"/>
+	    <Items IndexBot="7" SlotItem="6" TypeItem="11" IndexItem="9" LevelItem="13" OptionItem="63"/>
+	</ItemsBot>
+	
+	<!--
+    SkillID:	
+	28	(Greater Damage), 27 (Greater Defense),  16 (Greater Mana Shield),  64 (Critical Damage)
+    48	(Greater Life), 217 (Reflect), 82 (Magic Circle), 129 (Greater Ignore Defense Rate), 130 (Fitness)
+    SkillTime = Minutes duration buf.
+	SkillPower = Power Skill Aumento %%
+	Máx skill x bot = 5.
+    -->
+	
+	<SkillBot>
+	    <Skill IndexBot="0" SkillID="28" SkillTime="5" SkillPower="30"/>
+		<Skill IndexBot="1" SkillID="16" SkillTime="5" SkillPower="30"/>
+		<Skill IndexBot="2" SkillID="48" SkillTime="5" SkillPower="30"/>
+		<Skill IndexBot="3" SkillID="64" SkillTime="5" SkillPower="30"/>
+		<Skill IndexBot="4" SkillID="217" SkillTime="5" SkillPower="30"/>
+		<Skill IndexBot="5" SkillID="130" SkillTime="5" SkillPower="30"/>
+		<Skill IndexBot="6" SkillID="129" SkillTime="5" SkillPower="30"/>
+		<Skill IndexBot="7" SkillID="82" SkillTime="5" SkillPower="30"/>
+	</SkillBot>
+</BotBuffer>

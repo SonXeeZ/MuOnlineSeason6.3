@@ -1,0 +1,11 @@
+//===============================================================================================
+//ItemIndex  [Type * 512 + IndexItem]
+//EffectCode [Code Effect or Skill]
+//UseRGB     [1: On, 0: Off. (Active RGB Color)]
+//Skill1     [Skill (Inside)]
+//Skill2     [Skill (OutSide)]
+//Original Horse: INDEX   32279    0     0.0     0.0      0.0       0      301       331
+//===============================================================================================
+//ItemIndex | EffectCode  | UseRGB | ColorR  | ColorG  | ColorB  |  EffectSize | Skill1 | Skill2 
+//===============================================================================================
+end

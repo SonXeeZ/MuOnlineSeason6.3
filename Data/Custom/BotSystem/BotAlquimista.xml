@@ -1,0 +1,57 @@
+<BotAlchemist EnableBot="false">
+    <!--
+	//Index Bot     = Bot Index.
+	//ClassBot      = 0,1,2	    DW,SM,GM
+    //	            = 16,17,18	DK,BK,BM
+    //	            = 32,33,34	Elf,ME,HE
+    //	            = 48,49,50	MG,DM
+    //	            = 64,65,66	DL,LE
+    //	            = 80,81,82	SU,BS,DS
+	//              = 97,98     RF,FM
+	//SucessRateBot = Chance of success when combining.
+	//NameBot       = Bot Name
+	//IDMapBot      = ID of the map where the bot will be.
+	//CoordXBot     = X coordinate where the bot will be.
+	//CoordYBot     = Y coordinate where the bot will be.
+	//DirBot        = Direction the bot will be looking at.
+    -->
+    <CreateBot>
+	    <NewBot IndexBot="0" ClassBot="34" SucessRateBot="100" NameBot="ALQUIMISTA" IDMapBot="79" CoordXBot="120" CoordYBot="139" DirBot="1" />
+    </CreateBot>
+	<!--
+	//SlotItemBot   = {1 Weapon, 2 Helm, 3 Amor, Pants, 5 Gloves, 6 Boots, 7 Wings, 8 Pet}
+    -->
+	<ItemBot>
+	    <ItemsBot IndexBot="0" SlotItemBot="2" TypeItemBot="7" IndexItemBot="9" LevelItemBot="15" OptionItemBot="63"/>
+	    <ItemsBot IndexBot="0" SlotItemBot="3" TypeItemBot="8" IndexItemBot="9" LevelItemBot="15" OptionItemBot="63"/>
+	    <ItemsBot IndexBot="0" SlotItemBot="4" TypeItemBot="9" IndexItemBot="9" LevelItemBot="15" OptionItemBot="63"/>
+	    <ItemsBot IndexBot="0" SlotItemBot="5" TypeItemBot="10" IndexItemBot="9" LevelItemBot="15" OptionItemBot="63"/>
+	    <ItemsBot IndexBot="0" SlotItemBot="6" TypeItemBot="11" IndexItemBot="9" LevelItemBot="15" OptionItemBot="63"/>
+	    <ItemsBot IndexBot="0" SlotItemBot="7" TypeItemBot="12" IndexItemBot="36" LevelItemBot="15" OptionItemBot="63"/>
+    </ItemBot>
+	<!--
+	//MoveOpLevelBot  = Move the object level
+	//MoveOpLifeBot   = Move the object life
+	//MoveOpSkillBot  = Move the object Skill
+	//MoveOpExcBot    = Move the object options excellents.
+	//MoveOpSocketBot = Move the object Sockets.
+	-->
+	<MoveOpBot>
+	    <OpBot IndexBot="0" MoveOpLevelBot="1" MoveOpLifeBot="1" MoveOpLuckBot="1" MoveOpSkillBot="1" MoveOpExcBot="1" MoveOpSocketBot="1" />
+    </MoveOpBot>
+	<!--
+	//IndexBot        = Bot Index.
+	//OnlyVipBot      = Activate bot only for vip users.
+	//WcoinBot        = Remove Wcoins when using bot
+	//ZenBot          = Remove Zen when using bot
+	//PCPointsBot     = Remove Pc Points when using bot
+	//SameTypeBot     = Only Accept for example Swords with Swords, and not Swords with Axes
+    //DestinyLowerBot = Only Accept if destiny item level is lower or equals than source item level +10 and -10
+	//AcceptAncietBot = Accept Anciet Items
+	//MaxItemLevelBot = Maximum level of items
+	//MaxOpExcMoveBot = Maximum item options
+	-->
+	<UseBot>
+	    <RecvBot IndexBot="0" OnlyVipBot="0" WCoinBot="100" ZenBot="0" PCPointBot="0" SameTypeBot="1" DestinyLowerBot="0" AcceptAncietBot="0" MaxItemLevelBot="15" MaxOpExcMoveBot="5" />
+	</UseBot>
+</BotAlchemist>

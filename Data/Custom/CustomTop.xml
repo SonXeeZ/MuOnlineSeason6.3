@@ -1,0 +1,4 @@
+<CustomTop>
+    <Top Index="1" Command="rr" Title="TOP RR" />
+	<Top Index="2" Command="mr" Title="TOP MR" />
+</CustomTop>

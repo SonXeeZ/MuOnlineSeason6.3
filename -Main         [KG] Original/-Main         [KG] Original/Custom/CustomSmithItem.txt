@@ -1,0 +1,445 @@
+//=====================================
+// Sword
+//=====================================
+0
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+//		ItemIndex	Price1Days	Price7Days	Price30Days	ItemName
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		0	560		840		1050	"Kris"
+		1	320		480		600		"Short Sword"
+		2	840		1260	1575	"Rapier"
+		3	1480	2220	2775	"Katache"
+		4	1080	1620	2025	"Scimitar"
+		5	3080	4620	5775	"Blade"
+		6	1800	2700	3375	"Gladius"
+		7	2120	3180	3975	"Falchion"
+		8	2600	3900	4875	"Serpent Sword"
+		9	2840	4260	5325	"Sword of Salamander"
+		10	3760	5640	7050	"Light Saber"
+		11	4320	6480	8100	"Legendary Sword"
+		12	5640	8460	10575	"Heliacal Sword"
+		13	4000	6000	7500	"Double Blade"
+		14	4880	7320	9150	"Lighting Sword"
+		15	4960	7440	9300	"Giant Sword"
+		16	6720	10080	12600	"Sword of Destruction"
+		17	9760	14640	18300	"Dark Breaker"
+		18	10360	15540	19425	"Thunder Blade"
+		19	8440	12660	15825	"Divine Sword of Archangel"
+		20	10040	15060	18825	"Knight Blade"
+		21	10766	16149	20186	"Dark Reign Blade"
+		22	11000	16500	20625	"Bone Blade"
+		23	11574	17360	21700	"Explosion Blade"
+		24	12600	18900	23625	"Daybreak"
+		25	9523	14285	17856	"Sword Dancer"
+		31	8722	13082	16353	"Rune Blade"
+		32	4280	6420	8025	"Sacred Glove"
+		33	6680	10020	12525	"Storm Hard Glove"
+		34	8120	12180	15225	"Piercing Blade Glove"
+		35	10880	16320	20400	"Phoenix Soul Star"
+end
+//=====================================
+// Axe
+//=====================================
+1
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+//		ItemIndex	Price1Days	Price7Days	Price30Days	ItemName
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		0	160		240		300		"Small Axe"
+		1	400		600		750		"Hand Axe"
+		2	1320	1980	2475	"Double Axe"
+		3	1640	2460	3075	"Tomahawk"
+		4	2320	3480	4350	"Elven Axe"
+		5	2800	4200	5250	"Battle Axe"
+		6	3120	4680	5850	"Nikkea Axe"
+		7	4240	6360	7950	"Larkan Axe"
+		8	5320	7980	9975	"Crescent Axe"
+end
+//=====================================
+// Mace
+//=====================================
+2
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+//		ItemIndex	Price1Days	Price7Days	Price30Days	ItemName
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	
+		0	680		1020	1275		"Mace"
+		1	1200	1800	2250	"Morning Star"
+		2	1960	2940	3675	"Flail"
+		3	3520	5280	6600	"Great Hammer"
+		4	6320	9480	11850	"Crystal Morning Star"
+		5	7040	10560	13200	"Crystal Sword"
+		6	7640	11460	14325	"Chaos Dragon Axe"
+		7	6440	9660	12075	"Elemental Mace"
+		8	4001	6002	7502	"Battle Scepter"
+		9	5368	8052	10065	"Master Scepter"
+		10	6454	9681	12101	"Great Scepter"
+		11	7781	11671	14589	"Lord Scepter"
+		12	10187	15280	19100	"Great Lord Scepter"
+		13	11271	16907	21134	"Divine Scepter of Archangel"
+		14	11514	17270	21588	"Solay Scepter"
+		15	8624	12936	16170	"Shining Scepter"
+		16	9880	14820	18525	"Frost mace"
+		18	10628	15942	19928	"Stryker Scepter"
+end
+//=====================================
+// Spear
+//=====================================
+3
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+//		ItemIndex	Price1Days	Price7Days	Price30Days	ItemName
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------		
+		0	3920	5880	7350	"Light Spear"
+		1	2320	3480	4350	"Spear"
+		2	1680	2520	3150	"Dragon Lance"
+		3	2720	4080	5100	"Giant Trident"
+		4	4600	6900	8625	"Serpent Spear"
+		5	1520	2280	2850	"Double Poleaxe"
+		6	1960	2940	3675	"Halberd"
+		7	3400	5100	6375	"Berdysh"
+		8	5400	8100	10125	"Great Scythe"
+		9	6080	9120	11400	"Bill of Balrog"
+		10	8720	13080	16350	"Dragon Spear"
+		11	14200	21300	26625	"Beuroba"
+end	
+//=====================================
+// Bow - Crossbow
+//=====================================
+4
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+//		ItemIndex	Price1Days	Price7Days	Price30Days	ItemName
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		0	240		360		450		"Short Bow"
+		1	760		1140	1425	"Bow"
+		2	1440	2160	2700	"Elven Bow"
+		3	2320	3480	4350	"Battle Bow"
+		4	3480	5220	6525	"Tiger Bow"
+		5	4840	7260	9075	"Silver Bow"
+		6	6880	10320	12900	"Chaos Nature Bow"
+		8	400		600		750		"Crossbow"
+		9	1120	1680	2100	"Golden Crossbow"
+		10	1840	2760	3450	"Arquebus"
+		11	2840	4260	5325	"Light Crossbow"
+		12	4120	6180	7725	"Serpent Crossbow"
+		13	5720	8580	10725	"Bluewing Crossbow"
+		14	6280	9420	11775	"Aquagold Crossbow"
+		16	7920	11880	14850	"Saint Crossbow"
+		17	9320	13980	17475	"Celestial Bow"
+		18	10200	15300	19125	"Divine CB of Archangel"
+		19	10440	15660	19575	"Great Reign Crossbow"
+		20	12520	18780	23475	"Arrow Viper Bow"
+		21	13400	20100	25125	"Sylph Wind Bow"
+		22	11040	16560	20700	"Albatross Bow"
+		24	13160	19740	24675	"Air Lyn Bow"
+end
+//=====================================
+// Staff
+//=====================================
+5
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+//		ItemIndex	Price1Days	Price7Days	Price30Days	ItemName
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	
+		0	362		544		680		"Skull Staff"
+		1	1168	1752	2190	"Angelic Staff"
+		2	1894	2840	3550	"Serpent Staff"
+		3	2658	3988	4984	"Thunder Staff"
+		4	3303	4955	6194	"Gorgon Staff"
+		5	3584	5375	6719	"Legendary Staff"
+		6	4308	6462	8078	"Staff of Resurrection"
+		7	4918	7376	9220	"Chaos Lighting Staff"
+		8	5720	8581	10726	"Staff of Destruction"
+		9	5917	8875	11094	"Dragon Soul Staff"
+		10	6362	9544	11930	"Divine Staff of Archangel"
+		11	7964	11946	14932	"Staff of Kundun"
+		12	8732	13098	16372	"Grand Viper Staff"
+		13	6528	9792	12240	"Platina Staff"
+		14	1814	2720	3400	"Mistery Staff"
+		15	2658	3988	4984	"Violent Wind Staff"
+		16	3584	5375	6719	"Red Wing Staff"
+		17	4710	7066	8832	"Ancient Staff"
+		18	5917	8875	11094	"Black Rose Staff"
+		19	6524	9786	12232	"Aura Staff"
+		20	7525	11288	14110	"Lilium Staff"
+		21	2098	3148	3934	"Book of Sahamutt"
+		22	2384	3575	4469	"Book of Neil"
+		23	2629	3943	4929	"Book of Ghost Phantom"
+end		
+//=====================================
+// Shield
+//=====================================
+6
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+//		ItemIndex	Price1Days	Price7Days	Price30Days	ItemName
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		0	160	240	300	"Small Shield"
+		1	480	720	900	"Horn Shield"
+		2	640	960	1200	"Kite Shield"
+		3	1160	1740	2175	"Elven Shield"
+		4	320	480	600	"Buckler"
+		5	1800	2700	3375	"Dragon Slayer Shield"
+		6	800	1200	1500	"Skull Shield"
+		7	1560	2340	2925	"Spiked Shield"
+		8	2040	3060	3825	"Tower Shield"
+		9	1320	1980	2475	"Iron Shield"
+		10	960	1440	1800	"Big Round Shield"
+		11	2280	3420	4275	"Serpent Shield"
+		12	2680	4020	5025	"Bronze Shield"
+		13	2960	4440	5550	"Chaos Shield"
+		14	2200	3300	4125	"Legendary Shield"
+		15	3440	5160	6450	"Grand Soul Shield"
+		16	3080	4620	5775	"Elemental Shield"
+end
+//=====================================
+// Helm
+//=====================================
+7
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+//		ItemIndex	Price1Days	Price7Days	Price30Days	ItemName
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		0	1000	1500	1875	"Bronze Helm"
+		1	3240	4860	6075	"Dragon Helm"
+		2	360	540	675	"Pad Helm"
+		3	2720	4080	5100	"Legendary Helm"
+		4	1080	1620	2025	"Bone Helm"
+		5	440	660	825	"Leather Helm"
+		6	1520	2280	2850	"Scale Helm"
+		7	1800	2700	3375	"Sphinx Mask"
+		8	2120	3180	3975	"Brass Helm"
+		9	2640	3960	4950	"Plate Helm"
+		10	400	600	750	"Vine Helm"
+		11	960	1440	1800	"Silk Helm"
+		12	1600	2400	3000	"Wind Helm"
+		13	2240	3360	4200	"Spirit Helm"
+		14	3040	4560	5700	"Guardian Helm"
+		16	4480	6720	8400	"Black Dragon Helm"
+		17	5400	8100	10125	"Dark Phoenix Helm"
+		18	4320	6480	8100	"Grand Soul Helm"
+		19	4880	7320	9150	"Divine Helm"
+		21	6280	9420	11775	"Great Dragon Helm"
+		22	5840	8760	10950	"Dark Soul Helm"
+		24	5560	8340	10425	"Red Spirit Helm"
+		25	2640	3960	4950	"Light Plate Mask"
+		26	3600	5400	6750	"Adamantine Mask"
+		27	4480	6720	8400	"Dark Steel Mask"
+		28	5600	8400	10500	"Dark Master Mask"
+		29	7840	11760	14700	"Dragon Knight Helm"
+		30	6960	10440	13050	"Venom Mist Helm"
+		31	7320	10980	13725	"Sylphid Ray Helm"
+		33	7040	10560	13200	"Sunlight Mask"
+		34	3760	5640	7050	"Ashcrow Helm"
+		35	3560	5340	6675	"Eclipse Helm"
+		36	3880	5820	7275	"Iris Helm"
+		38	5080	7620	9525	"Glorious Mask"
+		39	1640	2460	3075	"Mistery Helm"
+		40	2720	4080	5100	"Red Wing Helm"
+		41	3680	5520	6900	"Ancient Helm"
+		42	4520	6780	8475	"Black Rose Helm"
+		43	6120	9180	11475	"Aura Helm"
+end
+//=====================================
+// Armor
+//=====================================
+8
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+//		ItemIndex	Price1Days	Price7Days	Price30Days	ItemName
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		0	1280	1920	2400	"Bronze Armor"
+		1	3840	5760	7200	"Dragon Armor"
+		2	680	1020	1275	"Pad Armor"
+		3	3120	4680	5850	"Legendary Armor"
+		4	1400	2100	2625	"Bone Armor"
+		5	800	1200	1500	"Leather Armor"
+		6	1840	2760	3450	"Scale Armor"
+		7	2200	3300	4125	"Sphinx Armor"
+		8	2400	3600	4500	"Brass Armor"
+		9	3120	4680	5850	"Plate Armor"
+		10	720	1080	1350	"Vine Armor"
+		11	1280	1920	2400	"Silk Armor"
+		12	1920	2880	3600	"Wind Armor"
+		13	2600	3900	4875	"Spirit Armor"
+		14	3440	5160	6450	"Guardian Armor"
+		15	4960	7440	9300	"Storm Crow Armor"
+		16	5520	8280	10350	"Black Dragon Armor"
+		17	6520	9780	12225	"Dark Phoenix Armor"
+		18	4960	7440	9300	"Grand Soul Armor"
+		19	5440	8160	10200	"Divine Armor"
+		20	6680	10020	12525	"Thunder Hawk Armor"
+		21	8040	12060	15075	"Great Dragon Armor"
+		22	6600	9900	12375	"Dark Soul Armor"
+		23	8040	12060	15075	"Hurricane Armor"
+		24	6560	9840	12300	"Red Sprit Armor"
+		25	3480	5220	6525	"Light Plate Armor"
+		26	4560	6840	8550	"Adamantine Armor"
+		27	5560	8340	10425	"Dark Steel Armor"
+		28	6720	10080	12600	"Dark Master Armor"
+		29	9120	13680	17100	"Dragon Knight Armor"
+		30	8120	12180	15225	"Venom Mist Armor"
+		31	8560	12840	16050	"Sylphid Ray Armor"
+		32	9320	13980	17475	"Volcano Armor"
+		33	8440	12660	15825	"Sunlight Armor"
+		34	4680	7020	8775	"Ashcrow Armor"
+		35	4080	6120	7650	"Eclipse Armor"
+		36	4440	6660	8325	"Iris Armor"
+		37	6280	9420	11775	"Valiant Armor"
+		38	6080	9120	11400	"Glorious Armor"
+		39	2240	3360	4200	"Mistery Armor"
+		40	3360	5040	6300	"Red Wing Armor"
+		41	4400	6600	8250	"Ancient Armor"
+		42	5440	8160	10200	"Black Rose Armor"
+		43	7120	10680	13350	"Aura Armor"
+end
+//=====================================
+// Pant
+//=====================================
+9
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+//		ItemIndex	Price1Days	Price7Days	Price30Days	ItemName
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+		0	1000	1500	1875	"Bronze Pants"
+		1	3240	4860	6075	"Dragon Pants"
+		2	520	780	975	"Pad Pants"
+		3	2920	4380	5475	"Legendary Pants"
+		4	1200	1800	2250	"Bone Pants"
+		5	600	900	1125	"Leather Pants"
+		6	1560	2340	2925	"Scale Pants"
+		7	1960	2940	3675	"Sphinx Pants"
+		8	2120	3180	3975	"Brass Pants"
+		9	2680	4020	5025	"Plate Pants"
+		10	560	840	1050	"Vine Pants"
+		11	1120	1680	2100	"Silk Pants"
+		12	1760	2640	3300	"Wind Pants"
+		13	2400	3600	4500	"Spirit Pants"
+		14	3160	4740	5925	"Guardian Pants"
+		15	4320	6480	8100	"Storm Crow Pants"
+		16	4960	7440	9300	"Black Dragon Pants"
+		17	6000	9000	11250	"Dark Phoenix Pants"
+		18	4640	6960	8700	"Grand Soul Pants"
+		19	5080	7620	9525	"Divine Pants"
+		20	5920	8880	11100	"Thunder Hawk Pants"
+		21	7120	10680	13350	"Great Dragon Pants"
+		22	6240	9360	11700	"Dark Soul Pants"
+		23	7320	10980	13725	"Hurricane Pants"
+		24	5920	8880	11100	"Red Spirit Pants"
+		25	2840	4260	5325	"Light Plate Pants"
+		26	3840	5760	7200	"Adamantine Pants"
+		27	4920	7380	9225	"Dark Steel Pants"
+		28	5960	8940	11175	"Dark Master Pants"
+		29	8480	12720	15900	"Dragon Knight Pants"
+		30	7600	11400	14250	"Venom Mist Pants"
+		31	7840	11760	14700	"Sylphid Ray Pants"
+		32	8360	12540	15675	"Volcano Pants"
+		33	7680	11520	14400	"Sunlight Pants"
+		34	4080	6120	7650	"Ashcrow Pants"
+		35	3760	5640	7050	"Eclipse Pants"
+		36	4040	6060	7575	"Iris Pants"
+		37	5680	8520	10650	"Valiant Pants"
+		38	5440	8160	10200	"Glorious Pants"
+		39	1840	2760	3450	"Mistery Pants"
+		40	3000	4500	5625	"Red Wing Pants"
+		41	4000	6000	7500	"Ancient Pants"
+		42	4920	7380	9225	"Black Rose Pants"
+		43	6640	9960	12450	"Aura Pants"
+end
+//=====================================
+// Glove
+//=====================================
+10
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+//		ItemIndex	Price1Days	Price7Days	Price30Days	ItemName
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		0	680	1020	1275	"Bronze Gloves"
+		1	2640	3960	4950	"Dragon Gloves"
+		2	200	300	375	"Pad Gloves"
+		3	2200	3300	4125	"Legendary Gloves"
+		4	760	1140	1425	"Bone Gloves"
+		5	240	360	450	"Leather Gloves"
+		6	1160	1740	2175	"Scale Gloves"
+		7	1440	2160	2700	"Sphinx Gloves"
+		8	1640	2460	3075	"Brass Gloves"
+		9	2160	3240	4050	"Plate Gloves"
+		10	240	360	450	"Vine Gloves"
+		11	720	1080	1350	"Silk Gloves"
+		12	1280	1920	2400	"Wind Gloves"
+		13	1880	2820	3525	"Spirit Gloves"
+		14	2600	3900	4875	"Guardian Gloves"
+		15	3600	5400	6750	"Storm Crow Gloves"
+		16	3920	5880	7350	"Black Dragon Gloves"
+		17	4920	7380	9225	"Dark Phoenix Gloves"
+		18	3600	5400	6750	"Grand Soul Gloves"
+		19	4040	6060	7575	"Divine Gloves"
+		20	4880	7320	9150	"Thunder Hawk Gloves"
+		21	5680	8520	10650	"Great Dragon Gloves"
+		22	4680	7020	8775	"Dark Soul Gloves"
+		23	5880	8820	11025	"Hurricane Gloves"
+		24	4880	7320	9150	"Red Spirit Gloves"
+		25	2160	3240	4050	"Light Plate Gloves"
+		26	3000	4500	5625	"Adamantine Gloves"
+		27	3840	5760	7200	"Dark Steel Gloves"
+		28	4720	7080	8850	"Dark Master Gloves"
+		29	6960	10440	13050	"Dragon Knight Gloves"
+		30	6200	9300	11625	"Venom Mist Gloves"
+		31	6440	9660	12075	"Sylphid Ray Gloves"
+		32	7280	10920	13650	"Volcano Gloves"
+		33	6000	9000	11250	"Sunlight Gloves"
+		34	3160	4740	5925	"Ashcrow Gloves"
+		35	3040	4560	5700	"Eclipse Gloves"
+		36	3320	4980	6225	"Iris Gloves"
+		37	4720	7080	8850	"Valiant Gloves"
+		38	4640	6960	8700	"Glorious Gloves"
+		39	1320	1980	2475	"Mistery Gloves"
+		40	2280	3420	4275	"Red Wing Gloves"
+		41	3200	4800	6000	"Ancient Gloves"
+		42	3840	5760	7200	"Black Rose Gloves"
+		43	4840	7260	9075	"Aura Gloves"
+end	
+//=====================================
+// Boot
+//=====================================
+11
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+//		ItemIndex	Price1Days	Price7Days	Price30Days	ItemName
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		0	640	960	1200	"Bronze Boots"
+		1	2760	4140	5175	"Dragon Boots"
+		2	280	420	525	"Pad Boots"
+		3	2320	3480	4350	"Legendary Boots"
+		4	880	1320	1650	"Bone Boots"
+		5	280	420	525	"Leather Boots"
+		6	1200	1800	2250	"Scale Boots"
+		7	1560	2340	2925	"Sphinx Boots"
+		8	1680	2520	3150	"Brass Boots"
+		9	2160	3240	4050	"Plate Boots"
+		10	280	420	525	"Vine Boots"
+		11	760	1140	1425	"Silk Boots"
+		12	1360	2040	2550	"Wind Boots"
+		13	2000	3000	3750	"Spirit Boots"
+		14	2720	4080	5100	"Guardian Boots"
+		15	3760	5640	7050	"Storm Crow Boots"
+		16	4080	6120	7650	"Black Dragon Boots"
+		17	5320	7980	9975	"Dark Phoenix Boots"
+		18	3920	5880	7350	"Grand Soul Boots"
+		19	4440	6660	8325	"Divine Boots"
+		20	5160	7740	9675	"Thunder Hawk Boots"
+		21	5920	8880	11100	"Great Dragon Boots"
+		22	5040	7560	9450	"Dark Soul Boots"
+		23	6400	9600	12000	"Hurricane Boots"
+		24	5080	7620	9525	"Red Spirit Boots"
+		25	2320	3480	4350	"Light Plate Boots"
+		26	3200	4800	6000	"Adamantine Boots"
+		27	4320	6480	8100	"Dark Steel Boots"
+		28	5120	7680	9600	"Dark Master Boots"
+		29	7280	10920	13650	"Dragon Knight Boots"
+		30	6640	9960	12450	"Venom Mist Boots"
+		31	6880	10320	12900	"Sylphid Ray Boots"
+		32	7680	11520	14400	"Volcano Boots"
+		33	6600	9900	12375	"Sunlight Boots"
+		34	3480	5220	6525	"Ashcrow Boots"
+		35	3400	5100	6375	"Eclipse Boots"
+		36	3640	5460	6825	"Iris Boots"
+		37	5080	7620	9525	"Valiant Boots"
+		38	5080	7620	9525	"Glorious Boots"
+		39	1480	2220	2775	"Mistery Boots"
+		40	2440	3660	4575	"Red Wing Boots"
+		41	3440	5160	6450	"Ancient Boots"
+		42	4160	6240	7800	"Black Rose Boots"
+		43	5320	7980	9975	"Aura Boots"
+end

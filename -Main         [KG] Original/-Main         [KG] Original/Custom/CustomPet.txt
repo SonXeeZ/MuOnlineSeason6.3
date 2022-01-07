@@ -1,0 +1,15 @@
+//=======================================================================================================
+//=====================================CustomPET - Configs===============================================
+//=======================================================================================================
+//IndexPet:     [Type * 512 + Index]
+//IndexInventory[Type * 512 + Index] -> You can use the index of any pet.
+//Type:         [1> Flyings Pet, 2> Muun Pet, 3> Dinorant (Mount), 4> Fenrir (Mount), 5> Horse (Mount)]
+//Size:         [Pet Size]
+//DropSize:     [Pet size when dropping]
+//Height:       [Pet size in inventory]
+//Transparency: [Pet transparency Effect (OFF)]
+//FenrirEffect: [0> Off, 1>Common, 2>Gold]
+//=======================================================================================================
+//#IndexPet #IndexInv #Type #Size #DropSize #Height #Tranparency #FenrirEffect #ModelName
+//=======================================================================================================
+end

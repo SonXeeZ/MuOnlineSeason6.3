@@ -1,0 +1,7 @@
+<MoveSystem>
+	<MoveCommand Index="0" Syntax="/pvp1"    MapNumber="2" MapX="222" MapY="73"  Money="15000" AllowMovePK="0" MinLevel="200" MaxLevel="-1" MinReset="-1" MaxReset="-1" MinMReset="-1" MaxMReset="-1" AccountLevel="0" />
+	<MoveCommand Index="1" Syntax="/arena1"  MapNumber="6" MapX="57"  MapY="75"  Money="15000" AllowMovePK="0" MinLevel="-1"  MaxLevel="-1" MinReset="-1" MaxReset="-1" MinMReset="-1" MaxMReset="-1" AccountLevel="0" />
+    <MoveCommand Index="2" Syntax="/iglecia" MapNumber="2" MapX="211" MapY="27"  Money="5000"  AllowMovePK="0" MinLevel="-1"  MaxLevel="-1" MinReset="-1" MaxReset="-1" MinMReset="-1" MaxMReset="-1" AccountLevel="0" />
+    <MoveCommand Index="3" Syntax="/bar"     MapNumber="0" MapX="124" MapY="132" Money="7000"  AllowMovePK="0" MinLevel="-1"  MaxLevel="-1" MinReset="-1" MaxReset="-1" MinMReset="20" MaxMReset="-1" AccountLevel="0" />
+    <MoveCommand Index="4" Syntax="/irbaul"  MapNumber="0" MapX="146" MapY="143" Money="10000" AllowMovePK="0" MinLevel="-1"  MaxLevel="-1" MinReset="-1" MaxReset="-1" MinMReset="-1" MaxMReset="-1" AccountLevel="1" />
+</MoveSystem>

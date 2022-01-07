@@ -1,0 +1,12 @@
+<CustomMonster>
+    <CreateMonster>
+        <Monster Index="597" MapID="06" MaxLife="-1" DamageMin="-1" DamageMax="-1" Defense="-1" AttackRate="-1" DefenseRate="-1" ExperienceRate="100" KillMessage="1000" InfoMessage="1001" RewardValue1="100" RewardValue2="200" SummonMonster="-1" SummonMonsterCount="-1" SummonMonster2="-1" SummonMonsterCount2="-1" SummonMonster3="-1" SummonMonsterCount3="-1" />
+		<Monster Index="598" MapID="00" MaxLife="-1" DamageMin="-1" DamageMax="-1" Defense="-1" AttackRate="-1" DefenseRate="-1" ExperienceRate="100" KillMessage="1000" InfoMessage="1001" RewardValue1="100" RewardValue2="200" SummonMonster="-1" SummonMonsterCount="-1" SummonMonster2="-1" SummonMonsterCount2="-1" SummonMonster3="-1" SummonMonsterCount3="-1" />
+    </CreateMonster>
+	
+    <MonsterSkill>
+	    <Skill MonsterID="597" MonsterSkill1="38" />
+		<Skill MonsterID="598" MonsterSkill1="237" />
+		<Skill MonsterID="603" MonsterSkill1="39" />
+    </MonsterSkill>
+</CustomMonster>

@@ -1,0 +1,10 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+14	0	0	50	0	0	0	0	0	0	0	255	255	255	255	255	//Apple
+14	1	0	50	0	0	0	0	0	0	0	255	255	255	255	255	//Small Healing Potion
+14	2	0	50	0	0	0	0	0	0	0	255	255	255	255	255	//Healing Potion
+14	3	0	50	0	0	0	0	0	0	0	255	255	255	255	255	//Large Healing Potion
+14	4	0	50	0	0	0	0	0	0	0	255	255	255	255	255	//Small Mana Potion
+14	5	0	50	0	0	0	0	0	0	0	255	255	255	255	255	//Mana Potion
+14	6	0	50	0	0	0	0	0	0	0	255	255	255	255	255	//Large Mana Potion
+14	10	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Town Portal Scroll
+end

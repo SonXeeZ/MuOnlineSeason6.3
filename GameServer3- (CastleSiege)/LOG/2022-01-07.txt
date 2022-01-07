@@ -1,0 +1,227 @@
+13:04:30 [ServerInfo] CashShop loaded successfully
+13:04:30 [ServerInfo] ChaosMix loaded successfully
+13:04:30 [ServerInfo] Character loaded successfully
+13:04:30 [ServerInfo] Custom loaded successfully
+13:04:30 [ServerInfo] Command loaded successfully
+13:04:30 [ Crywolf ] State (0) -> NONE
+13:04:30 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+13:04:30 [ServerInfo] Event loaded successfully
+13:04:30 [ServerInfo] EventItemBag loaded successfully
+13:04:30 [ServerInfo] Hack loaded successfully
+13:04:30 [ServerInfo] Item loaded successfully
+13:04:31 [ServerInfo] Monster loaded successfully
+13:04:31 [ServerInfo] Move loaded successfully
+13:04:31 [ServerInfo] Quest loaded successfully
+13:04:31 [ServerInfo] Shop loaded successfully
+13:04:31 [ServerInfo] Skill loaded successfully
+13:04:31 [ServerInfo] Util loaded successfully
+13:04:31 [ReadBotInfo] BotSystem [buffer] loaded successfully
+13:04:31 [ReadBotInfo] BotSystem [alquimista] loaded successfully
+13:04:36 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+13:04:40 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:04:44 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:04:48 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:04:52 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:04:56 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:04:59 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:05:03 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:05:07 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:05:11 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:05:15 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:05:19 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:05:23 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:05:27 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:05:31 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:05:35 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:05:39 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:05:43 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:05:47 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:05:51 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:05:55 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:05:59 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:06:03 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:06:07 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:06:10 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:06:14 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:06:18 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:06:22 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:06:26 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:06:30 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:06:34 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:06:38 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:06:41 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:06:45 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:06:49 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:06:52 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:06:56 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:07:00 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:07:04 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:07:07 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:07:11 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:07:14 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:07:18 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:07:22 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:07:26 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:07:29 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:07:33 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:07:37 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:07:40 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:07:44 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:07:48 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:07:52 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:07:55 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:07:59 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:08:02 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:08:06 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:08:10 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:08:14 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:08:17 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:08:21 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:08:25 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:08:29 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:08:33 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:08:37 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:08:41 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:08:44 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:08:48 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:08:52 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:08:56 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:09:00 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:09:03 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:09:07 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:09:11 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:10:37 [ServerInfo] CashShop loaded successfully
+13:10:37 [ServerInfo] ChaosMix loaded successfully
+13:10:37 [ServerInfo] Character loaded successfully
+13:10:37 [ServerInfo] Custom loaded successfully
+13:10:37 [ServerInfo] Command loaded successfully
+13:10:37 [ Crywolf ] State (0) -> NONE
+13:10:37 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+13:10:37 [ServerInfo] Event loaded successfully
+13:10:37 [ServerInfo] EventItemBag loaded successfully
+13:10:37 [ServerInfo] Hack loaded successfully
+13:10:37 [ServerInfo] Item loaded successfully
+13:10:37 [ServerInfo] Monster loaded successfully
+13:10:37 [ServerInfo] Move loaded successfully
+13:10:37 [ServerInfo] Quest loaded successfully
+13:10:37 [ServerInfo] Shop loaded successfully
+13:10:37 [ServerInfo] Skill loaded successfully
+13:10:37 [ServerInfo] Util loaded successfully
+13:10:37 [ReadBotInfo] BotSystem [buffer] loaded successfully
+13:10:37 [ReadBotInfo] BotSystem [alquimista] loaded successfully
+13:10:40 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+13:10:40 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+13:10:40 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2017-9-16)
+13:10:40 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+13:10:40 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2017-9-23(0:0:0))
+13:10:40 [CastleSiege] CCastleSiege::Init() - START
+13:10:40 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+13:10:41 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+13:29:33 [ServerInfo] CashShop loaded successfully
+13:29:33 [ServerInfo] ChaosMix loaded successfully
+13:29:33 [ServerInfo] Character loaded successfully
+13:29:33 [ServerInfo] Custom loaded successfully
+13:29:33 [ServerInfo] Command loaded successfully
+13:29:33 [ Crywolf ] State (0) -> NONE
+13:29:33 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+13:29:33 [ServerInfo] Event loaded successfully
+13:29:34 [ServerInfo] EventItemBag loaded successfully
+13:29:34 [ServerInfo] Hack loaded successfully
+13:29:34 [ServerInfo] Item loaded successfully
+13:29:34 [ServerInfo] Monster loaded successfully
+13:29:34 [ServerInfo] Move loaded successfully
+13:29:34 [ServerInfo] Quest loaded successfully
+13:29:34 [ServerInfo] Shop loaded successfully
+13:29:34 [ServerInfo] Skill loaded successfully
+13:29:34 [ServerInfo] Util loaded successfully
+13:29:34 [ReadBotInfo] BotSystem [buffer] loaded successfully
+13:29:34 [ReadBotInfo] BotSystem [alquimista] loaded successfully
+13:29:37 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+13:29:37 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+13:29:37 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2017-9-16)
+13:29:37 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+13:29:37 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2017-9-23(0:0:0))
+13:29:37 [CastleSiege] CCastleSiege::Init() - START
+13:29:37 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+13:29:38 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+13:45:42 [ServerInfo] CashShop loaded successfully
+13:45:42 [ServerInfo] ChaosMix loaded successfully
+13:45:42 [ServerInfo] Character loaded successfully
+13:45:42 [ServerInfo] Custom loaded successfully
+13:45:42 [ServerInfo] Command loaded successfully
+13:45:42 [ Crywolf ] State (0) -> NONE
+13:45:42 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+13:45:42 [ServerInfo] Event loaded successfully
+13:45:42 [ServerInfo] EventItemBag loaded successfully
+13:45:42 [ServerInfo] Hack loaded successfully
+13:45:42 [ServerInfo] Item loaded successfully
+13:45:42 [ServerInfo] Monster loaded successfully
+13:45:42 [ServerInfo] Move loaded successfully
+13:45:42 [ServerInfo] Quest loaded successfully
+13:45:42 [ServerInfo] Shop loaded successfully
+13:45:42 [ServerInfo] Skill loaded successfully
+13:45:42 [ServerInfo] Util loaded successfully
+13:45:42 [ReadBotInfo] BotSystem [buffer] loaded successfully
+13:45:42 [ReadBotInfo] BotSystem [alquimista] loaded successfully
+13:45:45 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+13:45:45 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+13:45:46 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2017-9-16)
+13:45:46 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+13:45:46 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2017-9-23(0:0:0))
+13:45:46 [CastleSiege] CCastleSiege::Init() - START
+13:45:46 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+13:45:47 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+13:54:47 [ServerInfo] CashShop loaded successfully
+13:54:47 [ServerInfo] ChaosMix loaded successfully
+13:54:47 [ServerInfo] Character loaded successfully
+13:54:47 [ServerInfo] Custom loaded successfully
+13:54:47 [ServerInfo] Command loaded successfully
+13:54:47 [ Crywolf ] State (0) -> NONE
+13:54:47 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+13:54:47 [ServerInfo] Event loaded successfully
+13:54:47 [ServerInfo] EventItemBag loaded successfully
+13:54:47 [ServerInfo] Hack loaded successfully
+13:54:47 [ServerInfo] Item loaded successfully
+13:54:47 [ServerInfo] Monster loaded successfully
+13:54:47 [ServerInfo] Move loaded successfully
+13:54:47 [ServerInfo] Quest loaded successfully
+13:54:47 [ServerInfo] Shop loaded successfully
+13:54:47 [ServerInfo] Skill loaded successfully
+13:54:47 [ServerInfo] Util loaded successfully
+13:54:47 [ReadBotInfo] BotSystem [buffer] loaded successfully
+13:54:47 [ReadBotInfo] BotSystem [alquimista] loaded successfully
+13:54:50 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+13:54:50 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+13:54:50 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2017-9-16)
+13:54:50 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+13:54:50 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2017-9-23(0:0:0))
+13:54:50 [CastleSiege] CCastleSiege::Init() - START
+13:54:50 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+13:54:51 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+13:59:01 [ServerInfo] CashShop loaded successfully
+13:59:01 [ServerInfo] ChaosMix loaded successfully
+13:59:01 [ServerInfo] Character loaded successfully
+13:59:01 [ServerInfo] Custom loaded successfully
+13:59:01 [ServerInfo] Command loaded successfully
+13:59:01 [ Crywolf ] State (0) -> NONE
+13:59:01 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+13:59:01 [ServerInfo] Event loaded successfully
+13:59:01 [ServerInfo] EventItemBag loaded successfully
+13:59:01 [ServerInfo] Hack loaded successfully
+13:59:01 [ServerInfo] Item loaded successfully
+13:59:01 [ServerInfo] Monster loaded successfully
+13:59:01 [ServerInfo] Move loaded successfully
+13:59:01 [ServerInfo] Quest loaded successfully
+13:59:01 [ServerInfo] Shop loaded successfully
+13:59:01 [ServerInfo] Skill loaded successfully
+13:59:01 [ServerInfo] Util loaded successfully
+13:59:01 [ReadBotInfo] BotSystem [buffer] loaded successfully
+13:59:01 [ReadBotInfo] BotSystem [alquimista] loaded successfully
+13:59:04 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+13:59:04 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+13:59:04 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2017-9-16)
+13:59:04 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+13:59:04 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2017-9-23(0:0:0))
+13:59:04 [CastleSiege] CCastleSiege::Init() - START
+13:59:04 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+13:59:05 [ CRYWOLF ] SYNC Occupation: 0, State: 0

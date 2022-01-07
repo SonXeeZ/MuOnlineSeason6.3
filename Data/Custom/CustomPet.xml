@@ -1,0 +1,20 @@
+<CustomPet>
+	<PetInfo Index="0" ItemIndex="6856" AddHP="5000" AddMP="5000" DamageRate="2000" CriticalDamage="0" DamageReflect="0" PhysiSpeed="0" MagicSpeed="0" DoubleDamageRate="0" AddZenDrop="0" AddExpNormal="0" AddExpMaster="0" ExcDamageRate="0" ModelName="alcamopet" />
+	<PetInfo Index="1" ItemIndex="6857" AddHP="5000" AddMP="5000" DamageRate="2000" CriticalDamage="0" DamageReflect="0" PhysiSpeed="0" MagicSpeed="0" DoubleDamageRate="0" AddZenDrop="0" AddExpNormal="0" AddExpMaster="0" ExcDamageRate="0" ModelName="bulldog" />
+	<PetInfo Index="2" ItemIndex="6858" AddHP="5000" AddMP="5000" DamageRate="2000" CriticalDamage="0" DamageReflect="0" PhysiSpeed="0" MagicSpeed="0" DoubleDamageRate="0" AddZenDrop="0" AddExpNormal="0" AddExpMaster="0" ExcDamageRate="0" ModelName="wolfpet" />
+	<PetInfo Index="3" ItemIndex="6859" AddHP="5000" AddMP="5000" DamageRate="2000" CriticalDamage="0" DamageReflect="0" PhysiSpeed="0" MagicSpeed="0" DoubleDamageRate="0" AddZenDrop="0" AddExpNormal="0" AddExpMaster="0" ExcDamageRate="0" ModelName="MajinBoo" />
+	<PetInfo Index="4" ItemIndex="6860" AddHP="5000" AddMP="5000" DamageRate="2000" CriticalDamage="0" DamageReflect="0" PhysiSpeed="0" MagicSpeed="0" DoubleDamageRate="0" AddZenDrop="0" AddExpNormal="0" AddExpMaster="0" ExcDamageRate="0" ModelName="Pet War" />
+	<PetInfo Index="5" ItemIndex="6861" AddHP="5000" AddMP="5000" DamageRate="2000" CriticalDamage="0" DamageReflect="0" PhysiSpeed="0" MagicSpeed="0" DoubleDamageRate="0" AddZenDrop="0" AddExpNormal="0" AddExpMaster="0" ExcDamageRate="0" ModelName="Fenrir Pro" />
+	<PetInfo Index="6" ItemIndex="6862" AddHP="5000" AddMP="5000" DamageRate="2000" CriticalDamage="0" DamageReflect="0" PhysiSpeed="0" MagicSpeed="0" DoubleDamageRate="0" AddZenDrop="0" AddExpNormal="0" AddExpMaster="0" ExcDamageRate="0" ModelName="Ice Dragon" />
+	<PetInfo Index="7" ItemIndex="6863" AddHP="5000" AddMP="5000" DamageRate="2000" CriticalDamage="0" DamageReflect="0" PhysiSpeed="0" MagicSpeed="0" DoubleDamageRate="0" AddZenDrop="0" AddExpNormal="0" AddExpMaster="0" ExcDamageRate="0" ModelName="Ice Dragon Rare" />
+	<PetInfo Index="8" ItemIndex="6864" AddHP="5000" AddMP="5000" DamageRate="5000" CriticalDamage="0" DamageReflect="0" PhysiSpeed="0" MagicSpeed="0" DoubleDamageRate="0" AddZenDrop="0" AddExpNormal="0" AddExpMaster="0" ExcDamageRate="0" ModelName="Pet Fighter" />
+    <PetInfo Index="9" ItemIndex="6865" AddHP="5000" AddMP="5000" DamageRate="5000" CriticalDamage="0" DamageReflect="0" PhysiSpeed="0" MagicSpeed="0" DoubleDamageRate="0" AddZenDrop="0" AddExpNormal="0" AddExpMaster="0" ExcDamageRate="0" ModelName="Horse Red" />
+	<PetInfo Index="10" ItemIndex="6866" AddHP="5000" AddMP="5000" DamageRate="5000" CriticalDamage="0" DamageReflect="0" PhysiSpeed="0" MagicSpeed="0" DoubleDamageRate="0" AddZenDrop="0" AddExpNormal="0" AddExpMaster="0" ExcDamageRate="0" ModelName="Custom Fenrir" />
+</CustomPet>
+
+<PetRecovery>
+    <Item Index="1" ItemType="12" ItemIndex="15" ItemLevel="0" AddDur="5"  MinDur="0"   MaxDur="255" />
+	<Item Index="2" ItemType="14" ItemIndex="13" ItemLevel="0" AddDur="10" MinDur="0"   MaxDur="50" />
+	<Item Index="3" ItemType="14" ItemIndex="14" ItemLevel="0" AddDur="15" MinDur="50"  MaxDur="150" />
+	<Item Index="4" ItemType="14" ItemIndex="14" ItemLevel="1" AddDur="20" MinDur="150" MaxDur="255" />
+</PetRecovery>

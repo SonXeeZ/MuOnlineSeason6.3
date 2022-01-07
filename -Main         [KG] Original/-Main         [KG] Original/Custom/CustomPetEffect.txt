@@ -1,0 +1,20 @@
+//=============================================================================
+//Type: Dinamic - 1; Statiac - 2; Skill - 3;
+//Size: Size of Effect in game
+//Timer: LargeRand for SkillEffect
+//Join(x): Posicion Effect in Model Pet
+//=============================================================================
+//Dynamic:
+//ItemIndex	Join	Type(1)	Effect	Size	Timer	ColorR	ColorG	ColorB
+//=============================================================================    
+
+//=============================================================================
+//Static:
+//ItemIndex	Join	Type(2)	Effect	Size	Timer	ColorR	ColorG	ColorB
+//=============================================================================   
+
+//=============================================================================
+//SkillEffect
+//ItemIndex	Join	Type(3)	Effect	Size	Timer	ColorR	ColorG	ColorB
+//=============================================================================  
+end

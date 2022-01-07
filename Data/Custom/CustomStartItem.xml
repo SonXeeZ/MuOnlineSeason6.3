@@ -1,0 +1,33 @@
+<StartItem StartSwitch_AL0="1" StartSwitch_AL1="1" StartSwitch_AL2="1" StartSwitch_AL3="1">
+    <!-- Create Item System (New Char)-->
+    <Item>
+	    <!-- Dark Wizard (0)-->
+	    <Char ClassChar="0" ItemType="7"  ItemIndex="3" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="0" ItemExc="1" ItemTime="7" />
+		<Char ClassChar="0" ItemType="8"  ItemIndex="3" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="0" ItemExc="1" ItemTime="7" />
+		<Char ClassChar="0" ItemType="9"  ItemIndex="3" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="0" ItemExc="1" ItemTime="7" />
+		<Char ClassChar="0" ItemType="10" ItemIndex="3" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="0" ItemExc="1" ItemTime="7" />
+		<Char ClassChar="0" ItemType="11" ItemIndex="3" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="0" ItemExc="1" ItemTime="7" />
+		<!-- Dark Knight (1)-->
+	    <Char ClassChar="1" ItemType="7"  ItemIndex="1" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="0" ItemExc="1" ItemTime="7" />
+		<Char ClassChar="1" ItemType="8"  ItemIndex="1" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="0" ItemExc="1" ItemTime="7" />
+		<Char ClassChar="1" ItemType="9"  ItemIndex="1" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="0" ItemExc="1" ItemTime="7" />
+		<Char ClassChar="1" ItemType="10" ItemIndex="1" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="0" ItemExc="1" ItemTime="7" />
+		<Char ClassChar="1" ItemType="11" ItemIndex="1" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="0" ItemExc="1" ItemTime="7" />
+		<!-- Dark Knight (2)-->
+		<!-- Magic Gladiator (3)-->
+		<!-- Dark Lord (4)-->
+		<!-- Blody Summoner (5)-->
+		<!-- Rage Fighter (6)-->
+	</Item>
+	<!-- Create Buff System (New Char)-->
+	<Buff>
+	    <!-- Dark Wizard -->
+	    <Char ClassChar="0" EffectID="29" Power1="30" Power2="0" BuffTime="2" />
+		<Char ClassChar="0" EffectID="44" Power1="30" Power2="0" BuffTime="2" />
+		<Char ClassChar="0" EffectID="45" Power1="30" Power2="0" BuffTime="2" />
+		<Char ClassChar="0" EffectID="46" Power1="30" Power2="0" BuffTime="2" />
+		<Char ClassChar="0" EffectID="47" Power1="30" Power2="0" BuffTime="2" />
+		<Char ClassChar="0" EffectID="48" Power1="30" Power2="0" BuffTime="2" />
+		<Char ClassChar="0" EffectID="49" Power1="30" Power2="0" BuffTime="2" />
+	</Buff>
+</StartItem>

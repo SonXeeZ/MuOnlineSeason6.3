@@ -1,0 +1,36 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+7	3	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Legendary Helm
+7	4	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Bone Helm
+15	0	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Poison
+15	1	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Meteorite
+15	2	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Lighting
+15	3	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Fire Ball
+8	3	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Legendary Armor
+8	4	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Bone Armor
+15	4	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Flame
+15	5	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Teleport
+15	6	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Ice
+15	7	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Twister
+9	3	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Legendary Pants
+9	4	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Bone Pants
+15	8	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Evil Spirit
+15	9	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Hellfire
+15	10	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Power Wave
+15	11	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Aqua Beam
+10	3	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Legendary Gloves
+10	4	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Bone Gloves
+15	12	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Cometfall
+15	13	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Inferno
+15	14	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Teleport Ally
+15	15	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Soul Barrier
+11	3	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Legendary Boots
+11	4	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Bone Boots
+15	16	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Decay
+15	17	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Ice Storm
+15	18	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Nova
+15	28	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Wizardry Enhance
+5	5	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Legendary Staff
+5	6	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Staff of Resurrection
+6	14	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Legendary Shield
+15	29	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Gigantic Storm
+end

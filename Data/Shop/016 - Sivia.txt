@@ -1,0 +1,9 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+12	3	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Wings of Spirits
+12	5	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Wings of Dragon
+12	4	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Wings of Soul
+12	49	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Cape of Fighter
+12	6	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Wings of Darkness
+12	41	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Wing of Curse
+13	30	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Cape of Lord
+end

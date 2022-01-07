@@ -1,0 +1,89 @@
+13:04:30 Could not connect to database
+13:10:28 [SocketManager] Server started at port [55960]
+13:10:33 [ServerManager][0] AddServer (127.0.0.1)
+13:10:33 [ServerManager][0] ServerInfo (MuEMU) (55901) (0)
+13:10:36 [ServerManager][1] AddServer (127.0.0.1)
+13:10:36 [ServerManager][1] ServerInfo (MuEMU) (55903) (5)
+13:10:39 [ServerManager][2] AddServer (127.0.0.1)
+13:10:39 [ServerManager][2] ServerInfo (MuEMU_CS) (55919) (19)
+13:23:21 UPDATE Character SET cLevel=1,Class=64,LevelUpPoint=0,Experience=0,Strength=26,Dexterity=20,Vitality=20,Energy=15,Leadership=25,Inventory=?,MagicList=?,Money=0,Life=90.000000,MaxLife=90.000000,Mana=40.000000,MaxMana=40.000000,BP=23.000000,MaxBP=23.000000,Shield=128.000000,MaxShield=128.000000,MapNumber=0,MapPosX=130,MapPosY=132,MapDir=0,PkCount=0,PkLevel=3,PkTime=0,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,Married=65535,MarryCouple='' WHERE AccountID='fasz' AND Name='OPLORD'
+13:23:21 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Married'.
+13:23:21 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'MarryCouple'.
+13:29:25 [SocketManager] Server started at port [55960]
+13:29:29 [ServerManager][0] AddServer (127.0.0.1)
+13:29:29 [ServerManager][0] ServerInfo (MuEMU) (55901) (0)
+13:29:32 [ServerManager][1] AddServer (127.0.0.1)
+13:29:32 [ServerManager][1] ServerInfo (MuEMU) (55903) (5)
+13:29:36 [ServerManager][2] AddServer (127.0.0.1)
+13:29:36 [ServerManager][2] ServerInfo (MuEMU_CS) (55919) (19)
+13:33:54 UPDATE Character SET cLevel=400,Class=18,LevelUpPoint=555,Experience=-472819216,Strength=64690,Dexterity=30000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=1782104502,Life=242890.000000,MaxLife=195877.000000,Mana=80868.000000,MaxMana=65220.000000,BP=100203.000000,MaxBP=100203.000000,Shield=288625.000000,MaxShield=288625.000000,MapNumber=2,MapPosX=225,MapPosY=229,MapDir=1,PkCount=0,PkLevel=3,PkTime=0,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=13,ExtInventory=2,Married=65535,MarryCouple='' WHERE AccountID='louismk' AND Name='LuisADM'
+13:33:54 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Married'.
+13:33:54 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'MarryCouple'.
+13:34:00 SELECT * FROM CustomNpcQuest WHERE Name='faszu' and Quest = 1
+13:34:00 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'CustomNpcQuest'.
+13:34:02 SELECT * FROM CustomNpcQuest WHERE Name='faszu' and Quest = 1
+13:34:02 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'CustomNpcQuest'.
+13:34:03 SELECT * FROM CustomNpcQuest WHERE Name='faszu' and Quest = 1
+13:34:03 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'CustomNpcQuest'.
+13:34:04 SELECT * FROM CustomNpcQuest WHERE Name='faszu' and Quest = 1
+13:34:04 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'CustomNpcQuest'.
+13:34:04 SELECT * FROM CustomNpcQuest WHERE Name='faszu' and Quest = 1
+13:34:04 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'CustomNpcQuest'.
+13:34:05 SELECT * FROM CustomNpcQuest WHERE Name='faszu' and Quest = 1
+13:34:05 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'CustomNpcQuest'.
+13:34:06 SELECT * FROM CustomNpcQuest WHERE Name='faszu' and Quest = 1
+13:34:06 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'CustomNpcQuest'.
+13:37:25 UPDATE Character SET cLevel=400,Class=18,LevelUpPoint=555,Experience=-472819216,Strength=64690,Dexterity=30000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=1782114502,Life=242904.000000,MaxLife=195891.000000,Mana=80872.000000,MaxMana=65224.000000,BP=100203.000000,MaxBP=100203.000000,Shield=289022.000000,MaxShield=289022.000000,MapNumber=0,MapPosX=140,MapPosY=124,MapDir=1,PkCount=0,PkLevel=3,PkTime=0,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=13,ExtInventory=2,Married=65535,MarryCouple='' WHERE AccountID='louismk' AND Name='LuisADM'
+13:37:25 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Married'.
+13:37:25 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'MarryCouple'.
+13:41:13 UPDATE Character SET cLevel=400,Class=18,LevelUpPoint=555,Experience=-472819216,Strength=64690,Dexterity=30000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=1782113002,Life=242892.000000,MaxLife=195891.000000,Mana=80872.000000,MaxMana=65224.000000,BP=100203.000000,MaxBP=100203.000000,Shield=289022.000000,MaxShield=289022.000000,MapNumber=51,MapPosX=47,MapPosY=244,MapDir=0,PkCount=0,PkLevel=3,PkTime=0,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=13,ExtInventory=2,Married=65535,MarryCouple='' WHERE AccountID='louismk' AND Name='LuisADM'
+13:41:13 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Married'.
+13:41:13 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'MarryCouple'.
+13:41:19 UPDATE Character SET cLevel=2,Class=16,LevelUpPoint=5,Experience=100,Strength=28,Dexterity=20,Vitality=25,Energy=10,Leadership=0,Inventory=?,MagicList=?,Money=0,Life=112.000000,MaxLife=112.000000,Mana=20.000000,MaxMana=20.000000,BP=25.000000,MaxBP=25.000000,Shield=102.000000,MaxShield=102.000000,MapNumber=0,MapPosX=181,MapPosY=127,MapDir=1,PkCount=0,PkLevel=3,PkTime=0,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,Married=65535,MarryCouple='' WHERE AccountID='fasz' AND Name='faszu'
+13:41:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Married'.
+13:41:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'MarryCouple'.
+13:42:01 UPDATE Character SET cLevel=400,Class=18,LevelUpPoint=555,Experience=-472819216,Strength=64690,Dexterity=30000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=1782113002,Life=242892.000000,MaxLife=195891.000000,Mana=80872.000000,MaxMana=65224.000000,BP=100203.000000,MaxBP=100203.000000,Shield=289022.000000,MaxShield=289022.000000,MapNumber=51,MapPosX=54,MapPosY=238,MapDir=3,PkCount=0,PkLevel=3,PkTime=0,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=13,ExtInventory=2,Married=65535,MarryCouple='' WHERE AccountID='louismk' AND Name='LuisADM'
+13:42:01 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Married'.
+13:42:01 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'MarryCouple'.
+13:42:47 UPDATE Character SET cLevel=12,Class=16,LevelUpPoint=55,Experience=24200,Strength=28,Dexterity=20,Vitality=25,Energy=10,Leadership=0,Inventory=?,MagicList=?,Money=1000,Life=132.000000,MaxLife=132.000000,Mana=25.000000,MaxMana=25.000000,BP=25.000000,MaxBP=25.000000,Shield=111.000000,MaxShield=111.000000,MapNumber=0,MapPosX=176,MapPosY=127,MapDir=3,PkCount=0,PkLevel=3,PkTime=0,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,Married=65535,MarryCouple='' WHERE AccountID='fasz' AND Name='faszu'
+13:42:47 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Married'.
+13:42:47 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'MarryCouple'.
+13:42:47 UPDATE Character SET cLevel=12,Class=16,LevelUpPoint=55,Experience=24200,Strength=28,Dexterity=20,Vitality=25,Energy=10,Leadership=0,Inventory=?,MagicList=?,Money=1000,Life=132.000000,MaxLife=132.000000,Mana=25.000000,MaxMana=25.000000,BP=25.000000,MaxBP=25.000000,Shield=111.000000,MaxShield=111.000000,MapNumber=0,MapPosX=176,MapPosY=127,MapDir=3,PkCount=0,PkLevel=3,PkTime=0,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,Married=65535,MarryCouple='' WHERE AccountID='fasz' AND Name='faszu'
+13:42:47 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Married'.
+13:42:47 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'MarryCouple'.
+13:45:34 [SocketManager] Server started at port [55960]
+13:45:38 [ServerManager][0] AddServer (127.0.0.1)
+13:45:38 [ServerManager][0] ServerInfo (MuEMU) (55901) (0)
+13:45:41 [ServerManager][1] AddServer (127.0.0.1)
+13:45:41 [ServerManager][1] ServerInfo (MuEMU) (55903) (5)
+13:45:44 [ServerManager][2] AddServer (127.0.0.1)
+13:45:44 [ServerManager][2] ServerInfo (MuEMU_CS) (55919) (19)
+13:46:19 UPDATE Character SET cLevel=56,Class=16,LevelUpPoint=125,Experience=1936000,Strength=5000,Dexterity=100,Vitality=25,Energy=10,Leadership=0,Inventory=?,MagicList=?,Money=19500,Life=220.000000,MaxLife=220.000000,Mana=47.000000,MaxMana=47.000000,BP=787.000000,MaxBP=787.000000,Shield=6387.000000,MaxShield=6387.000000,MapNumber=0,MapPosX=146,MapPosY=139,MapDir=1,PkCount=0,PkLevel=3,PkTime=0,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,Married=65535,MarryCouple='' WHERE AccountID='louismk3' AND Name='SuperLouis'
+13:46:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Married'.
+13:46:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'MarryCouple'.
+13:46:25 UPDATE Character SET cLevel=1,Class=16,LevelUpPoint=0,Experience=0,Strength=28,Dexterity=20,Vitality=25,Energy=10,Leadership=0,Inventory=?,MagicList=?,Money=0,Life=110.000000,MaxLife=110.000000,Mana=20.000000,MaxMana=20.000000,BP=25.000000,MaxBP=25.000000,Shield=102.000000,MaxShield=102.000000,MapNumber=0,MapPosX=136,MapPosY=125,MapDir=6,PkCount=0,PkLevel=3,PkTime=0,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,Married=65535,MarryCouple='' WHERE AccountID='SonXeeZ' AND Name='asdfasz'
+13:46:25 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Married'.
+13:46:25 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'MarryCouple'.
+13:46:46 UPDATE Character SET cLevel=12,Class=16,LevelUpPoint=55,Experience=24200,Strength=28,Dexterity=20,Vitality=25,Energy=10,Leadership=0,Inventory=?,MagicList=?,Money=36500,Life=132.000000,MaxLife=132.000000,Mana=25.000000,MaxMana=25.000000,BP=25.000000,MaxBP=25.000000,Shield=111.000000,MaxShield=111.000000,MapNumber=0,MapPosX=133,MapPosY=125,MapDir=2,PkCount=0,PkLevel=3,PkTime=0,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,Married=65535,MarryCouple='' WHERE AccountID='louismk4' AND Name='Conta4'
+13:46:46 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Married'.
+13:46:46 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'MarryCouple'.
+13:54:39 [SocketManager] Server started at port [55960]
+13:54:42 [ServerManager][0] AddServer (127.0.0.1)
+13:54:42 [ServerManager][0] ServerInfo (MuEMU) (55901) (0)
+13:54:46 [ServerManager][1] AddServer (127.0.0.1)
+13:54:46 [ServerManager][1] ServerInfo (MuEMU) (55903) (5)
+13:54:49 [ServerManager][2] AddServer (127.0.0.1)
+13:54:49 [ServerManager][2] ServerInfo (MuEMU_CS) (55919) (19)
+13:56:58 UPDATE Character SET cLevel=400,Class=50,LevelUpPoint=70,Experience=-472819216,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=1999829300,Life=151455.000000,MaxLife=130458.000000,Mana=151397.000000,MaxMana=130408.000000,BP=58550.000000,MaxBP=58500.000000,Shield=333814.000000,MaxShield=333814.000000,MapNumber=51,MapPosX=192,MapPosY=148,MapDir=0,PkCount=1,PkLevel=4,PkTime=1811,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,Married=65535,MarryCouple='' WHERE AccountID='louismk2' AND Name='MGTeste'
+13:56:58 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Married'.
+13:56:58 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'MarryCouple'.
+13:57:58 UPDATE Character SET cLevel=400,Class=50,LevelUpPoint=70,Experience=-472819216,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=1999817300,Life=146923.000000,MaxLife=130469.000000,Mana=151408.000000,MaxMana=130419.000000,BP=58550.000000,MaxBP=58500.000000,Shield=334410.000000,MaxShield=334410.000000,MapNumber=38,MapPosX=160,MapPosY=91,MapDir=4,PkCount=1,PkLevel=4,PkTime=3082,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,Married=65535,MarryCouple='' WHERE AccountID='louismk2' AND Name='MGTeste'
+13:57:58 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Married'.
+13:57:58 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'MarryCouple'.
+13:58:53 [SocketManager] Server started at port [55960]
+13:58:56 [ServerManager][0] AddServer (127.0.0.1)
+13:58:56 [ServerManager][0] ServerInfo (MuEMU) (55901) (0)
+13:59:00 [ServerManager][1] AddServer (127.0.0.1)
+13:59:00 [ServerManager][1] ServerInfo (MuEMU) (55903) (5)
+13:59:03 [ServerManager][2] AddServer (127.0.0.1)
+13:59:03 [ServerManager][2] ServerInfo (MuEMU_CS) (55919) (19)

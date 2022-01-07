@@ -1,0 +1,23 @@
+<CustomArena>
+    <CreateTime>
+	    <Load Index="0" Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="10" Second="0" />
+		<Load Index="1" Year="-1" Month="-1" Day="-1" DayOfWeek="7" Hour="17" Minute="00" Second="0" />
+		<Load Index="2" Year="-1" Month="-1" Day="-1" DayOfWeek="7" Hour="17" Minute="20" Second="0" />
+		<Load Index="3" Year="-1" Month="-1" Day="-1" DayOfWeek="7" Hour="17" Minute="40" Second="0" />
+		<Load Index="4" Year="-1" Month="-1" Day="-1" DayOfWeek="7" Hour="18" Minute="00" Second="0" />
+		<Load Index="5" Year="-1" Month="-1" Day="-1" DayOfWeek="7" Hour="18" Minute="20" Second="0" />
+		<Load Index="6" Year="-1" Month="-1" Day="-1" DayOfWeek="7" Hour="18" Minute="40" Second="0" />
+		<Load Index="7" Year="-1" Month="-1" Day="-1" DayOfWeek="7" Hour="19" Minute="00" Second="0" />
+	</CreateTime>
+	
+	<CreateArena>
+	    <Load Index="0" Name="SURVIVOR" AlarmTime="5" StandTime="0" EventTime="7" CloseTime="0" StartGate="450" FinalGate="1" MinUser="4" MaxUser="100" MaxDeath="-1" MinLevel="0" MaxLevel="400" MinMLevel="-1" MaxMLevel="-1" MinReset="85" MaxReset="-1" MinMReset="-1" MaxMReset="-1" DW="1" DK="1" FE="1" MG="1" DL="1" SU="1" RF="1" />
+		<Load Index="1" Name="DMxDM" AlarmTime="5" StandTime="0" EventTime="5" CloseTime="0" StartGate="451" FinalGate="1" MinUser="4" MaxUser="100" MaxDeath="-1" MinLevel="0" MaxLevel="400" MinMLevel="-1" MaxMLevel="-1" MinReset="-1" MaxReset="-1" MinMReset="-1" MaxMReset="-1"    DW="0" DK="0" FE="0" MG="1" DL="0" SU="0" RF="0" />
+        <Load Index="2" Name="GMxGM" AlarmTime="5" StandTime="0" EventTime="5" CloseTime="0" StartGate="452" FinalGate="1" MinUser="4" MaxUser="100" MaxDeath="-1" MinLevel="0" MaxLevel="400" MinMLevel="-1" MaxMLevel="-1" MinReset="-1" MaxReset="-1" MinMReset="-1" MaxMReset="-1"    DW="1" DK="0" FE="0" MG="0" DL="0" SU="0" RF="0" />
+        <Load Index="3" Name="BMxBM" AlarmTime="5" StandTime="0" EventTime="5" CloseTime="0" StartGate="453" FinalGate="1" MinUser="4" MaxUser="100" MaxDeath="-1" MinLevel="0" MaxLevel="400" MinMLevel="-1" MaxMLevel="-1" MinReset="-1" MaxReset="-1" MinMReset="-1" MaxMReset="-1"    DW="0" DK="1" FE="0" MG="0" DL="0" SU="0" RF="0" />
+        <Load Index="4" Name="FMxFM" AlarmTime="5" StandTime="0" EventTime="5" CloseTime="0" StartGate="454" FinalGate="1" MinUser="4" MaxUser="100" MaxDeath="-1" MinLevel="0" MaxLevel="400" MinMLevel="-1" MaxMLevel="-1" MinReset="-1" MaxReset="-1" MinMReset="-1" MaxMReset="-1"    DW="0" DK="0" FE="0" MG="0" DL="0" SU="0" RF="1" />
+        <Load Index="5" Name="LExLE" AlarmTime="5" StandTime="0" EventTime="5" CloseTime="0" StartGate="455" FinalGate="1" MinUser="4" MaxUser="100" MaxDeath="-1" MinLevel="0" MaxLevel="400" MinMLevel="-1" MaxMLevel="-1" MinReset="-1" MaxReset="-1" MinMReset="-1" MaxMReset="-1"    DW="0" DK="0" FE="0" MG="0" DL="1" SU="0" RF="0" />
+        <Load Index="6" Name="ELFxELF" AlarmTime="5" StandTime="0" EventTime="5" CloseTime="0" StartGate="456" FinalGate="1" MinUser="4" MaxUser="100" MaxDeath="-1" MinLevel="0" MaxLevel="400" MinMLevel="-1" MaxMLevel="-1" MinReset="-1" MaxReset="-1" MinMReset="-1" MaxMReset="-1"  DW="0" DK="0" FE="1" MG="0" DL="0" SU="0" RF="0" />
+        <Load Index="7" Name="SUMxSUM" AlarmTime="5" StandTime="0" EventTime="5" CloseTime="0" StartGate="457" FinalGate="1" MinUser="4" MaxUser="100" MaxDeath="-1" MinLevel="0" MaxLevel="400" MinMLevel="-1" MaxMLevel="-1" MinReset="-1" MaxReset="-1" MinMReset="-1" MaxMReset="-1"  DW="0" DK="0" FE="0" MG="0" DL="0" SU="1" RF="0" />
+	</CreateArena>
+</CustomArena>

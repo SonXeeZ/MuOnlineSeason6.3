@@ -1,0 +1,42 @@
+<RespawnLocation>
+    <Respawn>
+	    <Create Map="0"  MovGate="1" Gate="17"  /> <!--Lorencia-->
+		<Create Map="1"  MovGate="1" Gate="17"  /> <!--Dungeon-->
+		<Create Map="2"  MovGate="1" Gate="22"  /> <!--Devias-->
+		<Create Map="3"  MovGate="1" Gate="27"  /> <!--Noria-->
+		<Create Map="4"  MovGate="1" Gate="42"  /> <!--LostTower-->
+		<Create Map="6"  MovGate="0" Gate="-1"  /> <!--Lorencia-->
+		<Create Map="7"  MovGate="1" Gate="49"  /> <!--Stadium-->
+		<Create Map="8"  MovGate="1" Gate="57"  /> <!--Atlans-->
+		<Create Map="10" MovGate="1" Gate="22"  /> <!--Icarus-->
+		<Create Map="31" MovGate="1" Gate="106" /> <!--LandOfTrials-->
+		<Create Map="33" MovGate="1" Gate="119" /> <!--Aida-->
+		<Create Map="37" MovGate="1" Gate="138" /> <!--Kanturu1-->
+		<Create Map="38" MovGate="1" Gate="139" /> <!--Kanturu2-->
+		<Create Map="39" MovGate="1" Gate="137" /> <!--Kanturu3-->
+		<Create Map="40" MovGate="1" Gate="402" /> <!--Silent-->
+		<Create Map="41" MovGate="1" Gate="256" /> <!--Barraks-->
+		<Create Map="42" MovGate="1" Gate="256" /> <!--Refuge-->
+		<Create Map="51" MovGate="1" Gate="267" /> <!--Elbeland-->
+		<Create Map="56" MovGate="1" Gate="273" /> <!--SwampOfCalmness-->
+		<Create Map="57" MovGate="1" Gate="286" /> <!--Raklion-->
+		<Create Map="58" MovGate="1" Gate="286" /> <!--Raklion2-->
+		<Create Map="62" MovGate="1" Gate="22"  /> <!--SantaTown-->
+		<Create Map="63" MovGate="1" Gate="137" /> <!--Vulcanus-->
+		<Create Map="79" MovGate="1" Gate="333" /> <!--LorenMarket-->
+		<Create Map="80" MovGate="1" Gate="335" /> <!--Karutan1-->
+		<Create Map="81" MovGate="1" Gate="335" /> <!--Karutan2-->
+		<Create Map="83" MovGate="1" Gate="443" /> <!--Acheron-->
+		<Create Map="84" MovGate="1" Gate="452" /> <!--Debenter-->
+		<Create Map="85" MovGate="1" Gate="453" /> <!--Uruk-->
+		<Create Map="86" MovGate="1" Gate="454" /> <!--Ferea-->
+		<Create Map="87" MovGate="1" Gate="488" /> <!--Nars-->
+		<Create Map="88" MovGate="1" Gate="455" /> <!--NixiesLake-->
+		<Create Map="89" MovGate="1" Gate="456" /> <!--DeppDungeon1-->
+		<Create Map="90" MovGate="1" Gate="457" /> <!--DeppDungeon2-->
+		<Create Map="91" MovGate="1" Gate="458" /> <!--DeppDungeon3-->
+		<Create Map="94" MovGate="1" Gate="461" /> <!--ScotchCanyon-->
+		<Create Map="95" MovGate="1" Gate="460" /> <!--KuberaMine-->
+		<Create Map="96" MovGate="1" Gate="497" /> <!--ScotchCanyon-->
+	</Respawn>
+</RespawnLocation>

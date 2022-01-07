@@ -1,0 +1,2 @@
+//#ItemIndex - #EffectIndex - #EffectType - #ColorR - #ColorG - #ColorB
+end

@@ -1,0 +1,20 @@
+<CustomMix>
+    <System>
+	    <Config Index="108" MixMoney="1000" MixRate_AL0="5" MixRate_AL1="100" MixRate_AL2="100" MixRate_AL3="100" CountGroup="1" CountItem="4" />
+	</System>
+	
+	<JewelReq>
+	    <Jewel Index="108" ItemMix="6285" Level="2" Count="1" /> <!-- Jewel of Chaos -->
+		<Jewel Index="108" ItemMix="6174" Level="2" Count="1" /> <!-- Jewel of Bless -->
+		<Jewel Index="108" ItemMix="6175" Level="2" Count="1" /> <!-- Jewel of Soul -->
+		<Jewel Index="108" ItemMix="6281" Level="2" Count="1" /> <!-- Jewel of Creation -->
+	</JewelReq>
+	
+	<ItemReq>
+	    <Item Index="108" Group="0" Count="1" ItemIndexMin="4097" ItemIndexMax="4097" ItemLevel="15" Skill="0" Luck="1" MinAdicional="28" Excellent="1" ItemSetOption="0" />
+	</ItemReq>
+	
+	<ItemWin>
+	    <Item Index="108" Group="0" ItemIndexMin="6864" ItemIndexMax="6864" ItemLevel="0" Skill="0" Luck="0" Adicional="0" Excellent="0" ItemSetOption="*" />
+	</ItemWin>
+</CustomMix>

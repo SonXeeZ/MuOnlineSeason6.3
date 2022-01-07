@@ -1,0 +1,31 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+7	39	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Violent Wind Helm
+7	40	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Red Wing Helm
+7	41	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Ancient Helm
+5	21	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Book of Samut
+5	22	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Book of Neil
+8	39	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Violent Wind Armor
+8	40	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Red Wing Armor
+8	41	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Ancient Armor
+5	15	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Violent Wind Stick
+5	16	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Red Wing Stick
+9	39	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Violent Wind Pants
+9	40	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Red Wing Pants
+9	41	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Ancient Pants
+10	39	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Violent Wind Gloves
+10	40	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Red Wing Gloves
+10	41	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Ancient Gloves
+5	17	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Ancient Stick
+5	18	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Demonic Stick
+11	39	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Violent Wind Boots
+11	40	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Red Wing Boots
+11	41	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Ancient Boots
+15	19	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Chain Lightning Parchment
+15	20	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Drain Life Parchment
+15	21	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Lightning Shock Parchment
+15	22	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Damage Reflection Parchment
+15	23	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Berserker Parchment
+15	24	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Sleep Parchment
+15	26	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Weakness Parchment
+15	27	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Innovation Parchment
+end

@@ -1,0 +1,26 @@
+// 								FILES PREMIUN SYSTEM CUSTOM ITEM POSITION
+//===============================================================================================================
+// MasterCodex Season 6 - Mu Online
+// Developer: MasterCodex
+// Last review: 07.03.2020
+//===============================================================================================================
+// CustomPosition config file
+// ItemIndex -> max 1000 Item Position
+//===============================================================================================================
+//ItemIndex	TranslationX	TranslationY	RotationX	RotationY	RotationZ	Scale			Commnet
+	  0     0.01                    -0.02           -090.0          180.0           000.0           1.0
+        6805	0.01			-0.02		-090.0		180.0		000.0		1.0				//Steel of Heaven
+	6806	0.01			-0.02		-090.0		180.0		001.0		1.5				//Steel of Heaven
+	6807	-0.02			-0.07		-090.0		360.0		-015.0		1.0				//Steel of Heaven
+	6808	0.01			-0.02		-090.0		360.0		000.0		1.0				//Steel of Heaven
+	6809	0.01			-0.02		-090.0		360.0		000.0		1.0				//Steel of Heaven
+	6810	0.01			-0.02		-090.0		360.0		000.0		1.0				//Steel of Heaven
+	6811	0.01			-0.02		-090.0		360.0		000.0		1.0				//Steel of Heaven
+	6821	0.00			0.00		-090.0		180.0		0010.0		1.0				//Garuda's Feather
+	6823	0.00			-0.02		-090.0		180.0		000.0		1.0				//Golden Sentences
+	6829	0.00			0.05		000.0		360.0		000.0		1.8				//Cold Horn
+	6831	0.00			0.00		000.0		360.0		000.0		1.2				//Awakening Soul
+	6858	0.00			-0.22		270.0		000.0		000.0		1.0				//pet steel
+	6294	0.00			0.10		270.0		-10.0		000.0		1.0				//Wings of Chaos
+	6298	0.00			0.10		270.0		-10.0		000.0		1.0				//Wings of Angel and Devil
+end
