@@ -68,30 +68,30 @@
 	43	 "/pegapega"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//pegapega			- Start Run and Catch event
 	44	 "/queroir"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//queroir			- Go to Run and Catch event
 	45	 "/escesc"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//escesc			- Start Hide and Seek event
-	46   "/makeset"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//makeset <item> <level> <skill> <luck> <option> <exe> <set> <socket>
-	47   "/drop"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//drop <Group> <item> <level> <skill> <luck> <option> <exe> <set> <socket>
-	48   "/quest"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//quest				- Quest Command
+	46   "/makeset"		        	1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//makeset <item> <level> <skill> <luck> <option> <exe> <set> <socket>
+	47   "/drop"			        1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//drop <Group> <item> <level> <skill> <luck> <option> <exe> <set> <socket>
+	48   "/quest"			        1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//quest				- Quest Command
 	49	 "/presente"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//presente			- Gift command
 	50	 "/roletarussa"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//roletarussa			- Start Russian Roullete event
 	51	 "/top"				1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//top <type>			- Show top player 
 	52	 "/readd"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//readd				- ReAdd stats
 	53	 "/resp"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//resp	<msg>			- Quiz event 
-	54   "/pick"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//pick <type>			- Auto get itens
-	55   "/ajuda"			1	1	1	1			0	0	0	0			0	0	0	0			200	200	200	200			0	0	0	0			0	0	0	0		0	0		0	0	0	//ajuda				- Summon help
+	54   "/pick"			        1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//pick <type>			- Auto get itens
+	55   "/ajuda"			        1	1	1	1			0	0	0	0			0	0	0	0			200	200	200	200			0	0	0	0			0	0	0	0		0	0		0	0	0	//ajuda				- Summon help
 	56   "/remaster"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//remaster			- ReAdd Master Skill Tree
-	57   "/startbc"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//startbc			- Start Blood Castle event
-	58   "/startds"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//startds			- Start Devil Square event
-	59   "/startcc"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//startcc			- Start Chaos Castle event
-	60   "/startit"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//startit			- Start Illus.Temple event
-	61   "/offpvp"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//offpvp			- Disable Pvp
-	62   "/lock"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//lock <password>		- Block Itens Move
-	63   "/unlock"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//unlock <password>		- Desbloc Itens Move
-	64   "/store"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//store <type>			- Open Custom Store
+	57   "/startbc"			        1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//startbc			- Start Blood Castle event
+	58   "/startds"			        1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//startds			- Start Devil Square event
+	59   "/startcc"			        1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//startcc			- Start Chaos Castle event
+	60   "/startit"			        1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//startit			- Start Illus.Temple event
+	61   "/offpvp"			        1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//offpvp			- Disable Pvp
+	62   "/lock"			        1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//lock <password>		- Block Itens Move
+	63   "/unlock"			        1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//unlock <password>		- Desbloc Itens Move
+	64   "/store"			        1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//store <type>			- Open Custom Store
 	65   "/offstore"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//offstore			- Open Custom Store Offline
-	66   "/attack"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//attack <skill> <buff>		- Start Custom Attack
+	66   "/attack"		           	1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//attack <skill> <buff>		- Start Custom Attack
 	67   "/offattack"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//attack			- Start Custom Attack Offline
-	68   "/moveall"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//moveall <map><x><y>		- Move all players to ...
-	69   "/moveguild"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//moveguild <guild><map><x><y>	- Move all guild to ...
+	68   "/moveall"			        1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//moveall <map><x><y>		- Move all players to ...
+	69   "/moveguild"		     	1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//moveguild <guild><map><x><y>	- Move all guild to ...
 	70	 "/pvp"				1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//pvp				- Start PvP Event
 	71	 "/matamata"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//killall			- Start Kill All Event
 	72	 "/starttvt"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//starttvt				- Start Team vs Team Event
@@ -104,7 +104,7 @@
 	79	 "/startking"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//startking			- Start King of MU Event
 	80	 "/startinvasion"		1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//startinvasion	<index>		- Start Invasion
 	81	 "/startarena"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//startarena <index>		- Start Custom Arena
-	82   "/setpk"          1   1   1   1            0   0   0   0           0   0   0   0           0   0   0   0           0   0   0   0           0   0   0   0       0           1   0   0   0   //setpk <Player>
+	82   "/setpk"                           1       1       1       1                       0       0       0       0                       0       0       0       0                       0   0   0   0    0   0   0   0           0   0   0   0       0           1   0   0   0   //setpk <Player>
 	83   "/marry"          1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0       //marry <Player>
 	84   "/accept"         1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0       //acceptmarry <Player>
 	85   "/divorce"        1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0       //divorce <Player>
