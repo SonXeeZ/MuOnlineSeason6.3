@@ -1,12 +1,29 @@
-//Section   Type   Level   Dur   Skill   Luck   Option   Excellent
-7           5      0       0     0       1      1        0
-8           5      0       0     0       1      1        0
-9           5      0       0     0       1      1        0
-10          5      0       0     0       1      1        0
-11          5      0       0     0       1      1        0
-7           0      2       0     0       1      1        0
-8           0      2       0     0       1      1        0
-9           0      2       0     0       1      1        0
-10          0      2       0     0       1      1        0
-11          0      2       0     0       1      1        0
+//Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+7	25	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Light Plate Mask
+7	26	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Adamantine Mask
+7	27	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Dark Steel Mask
+2	12	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Great Lord Scepter
+2	13	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Divine Scepter
+8	25	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Light Plate Armor
+8	26	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Adamantine Armor
+8	27	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Dark Steel Armor
+2	11	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Lord Scepter
+2	10	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Great Scepter
+9	25	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Light Plate Pants
+9	26	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Adamantine Pants
+9	27	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Dark Steel Pants
+10	25	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Light Plate Gloves
+10	26	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Adamantine Gloves
+10	27	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Dark Steel Gloves
+6	7	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Spiked Shield
+11	25	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Light Plate Boots
+11	26	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Adamantine Boots
+11	27	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Dark Steel Boots
+6	5	15	255	1	1	7	63	0	0	0	255	255	255	255	255	//Dragon Slayer Shield
+12	21	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Scroll of FireBurst
+12	22	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Scroll of Summon
+12	23	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Scroll of Critical Damage
+12	24	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Scroll of Electric Spark
+12	35	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Scroll of Fire Scream
+12	48	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Scroll of Chaotic Diseier
 end
