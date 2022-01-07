@@ -7,7 +7,7 @@ end
 
 1
 //Index   Name                                 DropMap   DropX   DropY   DropRange   AlarmTime   EventTime
-0         "Drop de itens"                  	0         145     135     5           5           3
+0         "Lorencia Drop Event"                  	0         145     135     5           5           3
 end
 
 2
