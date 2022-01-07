@@ -17,5 +17,5 @@
 12	10	0	0	0	0	0	0  0 0 0 0 0 0 0 0  //Orb of Greater Damage
 12	11	0	0	0	0	0	0  0 0 0 0 0 0 0 0  //Orb of Summoning
 4	15	3	0	0	1	0	0  0 0 0 0 0 0 0 0  //Arrows
-4	7	3	0	0	1	0	0  0 0 0 0 0 0 0 0  //Bolt
+4	7	3	0	0	0	0	0  0 0 0 0 0 0 0 0  //Bolt
 end
