@@ -231,3 +231,6 @@
 16:27:38 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Married'.
 16:27:38 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'MarryCouple'.
 16:31:23 Could not connect to database
+16:36:06 Could not connect to database
+16:38:58 Could not connect to database
+16:40:49 Could not connect to database
