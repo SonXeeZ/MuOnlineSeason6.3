@@ -366,3 +366,25 @@
 17:26:59 [ReadBotInfo] BotSystem [alquimista] loaded successfully
 17:27:06 [ CRYWOLF ] SYNC Occupation: 0, State: 0
 17:36:01 [OnlineLoterry] No Winner
+17:44:07 [ServerInfo] CashShop loaded successfully
+17:44:07 [ServerInfo] ChaosMix loaded successfully
+17:44:07 [ServerInfo] Character loaded successfully
+17:44:07 [ServerInfo] Custom loaded successfully
+17:44:07 [ServerInfo] Command loaded successfully
+17:44:07 [ServerInfo] Event loaded successfully
+17:44:07 [ServerInfo] EventItemBag loaded successfully
+17:44:07 [ServerInfo] Hack loaded successfully
+17:44:07 [ServerInfo] Item loaded successfully
+17:44:07 [ServerInfo] Monster loaded successfully
+17:44:07 [ServerInfo] Move loaded successfully
+17:44:07 [ServerInfo] Quest loaded successfully
+17:44:07 [ServerInfo] Shop loaded successfully
+17:44:07 [ServerInfo] Skill loaded successfully
+17:44:07 [ServerInfo] Util loaded successfully
+17:44:07 [ReadBotInfo] BotSystem [buffer] loaded successfully
+17:44:07 [ReadBotInfo] BotSystem [alquimista] loaded successfully
+17:44:15 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+18:10:00 [CustomQuiz] Start
+18:13:00 [CustomQuiz] Finish
+18:36:01 [OnlineLoterry] No Winner
+18:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 164 Y: 15)

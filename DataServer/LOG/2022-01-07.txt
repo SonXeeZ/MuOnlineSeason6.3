@@ -392,3 +392,10 @@
 17:28:34 UPDATE Character SET cLevel=400,Class=2,LevelUpPoint=672,Experience=-472819216,Strength=200,Dexterity=5000,Vitality=100,Energy=5848,Leadership=0,Inventory=?,MagicList=?,Money=1999894600,Life=629.000000,MaxLife=629.000000,Mana=12494.000000,MaxMana=12494.000000,BP=3239.000000,MaxBP=3239.000000,Shield=24747.000000,MaxShield=24747.000000,MapNumber=0,MapPosX=137,MapPosY=123,MapDir=0,PkCount=0,PkLevel=3,PkTime=0,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,Married=65535,MarryCouple='' WHERE AccountID='louismk' AND Name='LouisSM'
 17:28:34 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Married'.
 17:28:34 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'MarryCouple'.
+17:44:03 [SocketManager] Server started at port [55960]
+17:44:06 [ServerManager][0] AddServer (127.0.0.1)
+17:44:06 [ServerManager][0] ServerInfo (MuEMU) (55901) (0)
+17:44:10 [ServerManager][1] AddServer (127.0.0.1)
+17:44:10 [ServerManager][1] ServerInfo (MuEMU) (55903) (5)
+17:44:13 [ServerManager][2] AddServer (127.0.0.1)
+17:44:13 [ServerManager][2] ServerInfo (MuEMU_CS) (55919) (19)

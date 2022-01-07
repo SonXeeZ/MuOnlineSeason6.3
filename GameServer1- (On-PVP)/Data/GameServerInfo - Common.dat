@@ -155,43 +155,43 @@ ElfBufferDefenseConstB = 3
 ;==================================================
 ; Experience Settings
 ;==================================================
-AddExperienceRate_AL0 = 500
-AddExperienceRate_AL1 = 500
-AddExperienceRate_AL2 = 500
-AddExperienceRate_AL3 = 500
-AddMasterExperienceRate_AL0 = 350
-AddMasterExperienceRate_AL1 = 350
-AddMasterExperienceRate_AL2 = 350
-AddMasterExperienceRate_AL3 = 350
+AddExperienceRate_AL0 = 250
+AddExperienceRate_AL1 = 250
+AddExperienceRate_AL2 = 250
+AddExperienceRate_AL3 = 250
+AddMasterExperienceRate_AL0 = 200
+AddMasterExperienceRate_AL1 = 200
+AddMasterExperienceRate_AL2 = 200
+AddMasterExperienceRate_AL3 = 200
 MinMasterExperienceMonsterLevel_AL0 = 1
 MinMasterExperienceMonsterLevel_AL1 = 1
 MinMasterExperienceMonsterLevel_AL2 = 1
 MinMasterExperienceMonsterLevel_AL3 = 1
-AddEventExperienceRate_AL0 = 500
-AddEventExperienceRate_AL1 = 500
-AddEventExperienceRate_AL2 = 500
-AddEventExperienceRate_AL3 = 500
-AddQuestExperienceRate_AL0 = 500
-AddQuestExperienceRate_AL1 = 500
-AddQuestExperienceRate_AL2 = 500
+AddEventExperienceRate_AL0 = 200
+AddEventExperienceRate_AL1 = 200
+AddEventExperienceRate_AL2 = 200
+AddEventExperienceRate_AL3 = 200
+AddQuestExperienceRate_AL0 = 200
+AddQuestExperienceRate_AL1 = 200
+AddQuestExperienceRate_AL2 = 200
 AddQuestExperienceRate_AL3 = 50
-OffAttackExperienceRate_AL0 = 300
-OffAttackExperienceRate_AL1 = 300
-OffAttackExperienceRate_AL2 = 300
-OffAttackExperienceRate_AL3 = 300
-AutoResetExperienceRate_AL0 = 200
-AutoResetExperienceRate_AL1 = 200
-AutoResetExperienceRate_AL2 = 200
-AutoResetExperienceRate_AL3 = 200
+OffAttackExperienceRate_AL0 = 100
+OffAttackExperienceRate_AL1 = 100
+OffAttackExperienceRate_AL2 = 100
+OffAttackExperienceRate_AL3 = 100
+AutoResetExperienceRate_AL0 = 100
+AutoResetExperienceRate_AL1 = 100
+AutoResetExperienceRate_AL2 = 100
+AutoResetExperienceRate_AL3 = 100
 
 ;==================================================
 ; Item Drop Settings
 ;==================================================
 ItemDropTime = 30
-ItemDropRate_AL0 = 30
-ItemDropRate_AL1 = 30
-ItemDropRate_AL2 = 30
-ItemDropRate_AL3 = 30
+ItemDropRate_AL0 = 20
+ItemDropRate_AL1 = 20
+ItemDropRate_AL2 = 20
+ItemDropRate_AL3 = 20
 
 ;==================================================
 ; Money Drop Settings
