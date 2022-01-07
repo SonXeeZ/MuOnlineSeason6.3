@@ -1,4 +1,4 @@
-//Section   Type   Level   Dur   Skill   Luck   Option   Excellent
+//Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5 
 7	0	2	0	1	1	1	0 //Bronze Helm
 8	0	2	0	1	1	1	0 //Bronze Armor
 9	0	2	0	1	1	1	0 //Bronze Pants
