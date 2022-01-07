@@ -1,0 +1,7 @@
+00:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 133 Y: 200)
+00:10:00 [CustomQuiz] Start
+00:13:00 [CustomQuiz] Finish
+00:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 198 Y: 93)
+00:16:38 [Obj][9002] AddClient (25.87.92.210)
+00:16:45 [Obj][9002] AddAccount (louismk)
+00:16:46 [Obj][9002] LogInCharacter (LuisADM)

@@ -1,0 +1,4 @@
+00:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 132 Y: 196)
+00:10:00 [CustomQuiz] Start
+00:13:00 [CustomQuiz] Finish
+00:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 62 Y: 202)

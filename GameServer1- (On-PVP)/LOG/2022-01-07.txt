@@ -1250,3 +1250,260 @@
 20:06:03 [Obj][9000] LogOutCharacter (LuisADM)
 20:06:03 [Obj][9000] DelAccount (louismk)
 20:06:03 [Obj][9000] DelClient (25.87.92.210)
+20:11:19 [ServerInfo] CashShop loaded successfully
+20:11:19 [ServerInfo] ChaosMix loaded successfully
+20:11:19 [ServerInfo] Character loaded successfully
+20:11:19 [ServerInfo] Custom loaded successfully
+20:11:19 [ServerInfo] Command loaded successfully
+20:11:19 [ServerInfo] Event loaded successfully
+20:11:19 [ServerInfo] EventItemBag loaded successfully
+20:11:19 [ServerInfo] Hack loaded successfully
+20:11:19 [ServerInfo] Item loaded successfully
+20:11:19 [ServerInfo] Monster loaded successfully
+20:11:19 [ServerInfo] Move loaded successfully
+20:11:19 [ServerInfo] Quest loaded successfully
+20:11:19 [ServerInfo] Shop loaded successfully
+20:11:19 [ServerInfo] Skill loaded successfully
+20:11:19 [ServerInfo] Util loaded successfully
+20:11:19 [ReadBotInfo] BotSystem [buffer] loaded successfully
+20:11:19 [ReadBotInfo] BotSystem [alquimista] loaded successfully
+20:11:30 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+20:11:35 [Obj][9000] AddClient (25.87.92.210)
+20:11:40 [Obj][9000] AddAccount (louismk)
+20:11:43 [Obj][9000] LogInCharacter (LuisADM)
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 83 Y: 236)
+20:16:33 [ServerInfo] CashShop loaded successfully
+20:16:33 [ServerInfo] ChaosMix loaded successfully
+20:16:33 [ServerInfo] Character loaded successfully
+20:16:33 [ServerInfo] Command loaded successfully
+20:16:33 [ServerInfo] Custom loaded successfully
+20:16:33 [ServerInfo] Event loaded successfully
+20:16:33 [ServerInfo] EventItemBag loaded successfully
+20:16:33 [ServerInfo] Hack loaded successfully
+20:16:33 [ServerInfo] Monster loaded successfully
+20:16:33 [ServerInfo] Move loaded successfully
+20:16:33 [ServerInfo] Quest loaded successfully
+20:16:33 [ServerInfo] Shop loaded successfully
+20:16:33 [ServerInfo] Skill loaded successfully
+20:16:33 [ServerInfo] Util loaded successfully
+20:16:33 [ReadBotInfo] BotSystem [buffer] loaded successfully
+20:16:33 [ReadBotInfo] BotSystem [alquimista] loaded successfully
+20:16:37 [Set Drop Start] At 20:18:00
+20:18:58 [ServerInfo] CashShop loaded successfully
+20:18:58 [ServerInfo] ChaosMix loaded successfully
+20:18:58 [ServerInfo] Character loaded successfully
+20:18:58 [ServerInfo] Command loaded successfully
+20:18:58 [ServerInfo] Custom loaded successfully
+20:18:58 [ServerInfo] Event loaded successfully
+20:18:58 [ServerInfo] EventItemBag loaded successfully
+20:18:58 [ServerInfo] Hack loaded successfully
+20:18:58 [ServerInfo] Monster loaded successfully
+20:18:58 [ServerInfo] Move loaded successfully
+20:18:58 [ServerInfo] Quest loaded successfully
+20:18:58 [ServerInfo] Shop loaded successfully
+20:18:58 [ServerInfo] Skill loaded successfully
+20:18:58 [ServerInfo] Util loaded successfully
+20:18:58 [ReadBotInfo] BotSystem [buffer] loaded successfully
+20:18:58 [ReadBotInfo] BotSystem [alquimista] loaded successfully
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 218 Y: 78)
+20:26:45 [louismk][LuisADM] BuyVip (Level: 3)
+20:26:45 [louismk][LuisADM] WZ_SetCoin(BuyVip) Val1: -20, Val2: 0, Val3: 0
+20:27:02 [ServerInfo] CashShop loaded successfully
+20:27:02 [ServerInfo] ChaosMix loaded successfully
+20:27:02 [ServerInfo] Character loaded successfully
+20:27:02 [ServerInfo] Command loaded successfully
+20:27:02 [ServerInfo] Custom loaded successfully
+20:27:02 [ServerInfo] Event loaded successfully
+20:27:02 [ServerInfo] EventItemBag loaded successfully
+20:27:02 [ServerInfo] Hack loaded successfully
+20:27:02 [ServerInfo] Monster loaded successfully
+20:27:02 [ServerInfo] Move loaded successfully
+20:27:02 [ServerInfo] Quest loaded successfully
+20:27:02 [ServerInfo] Shop loaded successfully
+20:27:02 [ServerInfo] Skill loaded successfully
+20:27:02 [ServerInfo] Util loaded successfully
+20:27:02 [ReadBotInfo] BotSystem [buffer] loaded successfully
+20:27:02 [ReadBotInfo] BotSystem [alquimista] loaded successfully
+20:27:51 [louismk][LuisADM] BuyVip (Level: 3)
+20:27:51 [louismk][LuisADM] WZ_SetCoin(BuyVip) Val1: -20, Val2: 0, Val3: 0
+20:27:53 [louismk][LuisADM] BuyVip (Level: 3)
+20:27:53 [louismk][LuisADM] WZ_SetCoin(BuyVip) Val1: -20, Val2: 0, Val3: 0
+20:27:53 [louismk][LuisADM] BuyVip (Level: 3)
+20:27:53 [louismk][LuisADM] WZ_SetCoin(BuyVip) Val1: -20, Val2: 0, Val3: 0
+20:27:54 [louismk][LuisADM] BuyVip (Level: 3)
+20:27:54 [louismk][LuisADM] WZ_SetCoin(BuyVip) Val1: -20, Val2: 0, Val3: 0
+20:27:55 [louismk][LuisADM] BuyVip (Level: 3)
+20:27:55 [louismk][LuisADM] WZ_SetCoin(BuyVip) Val1: -20, Val2: 0, Val3: 0
+20:27:56 [louismk][LuisADM] BuyVip (Level: 3)
+20:27:56 [louismk][LuisADM] WZ_SetCoin(BuyVip) Val1: -20, Val2: 0, Val3: 0
+20:27:57 [louismk][LuisADM] BuyVip (Level: 3)
+20:27:57 [louismk][LuisADM] WZ_SetCoin(BuyVip) Val1: -20, Val2: 0, Val3: 0
+20:27:58 [louismk][LuisADM] BuyVip (Level: 3)
+20:27:58 [louismk][LuisADM] WZ_SetCoin(BuyVip) Val1: -20, Val2: 0, Val3: 0
+20:27:59 [louismk][LuisADM] BuyVip (Level: 3)
+20:27:59 [louismk][LuisADM] WZ_SetCoin(BuyVip) Val1: -20, Val2: 0, Val3: 0
+20:28:00 [louismk][LuisADM] BuyVip (Level: 3)
+20:28:00 [louismk][LuisADM] WZ_SetCoin(BuyVip) Val1: -20, Val2: 0, Val3: 0
+20:28:01 [louismk][LuisADM] BuyVip (Level: 3)
+20:28:01 [louismk][LuisADM] WZ_SetCoin(BuyVip) Val1: -20, Val2: 0, Val3: 0
+20:28:01 [louismk][LuisADM] BuyVip (Level: 3)
+20:28:01 [louismk][LuisADM] WZ_SetCoin(BuyVip) Val1: -20, Val2: 0, Val3: 0
+20:28:02 [louismk][LuisADM] BuyVip (Level: 3)
+20:28:02 [louismk][LuisADM] WZ_SetCoin(BuyVip) Val1: -20, Val2: 0, Val3: 0
+20:28:02 [louismk][LuisADM] BuyVip (Level: 3)
+20:28:02 [louismk][LuisADM] WZ_SetCoin(BuyVip) Val1: -20, Val2: 0, Val3: 0
+20:28:03 [louismk][LuisADM] BuyVip (Level: 3)
+20:28:03 [louismk][LuisADM] WZ_SetCoin(BuyVip) Val1: -20, Val2: 0, Val3: 0
+20:31:03 [louismk][LuisADM] WZ_SetCoin(CustomQuest) Val1: 0, Val2: 0, Val3: 0
+20:31:03 [CustomNpcQuest][louismk][LuisADM] - (NpcQuest 0: Completed)
+20:36:01 [OnlineLoterry] No Winner
+20:38:01 [Obj][9000] LogOutCharacter (LuisADM)
+20:38:01 [Obj][9000] DelAccount (louismk)
+20:38:01 [Obj][9000] DelClient (25.87.92.210)
+20:38:10 [Obj][9001] AddClient (25.87.92.210)
+20:38:13 [Obj][9001] DelClient (25.87.92.210)
+20:38:16 [Obj][9000] AddClient (25.87.92.210)
+20:38:26 [Obj][9000] AddAccount (louismk)
+20:38:28 [Obj][9000] LogInCharacter (LuisADM)
+20:45:08 [Obj][9000] LogOutCharacter (LuisADM)
+20:45:08 [Obj][9000] DelAccount (louismk)
+20:45:08 [Obj][9000] DelClient (25.87.92.210)
+20:45:14 [ServerInfo] CashShop loaded successfully
+20:45:14 [ServerInfo] ChaosMix loaded successfully
+20:45:14 [ServerInfo] Character loaded successfully
+20:45:14 [ServerInfo] Custom loaded successfully
+20:45:14 [ServerInfo] Command loaded successfully
+20:45:14 [ServerInfo] Event loaded successfully
+20:45:14 [ServerInfo] EventItemBag loaded successfully
+20:45:14 [ServerInfo] Hack loaded successfully
+20:45:14 [ServerInfo] Item loaded successfully
+20:45:14 [ServerInfo] Monster loaded successfully
+20:45:14 [ServerInfo] Move loaded successfully
+20:45:14 [ServerInfo] Quest loaded successfully
+20:45:14 [ServerInfo] Shop loaded successfully
+20:45:14 [ServerInfo] Skill loaded successfully
+20:45:14 [ServerInfo] Util loaded successfully
+20:45:14 [ReadBotInfo] BotSystem [buffer] loaded successfully
+20:45:14 [ReadBotInfo] BotSystem [alquimista] loaded successfully
+20:45:25 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+20:45:45 [Obj][9000] AddClient (25.87.92.210)
+20:45:50 [Obj][9000] DelClient (25.87.92.210)
+20:46:11 [Obj][9000] AddClient (25.87.92.210)
+20:46:13 [Obj][9000] DelClient (25.87.92.210)
+20:46:13 [Obj][9001] AddClient (25.1.116.186)
+20:46:25 [Obj][9001] DelClient (25.1.116.186)
+20:47:45 [Obj][9000] AddClient (25.87.92.210)
+20:47:53 [Obj][9000] AddAccount (louismk)
+20:47:55 [Obj][9000] LogInCharacter (LuisADM)
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 165 Y: 23)
+20:50:27 [Obj][9001] AddClient (25.1.116.186)
+20:50:30 [Obj][9001] AddAccount (SonXeeZ)
+20:50:32 [Obj][9001] DelAccount (SonXeeZ)
+20:50:32 [Obj][9001] DelClient (25.1.116.186)
+20:51:16 [Obj][9000] LogOutCharacter (LuisADM)
+20:51:16 [Obj][9000] DelAccount (louismk)
+20:51:16 [Obj][9000] DelClient (25.87.92.210)
+20:52:26 [ServerInfo] CashShop loaded successfully
+20:52:26 [ServerInfo] ChaosMix loaded successfully
+20:52:26 [ServerInfo] Character loaded successfully
+20:52:26 [ServerInfo] Custom loaded successfully
+20:52:26 [ServerInfo] Command loaded successfully
+20:52:26 [ServerInfo] Event loaded successfully
+20:52:26 [ServerInfo] EventItemBag loaded successfully
+20:52:26 [ServerInfo] Hack loaded successfully
+20:52:26 [ServerInfo] Item loaded successfully
+20:52:26 [ServerInfo] Monster loaded successfully
+20:52:26 [ServerInfo] Move loaded successfully
+20:52:26 [ServerInfo] Quest loaded successfully
+20:52:26 [ServerInfo] Shop loaded successfully
+20:52:26 [ServerInfo] Skill loaded successfully
+20:52:26 [ServerInfo] Util loaded successfully
+20:52:26 [ReadBotInfo] BotSystem [buffer] loaded successfully
+20:52:26 [ReadBotInfo] BotSystem [alquimista] loaded successfully
+20:52:37 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+20:52:53 [Obj][9000] AddClient (25.87.92.210)
+20:53:03 [Obj][9001] AddClient (25.1.116.186)
+20:53:03 [Obj][9000] AddAccount (louismk)
+20:53:04 [Obj][9000] LogInCharacter (LuisADM)
+20:53:07 [Obj][9001] DelClient (25.1.116.186)
+20:53:12 [Obj][9002] AddClient (25.1.116.186)
+20:53:14 [Obj][9002] DelClient (25.1.116.186)
+20:54:34 [Obj][9000] LogOutCharacter (LuisADM)
+20:54:34 [Obj][9000] DelAccount (louismk)
+20:54:34 [Obj][9000] DelClient (25.87.92.210)
+20:55:00 [Obj][9001] AddClient (25.1.116.186)
+20:55:03 [Obj][9001] AddAccount (SonXeeZ)
+20:55:15 [Obj][9001] LogInCharacter (40fps)
+20:55:54 [Obj][9001] LogOutCharacter (40fps)
+20:55:54 [Obj][9001] DelAccount (SonXeeZ)
+20:55:54 [Obj][9001] DelClient (25.1.116.186)
+20:56:28 [Obj][9002] AddClient (25.1.116.186)
+20:56:31 [Obj][9002] AddAccount (SonXeeZ)
+20:56:32 [Obj][9002] LogInCharacter (40fps)
+20:57:03 [Obj][9000] AddClient (25.87.92.210)
+20:57:07 [Obj][9000] AddAccount (louismk)
+20:57:09 [Obj][9000] LogInCharacter (LuisADM)
+20:59:41 [Obj][9002] LogOutCharacter (40fps)
+20:59:41 [Obj][9002] DelAccount (SonXeeZ)
+20:59:41 [Obj][9002] DelClient (25.1.116.186)
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 51 Y: 104)
+21:00:28 [Obj][9001] AddClient (25.1.116.186)
+21:00:31 [Obj][9001] AddAccount (SonXeeZ)
+21:00:32 [Obj][9001] LogInCharacter (40fps)
+21:01:18 [Obj][9001] LogOutCharacter (40fps)
+21:01:18 [Obj][9001] DelAccount (SonXeeZ)
+21:01:18 [Obj][9001] DelClient (25.1.116.186)
+21:01:54 [Obj][9000] LogOutCharacter (LuisADM)
+21:01:54 [Obj][9000] DelAccount (louismk)
+21:01:54 [Obj][9000] DelClient (25.87.92.210)
+21:02:14 [Obj][9002] AddClient (25.87.92.210)
+21:02:19 [Obj][9002] AddAccount (louismk)
+21:02:20 [Obj][9002] LogInCharacter (LuisADM)
+21:02:51 [Obj][9001] AddClient (25.1.116.186)
+21:02:54 [Obj][9001] AddAccount (SonXeeZ)
+21:02:56 [Obj][9001] LogInCharacter (40fps)
+21:04:52 [Obj][9000] AddClient (25.1.116.186)
+21:04:56 [Obj][9000] DelClient (25.1.116.186)
+21:05:26 [Obj][9000] AddClient (25.1.116.186)
+21:05:29 [Obj][9001] LogOutCharacter (40fps)
+21:05:29 [Obj][9001] DelAccount (SonXeeZ)
+21:05:29 [Obj][9001] DelClient (25.1.116.186)
+21:05:32 [Obj][9000] AddAccount (SonXeeZ)
+21:05:34 [Obj][9000] LogInCharacter (40fps)
+21:05:37 [Obj][9000] LogOutCharacter (40fps)
+21:05:37 [Obj][9000] DelAccount (SonXeeZ)
+21:05:37 [Obj][9000] DelClient (25.1.116.186)
+21:07:18 [Obj][9001] AddClient (25.1.116.186)
+21:07:21 [Obj][9001] AddAccount (SonXeeZ)
+21:07:22 [Obj][9001] LogInCharacter (40fps)
+21:07:53 [Obj][9002] LogOutCharacter (LuisADM)
+21:07:53 [Obj][9002] DelAccount (louismk)
+21:07:53 [Obj][9002] DelClient (25.87.92.210)
+21:10:00 [CustomQuiz] Start
+21:13:00 [CustomQuiz] Finish
+21:18:09 [Obj][9000] AddClient (25.87.92.210)
+21:18:17 [Obj][9000] AddAccount (louismk)
+21:18:22 [Obj][9000] LogInCharacter (Testeee)
+21:18:47 [Obj][9000] LogOutCharacter (Testeee)
+21:35:21 [Obj][9000] LogInCharacter (LuisADM)
+21:36:01 [OnlineLoterry] Add Member (LuisADM)
+21:36:01 [OnlineLoterry] Add Member (40fps)
+21:36:01 [OnlineLoterry] Winner (40fps)
+21:36:01 [SonXeeZ][40fps] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+22:05:00 [KING OF MU] Start
+22:10:00 [CustomQuiz] Start
+22:13:00 [CustomQuiz] Finish
+22:35:00 [KING OF MU] Finish - No Winner
+22:36:02 [OnlineLoterry] Add Member (LuisADM)
+22:36:02 [OnlineLoterry] Add Member (40fps)
+22:36:02 [OnlineLoterry] Winner (40fps)
+22:36:02 [SonXeeZ][40fps] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+22:50:00 [Invasion Manager] Index(7) Boss Position (Map: 0 X: 153 Y: 59)
+23:10:00 [CustomQuiz] Start
+23:13:00 [CustomQuiz] Finish
+23:32:25 [Obj][9000] LogOutCharacter (LuisADM)
+23:32:25 [Obj][9000] DelAccount (louismk)
+23:32:25 [Obj][9000] DelClient (25.87.92.210)
+23:36:01 [OnlineLoterry] Add Member (40fps)
+23:36:01 [OnlineLoterry] Winner (40fps)
+23:36:01 [SonXeeZ][40fps] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
