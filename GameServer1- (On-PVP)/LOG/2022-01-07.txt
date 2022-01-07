@@ -1149,3 +1149,38 @@
 19:29:31 [ CRYWOLF ] SYNC Occupation: 0, State: 0
 19:29:40 [Obj][9000] AddAccount (louismk)
 19:29:41 [Obj][9000] LogInCharacter (LuisADM)
+19:32:24 [ServerInfo] Command loaded successfully
+19:36:01 [OnlineLoterry] Add Member (LuisADM)
+19:36:01 [OnlineLoterry] Winner (LuisADM)
+19:36:01 [louismk][LuisADM] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+19:36:48 [Obj][9000] LogOutCharacter (LuisADM)
+19:37:09 [Obj][9000] DelAccount (louismk)
+19:37:09 [Obj][9000] DelClient (25.87.92.210)
+19:37:23 [ServerInfo] CashShop loaded successfully
+19:37:23 [ServerInfo] ChaosMix loaded successfully
+19:37:23 [ServerInfo] Character loaded successfully
+19:37:23 [ServerInfo] Custom loaded successfully
+19:37:23 [ServerInfo] Command loaded successfully
+19:37:24 [ServerInfo] Event loaded successfully
+19:37:24 [ServerInfo] EventItemBag loaded successfully
+19:37:24 [ServerInfo] Hack loaded successfully
+19:37:24 [ServerInfo] Item loaded successfully
+19:37:24 [ServerInfo] Monster loaded successfully
+19:37:24 [ServerInfo] Move loaded successfully
+19:37:24 [ServerInfo] Quest loaded successfully
+19:37:24 [ServerInfo] Shop loaded successfully
+19:37:24 [ServerInfo] Skill loaded successfully
+19:37:24 [ServerInfo] Util loaded successfully
+19:37:24 [ReadBotInfo] BotSystem [buffer] loaded successfully
+19:37:24 [ReadBotInfo] BotSystem [alquimista] loaded successfully
+19:37:35 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+19:37:43 [Obj][9000] AddClient (25.87.92.210)
+19:37:50 [Obj][9000] AddAccount (louismk)
+19:37:52 [Obj][9000] LogInCharacter (KmmR)
+19:38:07 [Obj][9000] LogOutCharacter (KmmR)
+19:38:08 [Obj][9000] LogInCharacter (LuisADM)
+19:38:18 [Obj][9000] LogOutCharacter (LuisADM)
+19:38:21 [Obj][9000] LogInCharacter (KmmR)
+19:38:46 [Obj][9000] LogOutCharacter (KmmR)
+19:38:48 [Obj][9000] LogInCharacter (LouisSM)
+19:38:58 [Obj][9000] LogOutCharacter (LouisSM)
