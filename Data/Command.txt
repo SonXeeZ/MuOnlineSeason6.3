@@ -23,7 +23,7 @@
 //      #Index	#Command	#Enable->	AL0	AL1	AL2	AL3	#Money->	AL0	AL1	AL2	AL3	#MinLevel->	AL0	AL1	AL2	AL3	#MaxLevel->	AL0	AL1	AL2	AL3	#MinReset->	AL0	AL1	AL2	AL3	 #MaxReset->	AL0	AL1	AL2	AL3		#Delay	#GameMaster	#WC	#WP	#GP	#Description
 //==================================================================================================================================================================================================================================================================================================================================================================================================================================
 	0        "/move"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//move <Map> 			- Move to a map
-	1        "/post"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//Post <Msg>			- Post a message in global chat
+	1        "/post"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		5	0		0	0	0	//Post <Msg>			- Post a message in global chat
 	2        "/s"				1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//s <points>			- Add points in Str
 	3        "/a"				1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//a <points>			- Add points in Agi
 	4        "/v"				1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//v <points>			- Add points in Vit
@@ -35,7 +35,7 @@
 	10       "/bau"				1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//bau <num>			- Change warehouse
 	11       "/reset"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//reset |auto|			- Reset character
 	12       "/gmmove"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//gmmove <Name> <Map> <X> <Y>	- Move a player
-	13       "/gmpost"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//gmpost <Msg>			- Send global message
+	13       "/gmpost"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//gmpost <Msg>			- Send global message
 	14       "/track"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//track <Name> 			- Go to player
 	15       "/trace"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//trace <Name>			- Bring a player
 	16       "/disconnect"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//disconnect <Name>		- Disconnect Player
