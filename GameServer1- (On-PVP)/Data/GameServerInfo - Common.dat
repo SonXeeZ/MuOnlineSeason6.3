@@ -155,62 +155,62 @@ ElfBufferDefenseConstB = 3
 ;==================================================
 ; Experience Settings
 ;==================================================
-AddExperienceRate_AL0 = 9999
-AddExperienceRate_AL1 = 9999
-AddExperienceRate_AL2 = 9999
-AddExperienceRate_AL3 = 9999
-AddMasterExperienceRate_AL0 = 10000
-AddMasterExperienceRate_AL1 = 10000
-AddMasterExperienceRate_AL2 = 10000
-AddMasterExperienceRate_AL3 = 10000
+AddExperienceRate_AL0 = 500
+AddExperienceRate_AL1 = 500
+AddExperienceRate_AL2 = 500
+AddExperienceRate_AL3 = 500
+AddMasterExperienceRate_AL0 = 350
+AddMasterExperienceRate_AL1 = 350
+AddMasterExperienceRate_AL2 = 350
+AddMasterExperienceRate_AL3 = 350
 MinMasterExperienceMonsterLevel_AL0 = 1
 MinMasterExperienceMonsterLevel_AL1 = 1
 MinMasterExperienceMonsterLevel_AL2 = 1
 MinMasterExperienceMonsterLevel_AL3 = 1
-AddEventExperienceRate_AL0 = 1000
-AddEventExperienceRate_AL1 = 1000
-AddEventExperienceRate_AL2 = 1000
-AddEventExperienceRate_AL3 = 1000
-AddQuestExperienceRate_AL0 = 1000
-AddQuestExperienceRate_AL1 = 1000
-AddQuestExperienceRate_AL2 = 1000
-AddQuestExperienceRate_AL3 = 1000
-OffAttackExperienceRate_AL0 = 1000
-OffAttackExperienceRate_AL1 = 1000
-OffAttackExperienceRate_AL2 = 1000
-OffAttackExperienceRate_AL3 = 1000
-AutoResetExperienceRate_AL0 = 1000
-AutoResetExperienceRate_AL1 = 1000
-AutoResetExperienceRate_AL2 = 1000
-AutoResetExperienceRate_AL3 = 1000
+AddEventExperienceRate_AL0 = 500
+AddEventExperienceRate_AL1 = 500
+AddEventExperienceRate_AL2 = 500
+AddEventExperienceRate_AL3 = 500
+AddQuestExperienceRate_AL0 = 500
+AddQuestExperienceRate_AL1 = 500
+AddQuestExperienceRate_AL2 = 500
+AddQuestExperienceRate_AL3 = 50
+OffAttackExperienceRate_AL0 = 300
+OffAttackExperienceRate_AL1 = 300
+OffAttackExperienceRate_AL2 = 300
+OffAttackExperienceRate_AL3 = 300
+AutoResetExperienceRate_AL0 = 200
+AutoResetExperienceRate_AL1 = 200
+AutoResetExperienceRate_AL2 = 200
+AutoResetExperienceRate_AL3 = 200
 
 ;==================================================
 ; Item Drop Settings
 ;==================================================
 ItemDropTime = 30
-ItemDropRate_AL0 = 50
-ItemDropRate_AL1 = 60
-ItemDropRate_AL2 = 70
-ItemDropRate_AL3 = 75
+ItemDropRate_AL0 = 30
+ItemDropRate_AL1 = 30
+ItemDropRate_AL2 = 30
+ItemDropRate_AL3 = 30
 
 ;==================================================
 ; Money Drop Settings
 ;==================================================
 MoneyDropTime = 30
-MoneyAmountDropRate_AL0 = 50
-MoneyAmountDropRate_AL1 = 50
-MoneyAmountDropRate_AL2 = 50
-MoneyAmountDropRate_AL3 = 50
+MoneyAmountDropRate_AL0 = 30
+MoneyAmountDropRate_AL1 = 30
+MoneyAmountDropRate_AL2 = 30
+MoneyAmountDropRate_AL3 = 30
 
 ;==================================================
 ; Advanced Money Drop Settings
 ; If > 0 enable the system
 ; Money Drop = (MoneyValue*MonterLevel) + % ItemBonus
 ;==================================================
-MoneyValue_AL0 = 1000
-MoneyValue_AL1 = 1000
-MoneyValue_AL2 = 1000
-MoneyValue_AL3 = 1000
+MoneyValue_AL0 = 300
+MoneyValue_AL1 = 300
+MoneyValue_AL2 = 300
+MoneyValue_AL3 = 300
 
 ;==================================================
 ; Item Durability Settings
@@ -243,12 +243,12 @@ MaxStatPoint_AL0 = 65000
 MaxStatPoint_AL1 = 65000
 MaxStatPoint_AL2 = 65000
 MaxStatPoint_AL3 = 65000
-DWLevelUpPoint = 5
-DKLevelUpPoint = 5
-FELevelUpPoint = 5
+DWLevelUpPoint = 6
+DKLevelUpPoint = 6
+FELevelUpPoint = 6
 MGLevelUpPoint = 7
 DLLevelUpPoint = 7
-SULevelUpPoint = 5
+SULevelUpPoint = 6
 RFLevelUpPoint = 7
 PlusStatPoint = 1
 
@@ -441,10 +441,10 @@ TransformationRing6 = 41
 ;==================================================
 ; Jewel Settings
 ;==================================================
-SoulSuccessRate_AL0 = 100
-SoulSuccessRate_AL1 = 100
-SoulSuccessRate_AL2 = 100
-SoulSuccessRate_AL3 = 100
+SoulSuccessRate_AL0 = 60
+SoulSuccessRate_AL1 = 60
+SoulSuccessRate_AL2 = 60
+SoulSuccessRate_AL3 = 60
 LifeSuccessRate_AL0 = 50
 LifeSuccessRate_AL1 = 50
 LifeSuccessRate_AL2 = 50

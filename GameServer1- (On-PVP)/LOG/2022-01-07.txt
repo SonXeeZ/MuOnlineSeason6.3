@@ -210,3 +210,45 @@
 14:01:30 [Obj][9000] LogOutCharacter (Testeee)
 14:01:30 [Obj][9000] DelAccount (louismk)
 14:01:30 [Obj][9000] DelClient (25.87.92.210)
+14:11:22 [ServerInfo] CashShop loaded successfully
+14:11:22 [ServerInfo] ChaosMix loaded successfully
+14:11:22 [ServerInfo] Character loaded successfully
+14:11:22 [ServerInfo] Custom loaded successfully
+14:11:22 [ServerInfo] Command loaded successfully
+14:11:22 [ServerInfo] Event loaded successfully
+14:11:22 [ServerInfo] EventItemBag loaded successfully
+14:11:22 [ServerInfo] Hack loaded successfully
+14:11:22 [ServerInfo] Item loaded successfully
+14:11:22 [ServerInfo] Monster loaded successfully
+14:11:22 [ServerInfo] Move loaded successfully
+14:11:22 [ServerInfo] Quest loaded successfully
+14:11:22 [ServerInfo] Shop loaded successfully
+14:11:22 [ServerInfo] Skill loaded successfully
+14:11:22 [ServerInfo] Util loaded successfully
+14:11:22 [ReadBotInfo] BotSystem [buffer] loaded successfully
+14:11:22 [ReadBotInfo] BotSystem [alquimista] loaded successfully
+14:11:28 [ServerInfo] CashShop loaded successfully
+14:11:28 [ServerInfo] ChaosMix loaded successfully
+14:11:28 [ServerInfo] Character loaded successfully
+14:11:28 [ServerInfo] Custom loaded successfully
+14:11:28 [ServerInfo] Command loaded successfully
+14:11:28 [ServerInfo] Event loaded successfully
+14:11:28 [ServerInfo] EventItemBag loaded successfully
+14:11:28 [ServerInfo] Hack loaded successfully
+14:11:28 [ServerInfo] Item loaded successfully
+14:11:28 [ServerInfo] Monster loaded successfully
+14:11:28 [ServerInfo] Move loaded successfully
+14:11:28 [ServerInfo] Quest loaded successfully
+14:11:28 [ServerInfo] Shop loaded successfully
+14:11:28 [ServerInfo] Skill loaded successfully
+14:11:28 [ServerInfo] Util loaded successfully
+14:11:28 [ReadBotInfo] BotSystem [buffer] loaded successfully
+14:11:28 [ReadBotInfo] BotSystem [alquimista] loaded successfully
+14:11:39 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+14:12:05 [Obj][9000] AddClient (25.87.92.210)
+14:12:12 [Obj][9000] AddAccount (louismk2)
+14:12:13 [Obj][9000] LogInCharacter (MGTeste)
+14:18:45 [ServerInfo] Monster loaded successfully
+14:26:06 [Obj][9000] LogOutCharacter (MGTeste)
+14:26:06 [Obj][9000] DelAccount (louismk2)
+14:26:06 [Obj][9000] DelClient (25.87.92.210)
