@@ -3,7 +3,7 @@
   <Process Run="True" Delay="1000" Path="G:\Muonline Szerver Fileok\season 6\-MuServer [KG] Original\MuOnlineSeason6.3\ConnectServer\ConnectServer.exe" Parameters="" />
   <Process Run="True" Delay="1000" Path="G:\Muonline Szerver Fileok\season 6\-MuServer [KG] Original\MuOnlineSeason6.3\DataServer\DataServer.exe" Parameters="" />
   <Process Run="True" Delay="1000" Path="G:\Muonline Szerver Fileok\season 6\-MuServer [KG] Original\MuOnlineSeason6.3\GameServer1- (On-PVP)\GameServer(PVP).exe" Parameters="" />
-  <Process Run="True" Delay="1000" Path="G:\Muonline Szerver Fileok\season 6\-MuServer [KG] Original\MuOnlineSeason6.3\GameServer2- (Non-PVP)\GameServer(NO-PVP).exe" Parameters="" />
-  <Process Run="True" Delay="1000" Path="G:\Muonline Szerver Fileok\season 6\-MuServer [KG] Original\MuOnlineSeason6.3\GameServer3- (CastleSiege)\GameServer(CS).exe" Parameters="" />
+  <Process Run="False" Delay="1000" Path="G:\Muonline Szerver Fileok\season 6\-MuServer [KG] Original\MuOnlineSeason6.3\GameServer2- (Non-PVP)\GameServer(NO-PVP).exe" Parameters="" />
+  <Process Run="False" Delay="1000" Path="G:\Muonline Szerver Fileok\season 6\-MuServer [KG] Original\MuOnlineSeason6.3\GameServer3- (CastleSiege)\GameServer(CS).exe" Parameters="" />
   <Process Run="True" Delay="1000" Path="G:\Muonline Szerver Fileok\season 6\-MuServer [KG] Original\MuOnlineSeason6.3\JoinServer\JoinServer.exe" Parameters="" />
 </Processes>

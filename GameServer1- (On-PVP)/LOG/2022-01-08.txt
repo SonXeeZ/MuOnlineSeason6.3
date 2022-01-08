@@ -5,3 +5,171 @@
 00:16:38 [Obj][9002] AddClient (25.87.92.210)
 00:16:45 [Obj][9002] AddAccount (louismk)
 00:16:46 [Obj][9002] LogInCharacter (LuisADM)
+00:24:37 [ServerInfo] Shop loaded successfully
+00:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 59 Y: 132)
+00:27:35 [ServerInfo] Shop loaded successfully
+00:31:10 [ServerInfo] Shop loaded successfully
+00:33:24 [ServerInfo] Shop loaded successfully
+00:35:41 [ServerInfo] Shop loaded successfully
+00:36:01 [OnlineLoterry] Add Member (40fps)
+00:36:01 [OnlineLoterry] Winner (40fps)
+00:36:01 [SonXeeZ][40fps] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+00:36:29 [ServerInfo] Shop loaded successfully
+00:45:28 [ServerInfo] Shop loaded successfully
+00:47:16 [ServerInfo] Shop loaded successfully
+00:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 154 Y: 55)
+00:53:05 [Obj][9002] LogOutCharacter (LuisADM)
+00:53:05 [Obj][9002] DelAccount (louismk)
+00:53:05 [Obj][9002] DelClient (25.87.92.210)
+00:54:43 [Obj][9000] AddClient (25.87.92.210)
+00:54:43 [Obj][9000] AddAccount (louismk)
+00:54:43 [Obj][9000] LogInCharacter (LuisADM)
+00:56:44 [ServerInfo] CashShop loaded successfully
+00:56:44 [ServerInfo] ChaosMix loaded successfully
+00:56:44 [ServerInfo] Character loaded successfully
+00:56:44 [ServerInfo] Command loaded successfully
+00:56:44 [ServerInfo] Custom loaded successfully
+00:56:44 [ServerInfo] Event loaded successfully
+00:56:44 [ServerInfo] EventItemBag loaded successfully
+00:56:44 [ServerInfo] Hack loaded successfully
+00:56:44 [ServerInfo] Monster loaded successfully
+00:56:44 [ServerInfo] Move loaded successfully
+00:56:44 [ServerInfo] Quest loaded successfully
+00:56:44 [ServerInfo] Shop loaded successfully
+00:56:44 [ServerInfo] Skill loaded successfully
+00:56:44 [ServerInfo] Util loaded successfully
+00:56:44 [ReadBotInfo] BotSystem [buffer] loaded successfully
+00:56:44 [ReadBotInfo] BotSystem [alquimista] loaded successfully
+01:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 132 Y: 162)
+01:10:00 [CustomQuiz] Start
+01:13:00 [CustomQuiz] Finish
+01:34:15 [Obj][9001] LogOutCharacter (40fps)
+01:34:15 [Obj][9001] DelAccount (SonXeeZ)
+01:34:15 [Obj][9001] DelClient (25.1.116.186)
+01:34:16 [Obj][9002] AddClient (25.1.116.186)
+01:34:28 [Obj][9000] LogOutCharacter (LuisADM)
+01:34:28 [Obj][9000] DelAccount (louismk)
+01:34:28 [Obj][9000] DelClient (25.87.92.210)
+01:34:29 [Obj][9002] AddAccount (louismk)
+01:34:31 [Obj][9002] LogInCharacter (LuisADM)
+01:36:01 [OnlineLoterry] Add Member (LuisADM)
+01:36:01 [OnlineLoterry] Winner (LuisADM)
+01:36:01 [louismk][LuisADM] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+01:37:18 [ServerInfo] CashShop loaded successfully
+01:37:18 [ServerInfo] ChaosMix loaded successfully
+01:37:18 [ServerInfo] Character loaded successfully
+01:37:18 [ServerInfo] Command loaded successfully
+01:37:18 [ServerInfo] Custom loaded successfully
+01:37:18 [ServerInfo] Event loaded successfully
+01:37:18 [ServerInfo] EventItemBag loaded successfully
+01:37:18 [ServerInfo] Hack loaded successfully
+01:37:18 [ServerInfo] Monster loaded successfully
+01:37:18 [ServerInfo] Move loaded successfully
+01:37:18 [ServerInfo] Quest loaded successfully
+01:37:18 [ServerInfo] Shop loaded successfully
+01:37:18 [ServerInfo] Skill loaded successfully
+01:37:18 [ServerInfo] Util loaded successfully
+01:37:18 [ReadBotInfo] BotSystem [buffer] loaded successfully
+01:37:18 [ReadBotInfo] BotSystem [alquimista] loaded successfully
+01:39:51 [Obj][9002] LogOutCharacter (LuisADM)
+01:39:51 [Obj][9002] DelAccount (louismk)
+01:39:51 [Obj][9002] DelClient (25.1.116.186)
+01:39:58 [Obj][9001] AddClient (25.1.116.186)
+01:40:05 [Obj][9001] AddAccount (louismk)
+01:40:08 [Obj][9001] LogInCharacter (LuisADM)
+01:40:29 [Obj][9001] LogOutCharacter (LuisADM)
+01:40:29 [Obj][9001] DelAccount (louismk)
+01:40:29 [Obj][9001] DelClient (25.1.116.186)
+01:42:07 [Obj][9000] AddClient (25.1.116.186)
+01:42:14 [Obj][9000] AddAccount (louismk)
+01:42:16 [Obj][9000] LogInCharacter (LuisADM)
+01:44:30 [Obj][9000] LogOutCharacter (LuisADM)
+01:44:30 [Obj][9000] DelAccount (louismk)
+01:44:30 [Obj][9000] DelClient (25.1.116.186)
+01:44:31 [Obj][9002] AddClient (25.1.116.186)
+01:44:36 [Obj][9002] AddAccount (louismk)
+01:44:37 [Obj][9002] LogInCharacter (LuisADM)
+01:45:05 [Obj][9002] LogOutCharacter (LuisADM)
+01:45:05 [Obj][9002] DelAccount (louismk)
+01:45:05 [Obj][9002] DelClient (25.1.116.186)
+01:45:35 [ServerInfo] CashShop loaded successfully
+01:45:35 [ServerInfo] ChaosMix loaded successfully
+01:45:35 [ServerInfo] Character loaded successfully
+01:45:35 [ServerInfo] Command loaded successfully
+01:45:35 [ServerInfo] Custom loaded successfully
+01:45:35 [ServerInfo] Event loaded successfully
+01:45:35 [ServerInfo] EventItemBag loaded successfully
+01:45:35 [ServerInfo] Hack loaded successfully
+01:45:35 [ServerInfo] Monster loaded successfully
+01:45:35 [ServerInfo] Move loaded successfully
+01:45:35 [ServerInfo] Quest loaded successfully
+01:45:35 [ServerInfo] Shop loaded successfully
+01:45:35 [ServerInfo] Skill loaded successfully
+01:45:35 [ServerInfo] Util loaded successfully
+01:45:35 [ReadBotInfo] BotSystem [buffer] loaded successfully
+01:45:35 [ReadBotInfo] BotSystem [alquimista] loaded successfully
+01:45:52 [Obj][9001] AddClient (25.1.116.186)
+01:45:56 [Obj][9001] AddAccount (louismk)
+01:45:57 [Obj][9001] LogInCharacter (LuisADM)
+01:49:41 [Obj][9001] LogOutCharacter (LuisADM)
+01:49:41 [Obj][9001] DelAccount (louismk)
+01:49:41 [Obj][9001] DelClient (25.1.116.186)
+01:49:54 [Obj][9000] AddClient (25.1.116.186)
+01:49:58 [Obj][9000] AddAccount (louismk)
+01:49:59 [Obj][9000] LogInCharacter (LuisADM)
+01:49:59 [Obj][9000] LogOutCharacter (LuisADM)
+01:49:59 [Obj][9000] DelAccount (louismk)
+01:49:59 [Obj][9000] DelClient (25.1.116.186)
+01:50:14 [Obj][9002] AddClient (25.1.116.186)
+01:50:18 [Obj][9002] AddAccount (louismk)
+01:50:20 [Obj][9002] LogInCharacter (KmmR)
+01:50:20 [Obj][9002] LogOutCharacter (KmmR)
+01:50:20 [Obj][9002] DelAccount (louismk)
+01:50:20 [Obj][9002] DelClient (25.1.116.186)
+01:50:35 [ServerInfo] CashShop loaded successfully
+01:50:35 [ServerInfo] ChaosMix loaded successfully
+01:50:36 [ServerInfo] Character loaded successfully
+01:50:36 [ServerInfo] Custom loaded successfully
+01:50:36 [ServerInfo] Command loaded successfully
+01:50:36 [ServerInfo] Event loaded successfully
+01:50:36 [ServerInfo] EventItemBag loaded successfully
+01:50:36 [ServerInfo] Hack loaded successfully
+01:50:36 [ServerInfo] Item loaded successfully
+01:50:36 [ServerInfo] Monster loaded successfully
+01:50:36 [ServerInfo] Move loaded successfully
+01:50:36 [ServerInfo] Quest loaded successfully
+01:50:36 [ServerInfo] Shop loaded successfully
+01:50:36 [ServerInfo] Skill loaded successfully
+01:50:36 [ServerInfo] Util loaded successfully
+01:50:36 [ReadBotInfo] BotSystem [buffer] loaded successfully
+01:50:36 [ReadBotInfo] BotSystem [alquimista] loaded successfully
+01:51:01 [Obj][9000] AddClient (25.87.92.210)
+01:51:10 [Obj][9000] AddAccount (louismk)
+01:51:12 [Obj][9000] LogInCharacter (LuisADM)
+01:51:34 [Obj][9000] LogOutCharacter (LuisADM)
+01:51:34 [Obj][9000] DelAccount (louismk)
+01:51:34 [Obj][9000] DelClient (25.87.92.210)
+01:51:43 [Obj][9001] AddClient (25.1.116.186)
+01:51:49 [Obj][9001] AddAccount (louismk)
+01:51:50 [Obj][9001] LogInCharacter (LuisADM)
+01:51:50 [Obj][9001] LogOutCharacter (LuisADM)
+01:51:50 [Obj][9001] DelAccount (louismk)
+01:51:50 [Obj][9001] DelClient (25.1.116.186)
+01:53:41 [Obj][9000] AddClient (25.1.116.186)
+01:53:45 [Obj][9000] AddAccount (louismk)
+01:53:47 [Obj][9000] LogInCharacter (LuisADM)
+01:59:05 [Obj][9000] LogOutCharacter (LuisADM)
+01:59:05 [Obj][9000] DelAccount (louismk)
+01:59:05 [Obj][9000] DelClient (25.1.116.186)
+01:59:19 [Obj][9001] AddClient (25.1.116.186)
+01:59:25 [Obj][9001] AddAccount (louismk)
+01:59:26 [Obj][9001] LogInCharacter (LuisADM)
+02:02:16 [Obj][9001] LogOutCharacter (LuisADM)
+02:02:16 [Obj][9001] DelAccount (louismk)
+02:02:16 [Obj][9001] DelClient (25.1.116.186)
+02:02:34 [ServerInfo] Custom loaded successfully
+02:02:36 [Obj][9000] AddClient (25.1.116.186)
+02:02:41 [Obj][9000] AddAccount (louismk)
+02:02:43 [Obj][9000] LogInCharacter (LuisADM)
+02:10:00 [CustomQuiz] Start
+02:13:00 [CustomQuiz] Finish

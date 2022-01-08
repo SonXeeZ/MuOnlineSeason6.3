@@ -2,3 +2,10 @@
 00:10:00 [CustomQuiz] Start
 00:13:00 [CustomQuiz] Finish
 00:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 62 Y: 202)
+00:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 38 Y: 130)
+00:36:01 [OnlineLoterry] No Winner
+00:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 163 Y: 51)
+01:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 180 Y: 116)
+01:10:00 [CustomQuiz] Start
+01:13:00 [CustomQuiz] Finish
+01:36:01 [OnlineLoterry] No Winner
