@@ -618,7 +618,7 @@ end
 141      *      0       1       1        1            0            0          "Bundled Jewel of Chaos"             12      0         0            0          0           0             0              0               0          1       1       1       1       1       1       1
 142      *      0       1       1        1            0            0          "Bundled Lower Refining Stone"       25      0         0            0          0           0             0              0               0          1       1       1       1       1       1       1
 143      *      0       1       1        1            0            0          "Bundled Higer Refining Stone"       25      0         0            0          0           0             0              0               0          1       1       1       1       1       1       1
-200      7      0       3       2        1            0            0          "Wing200"              1       10        200          1          0           0             0              0               0          1       0       0       1       0       0       0
+200      7      0       3       2        1            0            0          "Wing200"       				       1       10        200          1          0           0             0              0               0          1       0       0       1       0       0       0
 end
 
 13
